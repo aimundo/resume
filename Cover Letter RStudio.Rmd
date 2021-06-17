@@ -1,0 +1,20 @@
+---
+name: Ariel Mundo
+phone: +1 479 800 8714
+www: aimundo.rbind.io
+email: "aimundo@uark.edu"
+date: "`r format(Sys.time(), '%B %Y')`"
+output: vitae::moderncv
+params:
+  date: !r Sys.Date()
+---
+
+
+# Dear Hiring Manager at RStudio,
+
+I am currently a Graduate Research Assistant training to get my PhD in Biomedical Engineering at the University of Arkansas. I think it might seem weird that I am sending this letter to RStudio, as Biomedical Engineering is not a field one commonly associates with your company. Allow me to provide a little context here: All my life, I *hated* Statistics. I suffered enough in College with my Stats classes, and until the first year of my PhD (where I was required to take a Statistics class) I saw Statistics as a necessary evil, something I had to deal with but that was secondary to my PhD work. All of that changed the day I sat on the computer to take a complete look at some data I had been collecting for months (you can find the details of such data [here](https://www.spiedigitallibrary.org/journals/journal-of-biomedical-optics/volume-25/issue-3/035002/Diffuse-reflectance-spectroscopy-to-monitor-murine-colorectal-tumor-progression-and/10.1117/1.JBO.25.3.035002.full?SSO=1)). 
+
+The data I was looking at on my computer was "wiggly". I had no idea of how to analyze such data because it did not look like any of the examples I had seen in my Stats class. One day when walking on Campus I noticed a flyer in a building door that said that the Geosciences Department would offer a Statistical Analysis class focused on the use of R. I was curious and ended up enrolling in the class. From the moment I opened my first session in RStudio, my life changed.
+
+Using R made me realize that I did not like 
+
