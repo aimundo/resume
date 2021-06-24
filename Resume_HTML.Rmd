@@ -1,0 +1,192 @@
+---
+title: "Ariel Mundo resume"
+author: Ariel Mundo
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    css:
+      - style.css
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+#knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+![Lijia Yu](https://avatars1.githubusercontent.com/u/895125?s=400&v=4){width=80%}
+Last updated on `r Sys.Date()`.
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> aimundo@uark.com
+- <i class="fa fa-github"></i> [github.com/aimundo](https://github.com/aimundo)
+- <i class="fa fa-phone"></i> +1 479-800-8714
+- For more information, please contact me via email.
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Statistical analysis: Semi-parametric statistics, hypothesis testing
+
+- Data visualization, simulation using R: **tidyverse, mgcv, ggplot2**
+
+- Technical writing using **RMarkdown, Bookdown** and LaTeX
+
+- Project management and collaboration using GitHub
+
+- Extensive experience conducting animal experiments (mice): daily checks, therapy, endoscopic procedures
+
+- Proficiency using MATLAB for spectral analysis (diffuse reflectance spectroscopy)
+
+- Molecular biology: RT-qPCR primer design and validation, RT-qPCR data processing
+
+- Languages: Spanish (native), English (complete professional proficiency)
+
+
+
+Main
+================================================================================
+
+Ariel Mundo {#title}
+--------------------------------------------------------------------------------
+
+### Currently searching for a postdoc position
+
+I will finish my PhD in the summer of 2022 and currently, I am looking for postdoc 
+or industry opportunities.
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### University of Arkansas, Fayetteville
+
+PhD in Biomedical Engineering
+
+Fayetteville, AR, US
+
+_Expected_ 2022
+
+
+
+### Universidad Rafael Landivar
+
+B.S. in Chemical Engineering
+
+Guatemala, Guatemala
+
+2009
+
+
+Research Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Graduate Research Assistant
+
+Department of Biomedical Engineering, University of Arkansas
+
+Fayetteville, AR, US
+
+2017 - Present
+
+- Conducting biomedical research in oncology (colorectal cancer) in animal models using optics and molecular biology (diffuse reflectance spectroscopy, RT-qPCR)
+- Technical writing of academic papers, conference presentations, and student mentoring
+
+
+### Bioinformatican
+
+My Health Gene Technology Co., Ltd.
+
+Beijing, China
+
+2015 - 2016
+
+- Investigated how cancer cells spread to other parts of the body at the single cell level.
+
+### Visiting Scientist
+
+University of Alabama at Birmingham
+
+AL, USA
+
+2016 - 2018
+
+- Investigated the role of mitochondria in development of cancer.
+- Investigated the evolution of genome architecture and its role in important evolutionary events.
+- Detected thrombotic thrombocytopenic purpura related mutations in mutiple patients' blood genome.
+  
+
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Data Scientist, intern
+
+SupStat Inc.
+
+Beijing, China
+
+2014
+
+::: concise
+- Taught R language to beginners. 
+- Wrote Shiny app demos.
+- Converted statistical tutorials from SPSS to R language.
+:::
+
+### Bioinformatician
+
+My Health Gene Technology Co., Ltd.
+
+Beijing, China
+
+2015 - 2016
+
+::: concise
+- Analyzed whole-exome sequencing data. 
+- Wrote analysis pipelines of ChIP-seq, single cell DNA-seq and single cell RNA-seq.
+- Studied tumor metastasis and wrote research reports. 
+- Also did case studies to identify the genetic defect causing rare disease.
+:::
+
+
+Teaching Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Biomedical Instrumentation
+
+Laboratory instructor the course in the spring of 2021. Prepared laboratory practices,
+checked supplies inventory and graded lab reports
+
+Fayetteville, AR, US
+
+2021
+
+### Computational Biology and Bioinformatics.
+
+
+
+Selected Publications and Posters {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Using generalized additive models to analyze biomedical non-linear longitudinal data
+
+Paper that presents generalized additive models as a suitable alternative to analyze longitudinal data using R.
+
+2021
+
+**Yu L**, Chen B, Zhang Z.
+
+### ESCRT-0 complex modulates Rbf mutant cell survival by regulating Rhomboid endosomal trafficking and EGFR signaling.
+
+J Cell Sci. 2016 May 15;129(10):2075-84.
+
+N/A
+
+2016 
+
+Sheng Z, **Yu L**, Zhang T, Pei X, Li X, Zhang Z and Du W. 
