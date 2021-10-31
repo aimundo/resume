@@ -1,0 +1,87 @@
+---
+output: stevetemplates::cv
+geometry: margin=0.5in
+
+title: "Resume"
+author: Ariel Mundo
+
+jobtitle: "Graduate Research Assistant"
+address: "Department of Biomedical Engineering · University of Arkansas · Fayetteville, AR"
+fontawesome: yes
+email: aimundo@uark.edu
+github: aimundo
+twitter: amundortiz
+#osf: "Enter 5 digit osf string here"
+phone: "+1 479 800 8714"
+web: aimundo.rbind.io
+updated: yes
+
+keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 10pt
+linkcolor: blue
+urlcolor: blue
+---
+# Skills
+
+- Molecular biology (RT-qpCR) and optics (Diffuse Reflectance Spectroscopy)
+- Ample experience performing animal studies
+- Statistics: Experimental design, Semi-parametric statistics and hypothesis testing in longitudinal studies
+- Reproducible technical writing using **RMarkdown, Bookdown** and LaTeX
+- Languages: Spanish (native), English (complete professional proficiency)
+
+# Education
+
+*University of Arkansas*, PhD. Biomedical Engineering \hfill Expected 2022
+
+*Universidad Rafael Landivar (Guatemala)*, B.S. Chemical Engineering (cum laude) \hfill 2009
+
+# Employment
+
+**University of Arkansas**
+
+_Graduate Research Assistant_ (University of Arkansas, Fayetteville, AR) \hfill 2017-Present
+
+- Conducting biomedical research in oncology in animal models using optics and molecular biology
+- Technical writing of academic papers, conference presentations, and student mentoring
+
+**Universidad Rafael Landivar**
+
+_Teaching Assistant Professor_  \hfill 2016-2017
+
+- Professor of Chemistry at the Environmental and Agricultural Sciences Department
+- Prepared lectures, supervised labs, mentored students, wrote lab manuals
+
+_Adjunct Professor_ \hfill 2013-2017
+
+- Taught Introductory Chemistry in the Engineering, Environmental and Agricultural, and Health Sciences Departments
+
+**Lacteos Balcanicos Glad**
+
+_Assistant Plant Engineer_ \hfill 2012
+
+- In charge of the production of the main product (yogurt, $\approx$ 3000 L per week)
+
+# Awards and Recognition
+
+_Fulbright Faculty Development Scholarship_ \hfill 2017-2019
+
+Only two scholarships awarded for that period in the whole country
+
+_OMNI Endowed International Scholarship_ \hfill 2020
+
+Granted as a scholar fulfilling the mission of the OMNI Center in Fayetteville
+
+ _Professional Awareness, Advancement, and Development (PADD) Scholar_ \hfill 2020-2021
+ 
+ Received funding and participated in the PAAD program to supplement my graduate education in persuasive speaking, commercialization, and data science.
+
+# Grants
+
+_Arkansas Biosciences Institute 2021 seed grant competition _ \hfill 2021
+
+Main author on a proposal submitted with my advisor to examine gene expression and optically derived markers in a mouse model of colorectal cancer ($30,000 in funding). _Proposal scored in the top 2 of all the individual research projects for the cycle_.
+
+
