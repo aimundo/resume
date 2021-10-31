@@ -1,0 +1,111 @@
+---
+output: stevetemplates::cv
+geometry: margin=0.5in
+
+title: "Resume"
+author: Ariel Mundo
+
+jobtitle: "Graduate Research Assistant"
+address: "Department of Biomedical Engineering · University of Arkansas · Fayetteville, AR"
+fontawesome: yes
+email: aimundo@uark.edu
+github: aimundo
+# twitter: stevenvmiller
+#osf: "Enter 5 digit osf string here"
+phone: "+1 479 800 8714"
+web: aimundo.rbind.io
+updated: yes
+
+keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 10pt
+linkcolor: blue
+urlcolor: blue
+---
+
+# Employment
+
+**University of Arkansas**
+
+_Graduate Research Assistant_ (University of Arkansas, Fayetteville, AR) \hfill 2017-Present
+
+- Conducting biomedical research in oncology in animal models using optics and molecular biology
+- Technical writing of academic papers, conference presentations, and student mentoring
+
+**Universidad Rafael Landivar**
+
+_Teaching Assistant Professor_  \hfill 2016-2017
+
+- Professor of Chemistry at the Environmental and Agricultural Sciences Department
+- Prepared lectures, supervised labs, mentored students, wrote lab manuals
+
+_Adjunct Professor_ \hfill 2013-2017
+
+- Taught Introductory Chemistry in the Engineering, Environmental and Agricultural, and Health Sciences Departments
+
+**Lacteos Balcanicos Glad**
+
+_Assistant Plant Engineer_ \hfill 2012
+
+- In charge of the production of the main product (yogurt, $\approx$ 3000 L per week)
+
+# Education
+
+*University of Arkansas*, PhD. Biomedical Engineering \hfill Expected 2022
+
+*Universidad Rafael Landivar (Guatemala)*, B.S. Chemical Engineering (cum laude) \hfill 2009
+
+
+# Publications
+## Journal Articles
+
+**Mundo, Ariel I.**, John R. Tipton, and Timothy J. Muldoon. "Using generalized additive models to analyze biomedical non-linear longitudinal data." _bioRxiv_ (2021). https://doi.org/10.1101/2021.06.10.447970 (This preprint has been accepted with revisions in _Statistics in Medicine_)
+
+**Mundo, Ariel I.**, Gage J. Greening, Michael J. Fahr, Lawrence N. Hale, Elizabeth A. Bullard, Narasimhan Rajaram, and Timothy J. Muldoon. "Diffuse reflectance spectroscopy to monitor murine colorectal tumor progression and therapeutic response." _Journal of Biomedical Optics_ (2020). https://doi.org/10.1117/1.JBO.25.3.035002
+
+
+## Conference Presentations
+
+**Mundo, Ariel I.** "Using generalized additive models for biomedical longitudinal data. _When linear models don't work_". RMedicine 2021 Conference. Recording: https://tinyurl.com/39epnrp6 Repository (slides and data): https://aimundo.rbind.io/talks/gams-biomedical/
+
+**Mundo, Ariel I.**, Abdussaboor Muhammad, and Timothy J. Muldoon. "Optical and molecular longitudinal tracking of primary colorectal murine tumors shows differences in the angiogenic response to maximum-tolerated and metronomic approaches." In Label-free Biomedical Imaging and Sensing (LBIS) 2021, vol. 11655, p. 116551C. _International Society for Optics and Photonics_, 2021. https://doi.org/10.1117/12.2576906
+
+**Mundo, Ariel I.**, Elizabeth Bullard, Kyle P. Quinn, and Timothy J. Muldoon. "Optical spectroscopic and imaging biomarkers of ulcerative colitis disease progression and remission (Conference Presentation)." In Multiscale Imaging and Spectroscopy, vol. 11216, p. 1121605. _International Society for Optics and Photonics_, 2020. https://doi.org/10.1117/12.2543369
+
+**Mundo, Ariel I.**, Gage J. Greening, and Timothy Muldoon. "Characterization of a multimodal endoscopically deployable veterinary spectroscopy and imaging probe to determine therapeutic response in a murine orthotopic tumor model." In Label-free Biomedical Imaging and Sensing (LBIS) 2019, vol. 10890, p. 108901L. _International Society for Optics and Photonics_, 2019.
+
+
+# Awards and Recognition
+
+_Fulbright Faculty Development Scholarship_ \hfill 2017-2019
+
+Only two scholarships awarded for that period in the whole country
+
+_OMNI Endowed International Scholarship_ \hfill 2020
+
+Granted as a scholar fulfilling the mission of the OMNI Center in Fayetteville
+
+_Professional Awareness, Advancement, and Development (PADD) Scholar_ \hfill 2020-2021
+ 
+ Received funding and participated in the PAAD program to supplement my graduate education in persuasive speaking, commercialization, and data science.
+ 
+# Grants
+
+_Arkansas Biosciences Institute 2021 seed grant competition _ \hfill 2021
+
+Main author on a proposal submitted with my advisor to examine gene expression and optically derived markers in a mouse model of colorectal cancer ($30,000 in funding). _Proposal scored in the top 2 of all the individual research projects for the cycle_.
+
+
+# References
+
+Dr. Timothy Muldoon, Associate Professor, Department of Biomedical Engineering, University of Arkansas \newline
+tmuldoon@uark.edu
+
+Dr. Christopher Nelson, Assistant Professor, Department of Biomedical Engineering, University of Arkansas \newline
+nelsonc@uark.edu
+
+Dr. John R. Tipton, Assistant Professor, Department of Mathematical Sciences, University of Arkansas \newline
+jrtipton@uark.edu
+
