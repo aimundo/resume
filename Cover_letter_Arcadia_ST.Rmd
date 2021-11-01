@@ -1,8 +1,8 @@
 ---
 output: stevetemplates::cover_letter
-geometry: margin=1in
+geometry: margin=0.5in
 header-includes:
-  - \linespread{1.05}
+  - \linespread{1.00}
 
 author: Ariel Mundo
 address: |
@@ -17,10 +17,10 @@ monofont: Fira Code
 
 fontawesome: TRUE
 date: "`r format(Sys.time(), '%d %B %Y')`"
-greetings: "Dear Sir or Madam:"
+greetings: "Dear Dr. Avasthi and Dr. Chou:"
 ---
 
-```{r setup, include=F}
+```{r setup, include=FALSE}
 
 
 place <- "Arcadia Science"
@@ -30,16 +30,22 @@ jobtitle <- "Scientist, Discovery Teams"
 ```
 
 
-I have spent the last four years of my PhD trying to better understand the changes caused by colon cancer using a primary murine model. However, it has become clear to me that the way we study any disease (cancer, diabetes, obesity, etc.) in preclinical research is limited by two fundamental reasons: 1) we use animal or cellular models that approximate the behavior of a disease in humans, but that have many inherent limitations, and 2) we usually take "snapshots" of how things change over time. 
+I am writing to express my interest in the Scientist (Discovery Teams) position at Arcadia Science. My PhD work has been focused on gaining a better understanding of the metabolic changes caused by colon cancer using a primary murine model. However, it has become clear to me that the way we study any disease (cancer, diabetes, obesity, etc.) in preclinical research is limited by two fundamental reasons: 1) we use animal or cellular models that approximate the behavior of a disease in humans, but that have many inherent limitations, and 2) most of the time, we only take "snapshots" of biological processes. 
 
-The first limitation has repeatedly caused a lack of replicability in the clinical setting from promising results seen in traditional model organisms. Despite this, the scientific community continues to invest heavily in this type of research. The second limitation is even more baffling to me: why are we so accustomed to see things only "before" and "after"? Diseases are progressive! And yet, because we routinely neglect to consider _time_ in our research questions we lack fundamental metabolic and cellular information with enough temporal resolution that enables us to predict not only _how_ things change but also _when_ they change. 
+The first limitation has repeatedly caused a lack of correspondence in the clinical setting from many promising results seen in traditional model organisms. Despite this, those same models are used again and again without producing timely and impactful discoveries that can have a direct effect on the lives of millions of people. The second limitation is even more baffling to me: why are we so accustomed to see things only "before" and "after"? Diseases are progressive! And yet, because we routinely neglect to consider _time_ in our research questions we lack fundamental metabolic and cellular information with enough temporal resolution that enables us to predict not only _how_ things change but also _when_ they change. 
 
-Until we acknowledge the need for longitudinal information in all areas of science, we are condemned to see not only a lack of replicability in results, but a growing disorganized array of information that will not help us to give definite answers to many biological problems (e.g., the Warburg effect in cancer).
+Until we acknowledge the need for longitudinal information in all areas of science, we are condemned to see not only a lack of replicability in results, but a growing disorganized array of information that will not help us give definite answers to many biological problems (e.g., the Warburg effect in cancer).
 
-My next career choice is not solely focused on discoveries that help tackle the limitations mentioned above for a specific disease, but also in laying the theoretical and practical foundations on _how_ to address these questions systematically for any biological process in an interdisciplinary manner where novel approaches across Statistics, Biology and Bioinformatics can be leveraged in order to help change what we consider "paradigms" in the scientific community. 
+During my PhD I have started to tackle the limitations above by doing longitudinal studies to examine the metabolic changes caused by cancer over time, using optics, and molecular biology. I have also spent a significant amount of time learning and incorporating into my work statistical methods that go beyond a mere "p-value" to assess significance.
 
-I believe my unique scientific superpower is perseverance, and I think it would be best suited by 
+However, I recognize that my efforts so far are a minuscule part of what is required to bring _change_. My next career goal is to produce discoveries that help address the limitations described above by using information from novel model organisms, where metabolic questions can be addressed from a different perspective and longitudinal data can be generated and shared with the broad scientific community. In the long run, I am also interested in laying the theoretical and practical foundations on _how_ to address these questions systematically for any biological process in an interdisciplinary manner where novel approaches across Statistics, Biology, Bioinformatics,  and Open Science can be leveraged in order to help change what we consider "paradigms" in research.
 
+Because my work expands multiple fields, I believe my unique scientific superpower is perseverance, and I think it would be best used by designing experiments where a multidisciplinary approach is required.
+
+I believe my career goals align with the mission of Arcadia Science, and I would be delighted to form part of a team that has Open Science and innovative ideas at its core.
+
+
+Thank you for taking the time to evaluate my application. I sincerely hope to hear from you soon.
 
 Best regards,
 
