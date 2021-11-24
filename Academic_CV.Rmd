@@ -61,7 +61,7 @@ _Assistant Plant Engineer_ \hfill 2012
 # Publications
 ## Journal Articles
 
-**Mundo, Ariel I.**, John R. Tipton, and Timothy J. Muldoon. "Using generalized additive models to analyze biomedical non-linear longitudinal data." _bioRxiv_ (2021). https://doi.org/10.1101/2021.06.10.447970 (This preprint has been accepted with revisions in _Statistics in Medicine_)
+**Mundo, Ariel I.**, John R. Tipton, and Timothy J. Muldoon. "Using generalized additive models to analyze biomedical non-linear longitudinal data." _bioRxiv_ (2021). https://doi.org/10.1101/2021.06.10.447970 (This preprint is under revision in _Statistics in Medicine_)
 
 **Mundo, Ariel I.**, Gage J. Greening, Michael J. Fahr, Lawrence N. Hale, Elizabeth A. Bullard, Narasimhan Rajaram, and Timothy J. Muldoon. "Diffuse reflectance spectroscopy to monitor murine colorectal tumor progression and therapeutic response." _Journal of Biomedical Optics_ (2020). https://doi.org/10.1117/1.JBO.25.3.035002
 

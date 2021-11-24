@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.10.15)  31 OCT 2021 16:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.10.31)  23 NOV 2021 22:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **Academic_CV.tex
 (./Academic_CV.tex
 LaTeX2e <2021-06-01> patch level 1
-L3 programming layer <2021-10-12>
+L3 programming layer <2021-10-18>
 (c:/Users/aimundo/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
 (c:/Users/aimundo/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/size10.clo
@@ -142,56 +142,31 @@ Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks22
 \inpenc@posthook=\toks23
 )
-(c:/Users/aimundo/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/microtype/microt
-ype.sty
-Package: microtype 2021/03/14 v2.8c Micro-typographical refinements (RS)
+(c:/Users/aimundo/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/geometry/geometr
+y.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
 
 (c:/Users/aimundo/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/keyval.
 sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks24
 )
-\MT@toks=\toks25
-\MT@count=\count268
-LaTeX Info: Redefining \textls on input line 790.
-\MT@outer@kern=\dimen148
-LaTeX Info: Redefining \textmicrotypecontext on input line 1374.
-\MT@listname@count=\count269
-
-(c:/Users/aimundo/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/microtype/microt
-ype-pdftex.def
-File: microtype-pdftex.def 2021/03/14 v2.8c Definitions specific to pdftex (RS)
-
-LaTeX Info: Redefining \lsstyle on input line 915.
-LaTeX Info: Redefining \lslig on input line 915.
-\MT@outer@space=\skip52
-)
-Package microtype Info: Loading configuration file microtype.cfg.
-
-(c:/Users/aimundo/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/microtype/microt
-ype.cfg
-File: microtype.cfg 2021/03/14 v2.8c microtype main configuration file (RS)
-))
-(c:/Users/aimundo/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/geometry/geometr
-y.sty
-Package: geometry 2020/01/02 v5.9 Page Geometry
-
 (c:/Users/aimundo/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/iftex/ifvtex.s
 ty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count270
-\Gm@cntv=\count271
-\c@Gm@tempcnt=\count272
-\Gm@bindingoffset=\dimen149
-\Gm@wd@mp=\dimen150
-\Gm@odd@mp=\dimen151
-\Gm@even@mp=\dimen152
-\Gm@layoutwidth=\dimen153
-\Gm@layoutheight=\dimen154
-\Gm@layouthoffset=\dimen155
-\Gm@layoutvoffset=\dimen156
-\Gm@dimlist=\toks26
+\Gm@cnth=\count268
+\Gm@cntv=\count269
+\c@Gm@tempcnt=\count270
+\Gm@bindingoffset=\dimen148
+\Gm@wd@mp=\dimen149
+\Gm@odd@mp=\dimen150
+\Gm@even@mp=\dimen151
+\Gm@layoutwidth=\dimen152
+\Gm@layoutheight=\dimen153
+\Gm@layouthoffset=\dimen154
+\Gm@layoutvoffset=\dimen155
+\Gm@dimlist=\toks25
 )
 (c:/Users/aimundo/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/sectsty/sectsty.
 sty
@@ -225,20 +200,20 @@ Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 (c:/Users/aimundo/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/etoolbox/etoolbo
 x.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count273
+\etb@tempcnta=\count271
 ))
 (c:/Users/aimundo/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/titlesec/titlese
 c.sty
 Package: titlesec 2021/07/05 v2.14 Sectioning titles
 \ttl@box=\box52
-\beforetitleunit=\skip53
-\aftertitleunit=\skip54
-\ttl@plus=\dimen157
-\ttl@minus=\dimen158
-\ttl@toksa=\toks27
-\titlewidth=\dimen159
-\titlewidthlast=\dimen160
-\titlewidthfirst=\dimen161
+\beforetitleunit=\skip52
+\aftertitleunit=\skip53
+\ttl@plus=\dimen156
+\ttl@minus=\dimen157
+\ttl@toksa=\toks26
+\titlewidth=\dimen158
+\titlewidthlast=\dimen159
+\titlewidthfirst=\dimen160
 )
 (c:/Users/aimundo/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fontawesome/font
 awesome.sty
@@ -252,15 +227,15 @@ awesomesymbols-pdftex.tex))
 r.sty
 Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
 rs
-\f@nch@headwidth=\skip55
-\f@nch@O@elh=\skip56
-\f@nch@O@erh=\skip57
-\f@nch@O@olh=\skip58
-\f@nch@O@orh=\skip59
-\f@nch@O@elf=\skip60
-\f@nch@O@erf=\skip61
-\f@nch@O@olf=\skip62
-\f@nch@O@orf=\skip63
+\f@nch@headwidth=\skip54
+\f@nch@O@elh=\skip55
+\f@nch@O@erh=\skip56
+\f@nch@O@olh=\skip57
+\f@nch@O@orh=\skip58
+\f@nch@O@elf=\skip59
+\f@nch@O@erf=\skip60
+\f@nch@O@olf=\skip61
+\f@nch@O@orf=\skip62
 )
 (c:/Users/aimundo/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lastpage/lastpag
 e.sty
@@ -303,9 +278,9 @@ Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
-\@linkdim=\dimen162
-\Hy@linkcounter=\count274
-\Hy@pagecounter=\count275
+\@linkdim=\dimen161
+\Hy@linkcounter=\count272
+\Hy@pagecounter=\count273
 
 (c:/Users/aimundo/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.
 def
@@ -326,7 +301,7 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 mds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count276
+\Hy@SavedSpaceFactor=\count274
 
 (c:/Users/aimundo/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/puenc.d
 ef
@@ -341,13 +316,13 @@ Package hyperref Info: Plain pages OFF on input line 4207.
 Package hyperref Info: Backreferencing OFF on input line 4212.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4445.
-\c@Hy@tempcnt=\count277
+\c@Hy@tempcnt=\count275
 (c:/Users/aimundo/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4804.
-\XeTeXLinkMargin=\dimen163
+\XeTeXLinkMargin=\dimen162
 
 (c:/Users/aimundo/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/bitset/bitset.
 sty
@@ -358,9 +333,9 @@ intcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count278
-\Field@Width=\dimen164
-\Fld@charsize=\dimen165
+\Fld@menulength=\count276
+\Field@Width=\dimen163
+\Fld@charsize=\dimen164
 Package hyperref Info: Hyper figures OFF on input line 6076.
 Package hyperref Info: Link nesting OFF on input line 6081.
 Package hyperref Info: Hyper index ON on input line 6084.
@@ -376,9 +351,9 @@ x.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count279
-\c@Item=\count280
-\c@Hfootnote=\count281
+\Hy@abspage=\count277
+\c@Item=\count278
+\c@Hfootnote=\count279
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
@@ -392,8 +367,8 @@ Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
 e
 with kernel methods
 )
-\Fld@listcount=\count282
-\c@bookmark@seq@number=\count283
+\Fld@listcount=\count280
+\c@bookmark@seq@number=\count281
 
 (c:/Users/aimundo/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/rerunfilecheck/r
 erunfilecheck.sty
@@ -406,7 +381,7 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 86.
 )
-\Hy@SectionHShift=\skip64
+\Hy@SectionHShift=\skip63
 )
 Package hyperref Info: Option `unicode' set `true' on input line 95.
 Package hyperref Info: Option `colorlinks' set `true' on input line 95.
@@ -434,10 +409,10 @@ Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
 l.tex
 (c:/Users/aimundo/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/xkeyval/xkvuti
 ls.tex
-\XKV@toks=\toks28
-\XKV@tempa@toks=\toks29
+\XKV@toks=\toks27
+\XKV@tempa@toks=\toks28
 )
-\XKV@depth=\count284
+\XKV@depth=\count282
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 (c:/Users/aimundo/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fmtcount/fcprefi
@@ -447,47 +422,47 @@ Package: fcprefix 2012/09/28
 (c:/Users/aimundo/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fmtcount/fcnumpa
 rser.sty
 Package: fcnumparser 2017/06/15
-\fc@digit@counter=\count285
+\fc@digit@counter=\count283
 ))
-\c@padzeroesN=\count286
-\fc@tmpcatcode=\count287
-\@DT@modctr=\count288
-\@ordinalctr=\count289
-\@orgargctr=\count290
-\@strctr=\count291
-\@tmpstrctr=\count292
-\@DT@loopN=\count293
-\@DT@X=\count294
+\c@padzeroesN=\count284
+\fc@tmpcatcode=\count285
+\@DT@modctr=\count286
+\@ordinalctr=\count287
+\@orgargctr=\count288
+\@strctr=\count289
+\@tmpstrctr=\count290
+\@DT@loopN=\count291
+\@DT@X=\count292
 )
 (c:/Users/aimundo/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/datetime/datetim
 e-defaults.sty
 Package: datetime-defaults 2013/09/10
 )
-\@day=\count295
-\@month=\count296
-\@year=\count297
-\c@HOUR=\count298
-\c@HOURXII=\count299
-\c@MINUTE=\count300
-\c@TOHOUR=\count301
-\c@TOMINUTE=\count302
-\c@SECOND=\count303
-\currenthour=\count304
-\currentminute=\count305
-\currentsecond=\count306
+\@day=\count293
+\@month=\count294
+\@year=\count295
+\c@HOUR=\count296
+\c@HOURXII=\count297
+\c@MINUTE=\count298
+\c@TOHOUR=\count299
+\c@TOMINUTE=\count300
+\c@SECOND=\count301
+\currenthour=\count302
+\currentminute=\count303
+\currentsecond=\count304
 Package datetime Info: No datetime.cfg file found, using default settings on in
 put line 308.
-\@dtctr=\count307
-\dayofyear=\count308
-\dayofweek=\count309
+\@dtctr=\count305
+\dayofyear=\count306
+\dayofweek=\count307
 LaTeX Info: Redefining \today on input line 736.
-\dt@a=\toks30
-\dt@b=\toks31
+\dt@a=\toks29
+\dt@b=\toks30
 )
 (c:/Users/aimundo/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3backend/l3back
 end-pdftex.def
-File: l3backend-pdftex.def 2021-10-12 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count310
+File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count308
 \l__pdf_internal_box=\box53
 ) (./Academic_CV.aux)
 \openout1 = `Academic_CV.aux'.
@@ -510,22 +485,6 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 107.
 LaTeX Font Info:    ... okay on input line 107.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 107.
 LaTeX Font Info:    ... okay on input line 107.
-LaTeX Info: Redefining \microtypecontext on input line 107.
-Package microtype Info: Generating PDF output.
-Package microtype Info: Character protrusion enabled (level 2).
-Package microtype Info: Using protrusion set `basicmath'.
-Package microtype Info: Automatic font expansion enabled (level 2),
-(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
-Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 107.
-Package microtype Info: No adjustment of tracking.
-Package microtype Info: No adjustment of interword spacing.
-Package microtype Info: No adjustment of character kerning.
-
-(c:/Users/aimundo/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/microtype/mt-ppl
-.cfg
-File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
-)
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -596,7 +555,7 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 /gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count311
+\c@section@level=\count309
 )
 LaTeX Info: Redefining \ref on input line 107.
 LaTeX Info: Redefining \pageref on input line 107.
@@ -666,29 +625,16 @@ File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
 (Font)              scaled to size 10.42007pt on input line 123.
-
-(c:/Users/aimundo/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/microtype/mt-msa
-.cfg
-File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
-)
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
 (Font)              scaled to size 7.91925pt on input line 123.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
 (Font)              scaled to size 6.25204pt on input line 123.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 10.42007pt on input line 123.
-
-(c:/Users/aimundo/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/microtype/mt-msb
-.cfg
-File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-)
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 7.91925pt on input line 123.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 6.25204pt on input line 123.
-Package microtype Info: Character `029' is missing
-(microtype)             in font `T1/pplj/m/sc/10'.
-(microtype)             Ignoring protrusion settings for this character.
 [1
 
 {c:/Users/aimundo/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdf
@@ -699,13 +645,13 @@ Package rerunfilecheck Info: File `Academic_CV.out' has not changed.
 (rerunfilecheck)             Checksum: 8D286AAA2754D986973E4F838073D415;935.
  ) 
 Here is how much of TeX's memory you used:
- 14581 strings out of 480559
- 219134 string characters out of 5901611
- 578222 words of memory out of 5000000
- 31743 multiletter control sequences out of 15000+600000
- 448835 words of font info for 211 fonts, out of 8000000 for 9000
+ 12849 strings out of 480539
+ 188470 string characters out of 5900968
+ 522242 words of memory out of 5000000
+ 30257 multiletter control sequences out of 15000+600000
+ 440496 words of font info for 82 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 72i,12n,80p,1200b,475s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 72i,12n,80p,1200b,403s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/Users/aimundo/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.
 enc} <c:/Users/aimundo/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknapp
 en/ec/ectt1000.600pk>{c:/Users/aimundo/AppData/Roaming/TinyTeX/texmf-dist/fonts
@@ -718,10 +664,10 @@ c/fpl/fplrij8a.pfb><c:/Users/aimundo/AppData/Roaming/TinyTeX/texmf-dist/fonts/t
 ype1/urw/palatino/uplb8a.pfb><c:/Users/aimundo/AppData/Roaming/TinyTeX/texmf-di
 st/fonts/type1/urw/palatino/uplr8a.pfb><c:/Users/aimundo/AppData/Roaming/TinyTe
 X/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on Academic_CV.pdf (2 pages, 118778 bytes).
+Output written on Academic_CV.pdf (2 pages, 118355 bytes).
 PDF statistics:
  132 PDF objects out of 1000 (max. 8388607)
  100 compressed objects within 1 object stream
  19 named destinations out of 1000 (max. 500000)
- 63553 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 65 words of extra memory for PDF output out of 10000 (max. 10000000)
 
