@@ -25,14 +25,27 @@ linkcolor: blue
 urlcolor: blue
 ---
 
-# Employment
+# Research Interests
+
+My research interests lie at the intersection of open science, computational tools, and Statistics in order to better understand biological processes. My PhD started by developing optical tools to study cancer progression, but evolved in a more Statistics-centered approach to analyze biological data. I have experience with R, 
+
+During my postdoctoral training, I expect to refine my computational and Statistical skills while working in a collaborative environment. 
+# Education
+
+*University of Arkansas*, PhD. Biomedical Engineering \hfill Expected summer 2022
+
+*Universidad Rafael Landivar (Guatemala)*, B.S. Chemical Engineering (_cum laude_) \hfill 2009
+
+
+# Research Experience
 
 **University of Arkansas**
 
 _Graduate Research Assistant_ (University of Arkansas, Fayetteville, AR) \hfill 2017-Present
 
-- Conducting biomedical research in oncology in animal models using optics and molecular biology
-- Technical writing of academic papers, conference presentations, and student mentoring
+Design and execute experiments in an animal model of colon cancer using optics and molecular biology to longitudinally quantify changes in perfusion and gene expression in response to therapy. Implement Statistical semi-parametric models (generalized additive models) to analyze longitudinal data.
+
+# Other Relevant Experience
 
 **Universidad Rafael Landivar**
 
@@ -51,22 +64,19 @@ _Assistant Plant Engineer_ \hfill 2012
 
 - In charge of the production of the main product (yogurt, $\approx$ 3000 L per week)
 
-# Education
-
-*University of Arkansas*, PhD. Biomedical Engineering \hfill Expected summer 2022
-
-*Universidad Rafael Landivar (Guatemala)*, B.S. Chemical Engineering (cum laude) \hfill 2009
-
-
 # Publications
 ## Journal Articles
 
-**Mundo, Ariel I.**, John R. Tipton, and Timothy J. Muldoon. "Using generalized additive models to analyze biomedical non-linear longitudinal data." _bioRxiv_ (2021). https://doi.org/10.1101/2021.06.10.447970 (This preprint has been accepted with revisions in _Statistics in Medicine_)
+**Mundo, Ariel I.**, Timothy J. Muldoon. "Longitudinal study of metronomic and maximum-tolerated dose strategies reveals different molecular signatures in response to treatment in a primary model of colorectal cancer". ( _In progress, expected date of publication Spring 2022_). In this paper, we use a combination of optics (spectroscopy), molecular biology (qPCR), and immunohistochemistry to examine the longitudinal changes caused by different chemotherapeutic dosing strategies, in order to explore the biology of tumor response in a primary model of colorectal cancer.  
+
+**Mundo, Ariel I.**, John R. Tipton, and Timothy J. Muldoon. "Using generalized additive models to analyze biomedical non-linear longitudinal data." _bioRxiv_ (2021). https://doi.org/10.1101/2021.06.10.447970 (This preprint is under revision in _Statistics in Medicine_)
 
 **Mundo, Ariel I.**, Gage J. Greening, Michael J. Fahr, Lawrence N. Hale, Elizabeth A. Bullard, Narasimhan Rajaram, and Timothy J. Muldoon. "Diffuse reflectance spectroscopy to monitor murine colorectal tumor progression and therapeutic response." _Journal of Biomedical Optics_ (2020). https://doi.org/10.1117/1.JBO.25.3.035002
 
 
 ## Conference Presentations
+
+**Mundo, Ariel I.** "Why we need a better understanding of Statistics to bring reproducibility to biomedical research". Toronto Workshop on Reproducibility, University of Toronto, February 2022. _Accepted_. In this talk I present how biomedical research still struggles with reproducibility, and why I believe we need a "statistical rethinking" on the field in order to have reproducibility as a core component of any future research.
 
 **Mundo, Ariel I.** "Using generalized additive models for biomedical longitudinal data. _When linear models don't work_". RMedicine 2021 Conference. Recording: https://tinyurl.com/39epnrp6 Repository (slides and data): https://aimundo.rbind.io/talks/gams-biomedical/
 
@@ -96,6 +106,11 @@ _Professional Awareness, Advancement, and Development (PADD) Scholar_ \hfill 202
 _Arkansas Biosciences Institute 2021 seed grant competition _ \hfill 2021
 
 Main author on a proposal submitted with my advisor to examine gene expression and optically derived markers in a mouse model of colorectal cancer ($30,000 in funding). _Proposal scored in the top 2 of all the individual research projects for the cycle_.
+
+
+_Future applications_
+
+During my early postdoctoral training I plan to apply for the HHMI Hanna Gray Fellowship
 
 
 # References
