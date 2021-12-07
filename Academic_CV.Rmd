@@ -67,8 +67,11 @@ _Assistant Plant Engineer_ \hfill 2012
 # Publications
 ## Journal Articles
 
+<<<<<<< HEAD
 **Mundo, Ariel I.**, Timothy J. Muldoon. "Longitudinal study of metronomic and maximum-tolerated dose strategies reveals different molecular signatures in response to treatment in a primary model of colorectal cancer". ( _In progress, expected date of publication Spring 2022_). In this paper, we use a combination of optics (spectroscopy), molecular biology (qPCR), and immunohistochemistry to examine the longitudinal changes caused by different chemotherapeutic dosing strategies, in order to explore the biology of tumor response in a primary model of colorectal cancer.  
 
+=======
+>>>>>>> fe262f5323c95248957fb4f839d7020c63e93ee0
 **Mundo, Ariel I.**, John R. Tipton, and Timothy J. Muldoon. "Using generalized additive models to analyze biomedical non-linear longitudinal data." _bioRxiv_ (2021). https://doi.org/10.1101/2021.06.10.447970 (This preprint is under revision in _Statistics in Medicine_)
 
 **Mundo, Ariel I.**, Gage J. Greening, Michael J. Fahr, Lawrence N. Hale, Elizabeth A. Bullard, Narasimhan Rajaram, and Timothy J. Muldoon. "Diffuse reflectance spectroscopy to monitor murine colorectal tumor progression and therapeutic response." _Journal of Biomedical Optics_ (2020). https://doi.org/10.1117/1.JBO.25.3.035002
