@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.12.1)  8 DEC 2021 11:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.12.1)  15 DEC 2021 13:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -705,11 +705,11 @@ Package rerunfilecheck Info: File `Academic_CV.out' has not changed.
 (rerunfilecheck)             Checksum: 14353EF5134ACEEDA35B4695EDD400DE;1064.
  ) 
 Here is how much of TeX's memory you used:
- 15285 strings out of 480313
- 242806 string characters out of 5895612
+ 15275 strings out of 480313
+ 242721 string characters out of 5895612
  586325 words of memory out of 5000000
  32670 multiletter control sequences out of 15000+600000
- 450056 words of font info for 230 fonts, out of 8000000 for 9000
+ 449489 words of font info for 222 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  70i,11n,76p,1200b,476s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/Users/aimundo/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.
@@ -724,7 +724,7 @@ c/fpl/fplrij8a.pfb><c:/Users/aimundo/AppData/Roaming/TinyTeX/texmf-dist/fonts/t
 ype1/urw/palatino/uplb8a.pfb><c:/Users/aimundo/AppData/Roaming/TinyTeX/texmf-di
 st/fonts/type1/urw/palatino/uplr8a.pfb><c:/Users/aimundo/AppData/Roaming/TinyTe
 X/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on Academic_CV.pdf (2 pages, 119135 bytes).
+Output written on Academic_CV.pdf (2 pages, 119141 bytes).
 PDF statistics:
  129 PDF objects out of 1000 (max. 8388607)
  97 compressed objects within 1 object stream
