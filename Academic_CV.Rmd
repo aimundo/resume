@@ -27,7 +27,7 @@ urlcolor: blue
 
 # Education
 
-*University of Arkansas*, PhD. Biomedical Engineering \hfill Expected summer 2022
+*University of Arkansas*, PhD. Biomedical Engineering \hfill Expected Spring 2022
 
 *Universidad Rafael Landivar (Guatemala)*, B.S. Chemical Engineering (_cum laude_) \hfill 2009
 
