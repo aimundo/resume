@@ -15,18 +15,11 @@ fontsize: 11pt
 mainfont: cochineal
 monofont: Fira Code
 fontawesome: TRUE
-date: "`r format(Sys.time(), '%d %B %Y')`"
+date: "13 March 2022"
 greetings: "Dear Dr. Avasthi and Dr. Chou:"
 ---
 
-```{r setup, include=FALSE}
 
-
-place <- "Arcadia Science"
-jobtitle <- "Scientist, Discovery Teams"
-
-
-```
 
 
 I am writing to express my interest in the Scientist (Discovery Teams) position at Arcadia Science. My PhD work has been focused on gaining a better understanding of the metabolic changes caused by colon cancer using a primary murine model. However, it has become clear to me that the way we study any disease (cancer, diabetes, obesity, etc.) in preclinical research is limited by two fundamental reasons: 1) we use animal or cellular models that approximate the behavior of a disease in humans, but that have many inherent limitations, and 2) most of the time, we only take "snapshots" of biological processes. 
@@ -48,9 +41,6 @@ Thank you for taking the time to evaluate my application. I sincerely hope to he
 
 Best regards,
 
-```{r eval=F, echo=FALSE, out.width='30%'}
-# knitr::include_graphics('john-hancock.png')
-# ^ put your signature here as a PNG or something.
-```
+
 
 Ariel Mundo
