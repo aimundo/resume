@@ -25,9 +25,15 @@ linkcolor: blue
 urlcolor: blue
 ---
 
+# Research Interests
+
+My research interests lie at the intersection of Data Science, Biology, and Statistics in order to better understand biological processes. My PhD started by developing optical tools to study cancer progression, but gradually shifted to an interdisciplinary approach (Statistics, Optics and Molecular Biology) to analyze biological data. I am particularly interested in studying the effect of time in different biological processes, as I believe that the typical "before" and "after" comparison in biomedical research masks relevant changes than can happen (e.g. shifts in metabolic processes in cancer progression ) and that can help develop better prediction models and tools.  Because I have devoted a significant amount of my PhD to study and implement semi-parametric statistical models (generalized additive models) to analyze longitudinal data, I am also interested in developing software packages or tools that can help bridge the gap on reproducibility, and that can be used by the biomedical community at-large. 
+
+During my postdoctoral phase, I expect to train in a position where I can refine my computational and Statistical skills while working with biological "big data", where a collaboration is valued, and where problems are tackled in an interdisciplinary manner. 
+
 # Education
 
-*University of Arkansas*, PhD. Biomedical Engineering \hfill Expected Spring 2022
+*University of Arkansas*, PhD. Biomedical Engineering \hfill Expected summer 2022
 
 *Universidad Rafael Landivar (Guatemala)*, B.S. Chemical Engineering (_cum laude_) \hfill 2009
 
@@ -38,8 +44,7 @@ urlcolor: blue
 
 _Graduate Research Assistant_ (University of Arkansas, Fayetteville, AR) \hfill 2017-Present
 
-- Design and execute experiments in an animal model of colon cancer using optics (spectroscopy), molecular biology (qPCR), and imaging to longitudinally quantify changes in perfusion and gene expression in response to therapy. 
-- Implement Statistical semi-parametric models (generalized additive models) to analyze longitudinal data.
+Design and execute experiments in an animal model of colon cancer using optics and molecular biology to longitudinally quantify changes in perfusion and gene expression in response to therapy. Implement Statistical semi-parametric models (generalized additive models) to analyze longitudinal data.
 
 # Other Relevant Experience
 
@@ -63,7 +68,7 @@ _Assistant Plant Engineer_ \hfill 2012
 # Publications
 ## Journal Articles
 
-**Mundo, Ariel I.**, Timothy J. Muldoon. "Longitudinal study of metronomic and maximum-tolerated dose strategies reveals different molecular signatures in response to treatment in a primary model of colorectal cancer". ( _In progress, expected date of publication Spring 2022_). In this paper, we use a combination of optics (spectroscopy), molecular biology (qPCR), immunohistochemistry, and semi-parametric statistical models to examine the longitudinal changes caused by different chemotherapeutic dosing strategies, in order to explore the biology of tumor response in a primary model of colorectal cancer.  
+**Mundo, Ariel I.**, Timothy J. Muldoon. "Longitudinal study of metronomic and maximum-tolerated dose strategies reveals different molecular signatures in response to treatment in a primary model of colorectal cancer". ( _In progress, expected date of publication Spring 2022_). In this paper, we use a combination of optics (spectroscopy), molecular biology (qPCR), and immunohistochemistry to examine the longitudinal changes caused by different chemotherapeutic dosing strategies, in order to explore the biology of tumor response in a primary model of colorectal cancer.  
 
 **Mundo, Ariel I.**, John R. Tipton, and Timothy J. Muldoon. "Using generalized additive models to analyze biomedical non-linear longitudinal data." _bioRxiv_ (2021). https://doi.org/10.1101/2021.06.10.447970 (This preprint is under revision in _Statistics in Medicine_)
 
@@ -93,7 +98,7 @@ _OMNI Endowed International Scholarship_ \hfill 2020
 
 Granted as a scholar fulfilling the mission of the OMNI Center in Fayetteville
 
-_Professional Awareness, Advancement, and Development (PADD) Scholar_ \hfill 2020-2021
+_Professional Awareness, Advancement, and Development (PAAD) Scholar_ \hfill 2020-2021
  
  Received funding and participated in the PAAD program to supplement my graduate education in persuasive speaking, commercialization, and data science.
  
@@ -101,4 +106,10 @@ _Professional Awareness, Advancement, and Development (PADD) Scholar_ \hfill 202
 
 _Arkansas Biosciences Institute 2021 seed grant competition _ \hfill 2021
 
-Main author on a proposal submitted with Dr. Timothy Muldoon from the Department of Biomedical Engineering to examine gene expression and optically derived markers in a mouse model of colorectal cancer ($30,000 in funding). _Proposal scored in the top 2 of all the individual research projects for the cycle_.
+Main author on a proposal submitted with my advisor to examine gene expression and optically derived markers in a mouse model of colorectal cancer ($30,000 in funding). _Proposal scored in the top 2 of all the individual research projects for the cycle_.
+
+
+_Future applications_
+
+During my early postdoctoral training I plan to apply for the HHMI Hanna Gray Fellowship.
+

@@ -35,7 +35,7 @@ urlcolor: blue
 
 # Education
 
-*University of Arkansas*, PhD. Biomedical Engineering \hfill Expected 2022
+*University of Arkansas*, PhD. Biomedical Engineering \hfill Expected spring 2022
 
 *Universidad Rafael Landivar (Guatemala)*, B.S. Chemical Engineering (cum laude) \hfill 2009
 
@@ -45,7 +45,7 @@ urlcolor: blue
 
 _Graduate Research Assistant_ (University of Arkansas, Fayetteville, AR) \hfill 2017-Present
 
-- Conducting biomedical research in oncology in animal models using optics and molecular biology
+- Conducting biomedical research in oncology in animal models using optics, molecular biology, and biostatistics
 - Technical writing of academic papers, conference presentations, and student mentoring
 
 **Universidad Rafael Landivar**
@@ -84,6 +84,6 @@ Granted as a scholar fulfilling the mission of the OMNI Center in Fayetteville
 
 _Arkansas Biosciences Institute 2021 seed grant competition _ \hfill 2021
 
-Main author on a proposal submitted with my advisor to examine gene expression and optically derived markers in a mouse model of colorectal cancer ($30,000 in funding). _Proposal scored in the top 2 of all the individual research projects for the cycle_.
+Main author on a proposal submitted with Dr. Timothy J. Muldoon to examine gene expression and optically derived markers in a mouse model of colorectal cancer ($30,000 in funding). _Proposal scored in the top 2 of all the individual research projects for the cycle_.
 
 
