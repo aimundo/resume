@@ -65,9 +65,9 @@ _Assistant Plant Engineer_ \hfill 2012
 ## Journal Articles
 
 **Mundo, Ariel I.**, Muldoon, Timothy J. "Longitudinal examination of perfusion and angiogenesis markers in primary colorectal tumors shows distinct signatures for metronomic and maximum-tolerated dose strategies". 
-(preprint available in _bioRxiv_, under revision). https://doi.org/10.1101/2022.02.07.479423   
+(Preprint available in _bioRxiv_. Submitted to _Neoplasia_ on Feb 2022, currently  under review). Preprint: https://doi.org/10.1101/2022.02.07.479423   
 
-**Mundo, Ariel I.**, Tipton, John R., Muldoon, Timothy J.. "Generalized additive models to analyze non-linear trends in biomedical longitudinal data using R: Beyond repeated measures ANOVA and Linear Mixed Models." (preprint available in _bioRxiv_, under revision). https://doi.org/10.1101/2021.06.10.447970
+**Mundo, Ariel I.**, Tipton, John R., Muldoon, Timothy J.. "Generalized additive models to analyze non-linear trends in biomedical longitudinal data using R: Beyond repeated measures ANOVA and Linear Mixed Models." (Preprint available in _bioRxiv_. First revision submitted to _Statistics in Medicine_ on Jan 2022, currently under review). Preprint: https://doi.org/10.1101/2021.06.10.447970
 
 **Mundo, Ariel I.**, Greening, Gage, Fahr, Michael J., Hale, Lawrence N., Bullard, Elizabeth, Rajaram, Narasimhan,, and Muldoon, Timothy J. "Diffuse reflectance spectroscopy to monitor murine colorectal tumor progression and therapeutic response." _Journal of Biomedical Optics_ (2020). https://doi.org/10.1117/1.JBO.25.3.035002
 
