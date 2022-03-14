@@ -15,18 +15,11 @@ fontsize: 11pt
 mainfont: cochineal
 monofont: Fira Code
 fontawesome: TRUE
-date: "`r format(Sys.time(), '%d %B %Y')`"
+date: "14 March 2022"
 greetings: "To whom it may concern:"
 ---
 
-```{r setup, include=FALSE}
 
-
-place <- "Fields Institute"
-jobtitle <- "Mathematics for Public Health Postdoctoral Fellowship"
-
-
-```
 
 
 I am writing to express my interest in the Mathematics for Public Health Postdoctoral Fellowship at the Fields Institute, particularly in the Project [**project name here**]. I am a PhD Candidate in the Department of Biomedical Engineering at the University of Arkansas, where I investigate the longitudinal effects of chemotherapy in colorectal cancer vascular development. My expected date of graduation is the Spring of 2022.
@@ -40,9 +33,6 @@ Thank you for taking the time to evaluate my application. I sincerely hope to he
 
 Sincerely,
 
-```{r eval=F, echo=FALSE, out.width='30%'}
-# knitr::include_graphics('john-hancock.png')
-# ^ put your signature here as a PNG or something.
-```
+
 
 Ariel Mundo

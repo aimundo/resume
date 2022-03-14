@@ -27,7 +27,7 @@ urlcolor: blue
 
 # Education
 
-*University of Arkansas*, PhD. Biomedical Engineering \hfill Expected Spring 2022
+*University of Arkansas*, PhD. Biomedical Engineering \hfill Expected May 2022
 
 *Universidad Rafael Landivar (Guatemala)*, B.S. Chemical Engineering (_cum laude_) \hfill 2009
 
@@ -38,7 +38,8 @@ urlcolor: blue
 
 _Graduate Research Assistant_ (University of Arkansas, Fayetteville, AR) \hfill 2017-Present
 
-- Design and execute experiments in an animal model of colon cancer using optics (spectroscopy), molecular biology (qPCR), and imaging to longitudinally quantify changes in perfusion and gene expression in response to therapy. 
+- Design and execute experiments in a murine model of colon cancer using optics (spectroscopy), molecular biology (qPCR), and imaging to longitudinally quantify changes in perfusion and angiogenesis in response to chemotherapy.
+
 - Implement Statistical semi-parametric models (generalized additive models) to analyze longitudinal data.
 
 # Other Relevant Experience
@@ -58,47 +59,52 @@ _Adjunct Professor_ \hfill 2013-2017
 
 _Assistant Plant Engineer_ \hfill 2012
 
-- In charge of the production of the main product (yogurt, $\approx$ 3000 L per week)
+- In charge of the production of the main product (yogurt, $\approx$ 3000 L per week). Responsible for raw material inventory, personnel management, and complete production cycle.
 
 # Publications
 ## Journal Articles
 
-**Mundo, Ariel I.**, Timothy J. Muldoon. "Longitudinal study of metronomic and maximum-tolerated dose strategies reveals different molecular signatures in response to treatment in a primary model of colorectal cancer". ( _In progress, expected date of publication Spring 2022_). In this paper, we use a combination of optics (spectroscopy), molecular biology (qPCR), immunohistochemistry, and semi-parametric statistical models to examine the longitudinal changes caused by different chemotherapeutic dosing strategies, in order to explore the biology of tumor response in a primary model of colorectal cancer.  
+**Mundo, Ariel I.**, Muldoon, Timothy J. "Longitudinal examination of perfusion and angiogenesis markers in primary colorectal tumors shows distinct signatures for metronomic and maximum-tolerated dose strategies". 
+(preprint available in _bioRxiv_, under revision). https://doi.org/10.1101/2022.02.07.479423   
 
-**Mundo, Ariel I.**, John R. Tipton, and Timothy J. Muldoon. "Using generalized additive models to analyze biomedical non-linear longitudinal data." _bioRxiv_ (2021). https://doi.org/10.1101/2021.06.10.447970 (This preprint is under revision in _Statistics in Medicine_)
+**Mundo, Ariel I.**, Tipton, John R., Muldoon, Timothy J.. "Generalized additive models to analyze non-linear trends in biomedical longitudinal data using R: Beyond repeated measures ANOVA and Linear Mixed Models." (preprint available in _bioRxiv_, under revision). https://doi.org/10.1101/2021.06.10.447970
 
-**Mundo, Ariel I.**, Gage J. Greening, Michael J. Fahr, Lawrence N. Hale, Elizabeth A. Bullard, Narasimhan Rajaram, and Timothy J. Muldoon. "Diffuse reflectance spectroscopy to monitor murine colorectal tumor progression and therapeutic response." _Journal of Biomedical Optics_ (2020). https://doi.org/10.1117/1.JBO.25.3.035002
+**Mundo, Ariel I.**, Greening, Gage, Fahr, Michael J., Hale, Lawrence N., Bullard, Elizabeth, Rajaram, Narasimhan,, and Muldoon, Timothy J. "Diffuse reflectance spectroscopy to monitor murine colorectal tumor progression and therapeutic response." _Journal of Biomedical Optics_ (2020). https://doi.org/10.1117/1.JBO.25.3.035002
+
+Greening, Gage, **Mundo, Ariel I.**, Rajaram, Narasimhan, Muldoon, Timothy J. "Sampling depth of a diffuse reflectance spectroscopy probe for _in-vivo_ physiological quantification of murine subcutaneous tumor allografts". _Journal of Biomedical Optics_ (2018). https://doi.org/10.1117/1.JBO.23.8.085006
 
 
 ## Conference Presentations
 
-**Mundo, Ariel I.** "Why we need a better understanding of Statistics to bring reproducibility to biomedical research". Toronto Workshop on Reproducibility, University of Toronto, February 2022. _Accepted_. In this talk I present how biomedical research still struggles with reproducibility, and why I believe we need a "statistical rethinking" on the field in order to have reproducibility as a core component of any future research.
+**Mundo, Ariel I.**, Muldoon, Timothy J. "Longitudinal optical and molecular quantification provides insight into the effect of different dosing strategies in colorectal cancer" _Accepted_. 2022 Biophotonics Congress: Biomedical Optics, Fort Lauderdale, FL, USA, April 2022.
+
+**Mundo, Ariel I.** "Statistics and Reproducibility in Biomedical Research: Why we need both". Toronto Workshop on Reproducibility, University of Toronto, February 2022. Recording available [here](https://www.youtube.com/watch?v=Fvkp20X5xwA).
 
 **Mundo, Ariel I.** "Using generalized additive models for biomedical longitudinal data. _When linear models don't work_". RMedicine 2021 Conference. Recording: https://tinyurl.com/39epnrp6 Repository (slides and data): https://aimundo.rbind.io/talks/gams-biomedical/
 
-**Mundo, Ariel I.**, Abdussaboor Muhammad, and Timothy J. Muldoon. "Optical and molecular longitudinal tracking of primary colorectal murine tumors shows differences in the angiogenic response to maximum-tolerated and metronomic approaches." In Label-free Biomedical Imaging and Sensing (LBIS) 2021, vol. 11655, p. 116551C. _International Society for Optics and Photonics_, 2021. https://doi.org/10.1117/12.2576906
+**Mundo, Ariel I.**, Muhammad, Abdussaboor, and Muldoon, Timothy J. "Optical and molecular longitudinal tracking of primary colorectal murine tumors shows differences in the angiogenic response to maximum-tolerated and metronomic approaches." In Label-free Biomedical Imaging and Sensing (LBIS) 2021, vol. 11655, p. 116551C. _International Society for Optics and Photonics_, 2021. https://doi.org/10.1117/12.2576906
 
-**Mundo, Ariel I.**, Elizabeth Bullard, Kyle P. Quinn, and Timothy J. Muldoon. "Optical spectroscopic and imaging biomarkers of ulcerative colitis disease progression and remission (Conference Presentation)." In Multiscale Imaging and Spectroscopy, vol. 11216, p. 1121605. _International Society for Optics and Photonics_, 2020. https://doi.org/10.1117/12.2543369
+**Mundo, Ariel I.**, Bullard, Elizabeth, Quinn, Kyle P., and Muldoon, Timothy J. "Optical spectroscopic and imaging biomarkers of ulcerative colitis disease progression and remission (Conference Presentation)." In Multiscale Imaging and Spectroscopy, vol. 11216, p. 1121605. _International Society for Optics and Photonics_, 2020. https://doi.org/10.1117/12.2543369
 
-**Mundo, Ariel I.**, Gage J. Greening, and Timothy Muldoon. "Characterization of a multimodal endoscopically deployable veterinary spectroscopy and imaging probe to determine therapeutic response in a murine orthotopic tumor model." In Label-free Biomedical Imaging and Sensing (LBIS) 2019, vol. 10890, p. 108901L. _International Society for Optics and Photonics_, 2019.
+**Mundo, Ariel I.**, Greening, Gage, and Muldoon, Timothy J. "Characterization of a multimodal endoscopically deployable veterinary spectroscopy and imaging probe to determine therapeutic response in a murine orthotopic tumor model." In Label-free Biomedical Imaging and Sensing (LBIS) 2019, vol. 10890, p. 108901L. _International Society for Optics and Photonics_, 2019.
 
 
 # Awards and Recognition
-
-_Fulbright Faculty Development Scholarship_ \hfill 2017-2019
-
-Only two scholarships awarded for that period in the whole country
-
-_OMNI Endowed International Scholarship_ \hfill 2020
-
-Granted as a scholar fulfilling the mission of the OMNI Center in Fayetteville
 
 _Professional Awareness, Advancement, and Development (PADD) Scholar_ \hfill 2020-2021
  
  Received funding and participated in the PAAD program to supplement my graduate education in persuasive speaking, commercialization, and data science.
  
+ _OMNI Endowed International Scholarship_ \hfill 2020
+
+Granted as a scholar fulfilling the mission of the OMNI Center in Fayetteville
+
+_Fulbright Faculty Development Scholarship_ \hfill 2017-2019
+
+Only two scholarships awarded for that period in the whole country
+
 # Grants
 
 _Arkansas Biosciences Institute 2021 seed grant competition _ \hfill 2021
 
-Main author on a proposal submitted with Dr. Timothy Muldoon from the Department of Biomedical Engineering to examine gene expression and optically derived markers in a mouse model of colorectal cancer ($30,000 in funding). _Proposal scored in the top 2 of all the individual research projects for the cycle_.
+Main author on a proposal submitted with Dr. Timothy J. Muldoon from the Department of Biomedical Engineering to examine gene expression and optically derived markers in a mouse model of colorectal cancer ($30,000 in funding). _Proposal scored in the top 2 of all the individual research projects for the cycle_.

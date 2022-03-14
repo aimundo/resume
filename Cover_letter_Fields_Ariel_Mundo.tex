@@ -1,0 +1,243 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+  11pt,
+]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+  \setmainfont[]{cochineal}
+  \setmonofont[]{Fira Code}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}
+    }
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\usepackage[margin=0.5in]{geometry}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+
+\ifluatex
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+
+\author{Ariel Mundo}
+\date{14 March 2022}
+
+% Jesus, okay, everything above this comment is default Pandoc LaTeX template. -----
+% ----------------------------------------------------------------------------------
+% I think I had assumed beamer and LaTex were somehow different templates.
+
+
+\usepackage{kantlipsum}
+
+\usepackage{abstract}
+\renewcommand{\abstractname}{}    % clear the title
+\renewcommand{\absnamepos}{empty} % originally center
+
+\renewenvironment{abstract}
+ {{%
+    \setlength{\leftmargin}{0mm}
+    \setlength{\rightmargin}{\leftmargin}%
+  }%
+  \relax}
+ {\endlist}
+
+\makeatletter
+\def\@maketitle{%
+  \newpage
+%  \null
+%  \vskip 2em%
+%  \begin{center}%
+  \let \footnote \thanks
+      {\fontsize{18}{20}\selectfont\raggedright  \setlength{\parindent}{0pt} \@title \par}
+    }
+%\fi
+\makeatother
+
+
+ 
+
+
+
+%\author{\Large \vspace{0.05in} \newline\normalsize\emph{}  }
+
+
+\date{}
+
+\usepackage{titlesec}
+
+% 
+\titleformat*{\section}{\large\bfseries}
+\titleformat*{\subsection}{\normalsize\itshape} % \small\uppercase
+\titleformat*{\subsubsection}{\normalsize\itshape}
+\titleformat*{\paragraph}{\normalsize\itshape}
+\titleformat*{\subparagraph}{\normalsize\itshape}
+
+% add some other packages ----------
+
+% \usepackage{multicol}
+% This should regulate where figures float
+% See: https://tex.stackexchange.com/questions/2275/keeping-tables-figures-close-to-where-they-are-mentioned
+\usepackage[section]{placeins}
+
+
+
+\makeatletter
+\@ifpackageloaded{hyperref}{}{%
+\ifxetex
+  \PassOptionsToPackage{hyphens}{url}\usepackage[setpagesize=false, % page size defined by xetex
+              unicode=false, % unicode breaks when used with xetex
+              xetex]{hyperref}
+\else
+  \PassOptionsToPackage{hyphens}{url}\usepackage[draft,unicode=true]{hyperref}
+\fi
+}
+
+\@ifpackageloaded{color}{
+    \PassOptionsToPackage{usenames,dvipsnames}{color}
+}{%
+    \usepackage[usenames,dvipsnames]{color}
+}
+\makeatother
+\hypersetup{breaklinks=true,
+            bookmarks=true,
+            pdfauthor={ ()},
+             pdfkeywords = {},  
+            pdftitle={},
+            colorlinks=true,
+            citecolor=blue,
+            urlcolor=blue,
+            linkcolor=magenta,
+            pdfborder={0 0 0}}
+\urlstyle{same}  % don't use monospace font for urls
+
+% Add an option for endnotes. -----
+
+
+
+% This will better treat References as a section when using natbib
+% https://tex.stackexchange.com/questions/49962/bibliography-title-fontsize-problem-with-bibtex-and-the-natbib-package
+
+
+
+% set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+
+
+\linespread{1.50}
+
+\newtheorem{hypothesis}{Hypothesis}
+
+\usepackage{fontawesome}
+
+\newcommand{\blankline}{\quad\pagebreak[2]}
+\usepackage{graphicx}
+
+\begin{document}
+
+
+
+\hfill
+\begin{minipage}[t]{1\textwidth}
+\raggedleft%
+{\bfseries Ariel Mundo }\\[.35ex]
+\emph{\small 1796 E. Parkshore Dr.~Apt. 4\\
+Fayetteville, AR, US, 72703} \\[.35ex]
+\faPhone \hspace{1 mm} \small{+1 479 800 8714} \\ 
+\faEnvelopeO \hspace{1 mm} \small{\tt \href{mailto:aimundo@uark.edu}{\nolinkurl{aimundo@uark.edu}}} \\ 
+\faGlobe \hspace{1 mm} \small{\href{http://aimundo.rbind.io}{\tt aimundo.rbind.io}}\\ 
+\hspace{1cm} \\
+ 14 March 2022 \\ 
+\end{minipage}
+
+% \vspace*{1em} 
+
+\vspace*{1em}
+
+To whom it may concern:
+
+\vspace*{1em}
+
+ 
+
+% 14 March 2022
+% 
+% \vspace*{1em} 
+% 
+
+% % \setlength{\parindent}{16pt}
+% \setlength{\parskip}{0pt}
+% 
+I am writing to express my interest in the Mathematics for Public Health
+Postdoctoral Fellowship at the Fields Institute, particularly in the
+Project {[}\textbf{project name here}{]}. I am a PhD Candidate in the
+Department of Biomedical Engineering at the University of Arkansas,
+where I investigate the longitudinal effects of chemotherapy in
+colorectal cancer vascular development. My expected date of graduation
+is the Spring of 2022.
+
+Biological processes such as those involved cancer exhibit non-linear
+trends over time. Over the course of my PhD studies, I have applied
+generalized additive models to analyze biological processes involved in
+cancer progression, thus being able to find specific time intervals
+where significant molecular shifts occur and where novel therapies could
+be investigated. For my postdoctoral training, I am interested in
+applying and expanding my Biostatistics knowledge in a field different
+from Oncology. Specifically, I want to focus on developing Statistical
+methods that are appropriate to analyze time-dependent public health
+data. My interest in this area has developed over the last two years,
+where the necessity of better predictive strategies to address viral
+transmission have become apparent in light of the ongoing Covid-19
+pandemic. I believe that much can be done to develop strategies that can
+better inform public health policies in a timely manner, and that
+semi-parametric statistical methods can serve as a groundwork that can
+be used to serve this purpose.
+
+Therefore, I believe that my career interests align closely with the
+goals of the Mathematics for Public Health project of the Fields
+Institute; in addition, I consider that my unique combination of
+expertise in the area of Disease Biology and Statistics makes me a
+suitable candidate for the Public Health Postdoctoral Fellowship, as I
+can work at the interface of both fields, thus providing a unique
+perspective in the study of public health time-dependent data.
+
+Thank you for taking the time to evaluate my application. I sincerely
+hope to hear from you soon.
+
+Sincerely,
+
+Ariel Mundo
+
+\end{document}
