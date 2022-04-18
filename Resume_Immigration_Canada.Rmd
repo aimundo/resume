@@ -1,0 +1,87 @@
+---
+output: stevetemplates::cv
+geometry: margin=0.5in
+
+title: "Resume"
+author: Ariel Mundo
+
+jobtitle: "Graduate Research Assistant"
+address: "Department of Biomedical Engineering · University of Arkansas · Fayetteville, AR, US"
+fontawesome: yes
+email: aimundo@uark.edu
+github: aimundo
+twitter: amundortiz
+#osf: "Enter 5 digit osf string here"
+phone: "+1 479 800 8714"
+web: aimundo.rbind.io
+updated: yes
+
+keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 10pt
+linkcolor: blue
+urlcolor: blue
+---
+
+# Education
+
+*University of Arkansas*, PhD. Biomedical Engineering \hfill May 2022
+
+*Universidad Rafael Landivar (Guatemala)*, B.S. Chemical Engineering (cum laude) \hfill 2009
+
+# Employment
+
+**University of Arkansas**
+
+_Graduate Research Assistant_ (University of Arkansas, Fayetteville, AR, US) \hfill 2017-Present
+
+- Conduct experiments in oncology using colorectal cancer murine models
+- Design and conduct molecular biology and optics experiments
+- Analyze and interpret the collected data using hypothesis testing
+- Technical writing of academic papers
+
+**Universidad Rafael Landivar**
+
+_Teaching Assistant Professor_  \hfill 2016-2017
+
+- Teach Chemistry at the Environmental and Agricultural Sciences Department
+- Prepare lectures and supervise lab experiments
+- Update laboratory manuals
+
+_Adjunct Professor_ \hfill 2013-2017
+
+- Teach Introductory Chemistry in the Engineering, Environmental and Agricultural, and Health Sciences Departments
+- Prepare lectures and supervise lab experiments
+- Design and implement exams in accordance with Departamental guidelines
+
+**Lacteos Balcanicos Glad**
+
+_Assistant Plant Engineer_ \hfill 2012
+
+- In charge of the production of the main product (yogurt, $\approx$ 3000 L per week)
+- Supervise plant personnel
+- Report to the Chief Engineer to determine production inventory needs
+
+# Awards and Recognition
+
+_Fulbright Faculty Development Scholarship_ \hfill 2017-2019
+
+Only two scholarships awarded for that period in the whole country
+
+_OMNI Endowed International Scholarship_ \hfill 2020
+
+Granted as a scholar fulfilling the mission of the OMNI Center in Fayetteville
+
+ _Professional Awareness, Advancement, and Development (PADD) Scholar_ \hfill 2020-2021
+ 
+ Received funding and participated in the PAAD program to supplement my graduate education in persuasive speaking, commercialization, and data science.
+
+# Grants
+
+_Arkansas Biosciences Institute 2021 seed grant competition _ \hfill 2021
+
+Main author on a proposal submitted with Dr. Timothy Muldoon to examine gene expression and optically derived markers in a mouse model of colorectal cancer (USD 30,000 in funding). _Proposal scored in the top 2 of all the individual research projects for the cycle_.
+
+
