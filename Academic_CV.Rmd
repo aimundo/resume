@@ -36,11 +36,13 @@ urlcolor: blue
 
 **University of Arkansas**
 
-_Graduate Research Assistant_ (University of Arkansas, Fayetteville, AR) \hfill 2017-Present
+_Postdoctoral Fellow_ (University of Arkansas, Fayetteville, AR) \hfill May 2022-Present
 
-- Design and execute experiments in a murine model of colon cancer using optics (spectroscopy), molecular biology (qPCR), and imaging to longitudinally quantify changes in perfusion and angiogenesis in response to chemotherapy.
+_Graduate Research Assistant_ (University of Arkansas, Fayetteville, AR) \hfill Aug 2017- May 2022
 
-- Implement Statistical semi-parametric models (generalized additive models) to analyze longitudinal data.
+- Designed and executed experiments in a murine model of colon cancer using optics (spectroscopy), molecular biology (qPCR), and imaging to longitudinally quantify changes in perfusion and angiogenesis in response to chemotherapy.
+
+- Implemented Statistical semi-parametric models (generalized additive models) to analyze biomedical longitudinal data.
 
 # Other Relevant Experience
 
