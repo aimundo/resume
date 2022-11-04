@@ -3,14 +3,14 @@ output: stevetemplates::cv
 geometry: margin=0.5in
 
 title: "Resume"
-author: Ariel Mundo
+author: Ariel Mundo Ortiz
 
 jobtitle: "Postdoctoral Fellow"
 address: "Centre de Recherches Mathématiques, Universite de Montreal, Montreal, QC, Canada"
 fontawesome: yes
-email: aimundo.ortiz@gmail.com
-github: aimundo
-# twitter: stevenvmiller
+email: ariel.mundo.ortiz@umontreal.ca
+#github: aimundo
+#twitter: aimundortiz
 #osf: "Enter 5 digit osf string here"
 phone: "+1 479 800 8714"
 web: aimundo.rbind.io
@@ -34,7 +34,9 @@ urlcolor: blue
 
 # Research Experience
 
-_Postdoctoral Fellow_ (University of Montreal, Montreal, QC) \hfill July 2022-Present
+_Postdoctoral Fellow_ (Université de Montréal, Montreal, QC) \hfill July 2022-Present
+
+Working in the Nasri Lab at the School of Public Health (ESPUM) at L'Université de Montréal performing statistical analyses of longitudinal health data, and collaborating with different groups to perform high impact research at the interface of health and Statistics.
 
 _Postdoctoral Fellow_ (University of Arkansas, Fayetteville, AR) \hfill May 2022-July 2022
 
@@ -66,31 +68,39 @@ _Assistant Plant Engineer_ \hfill 2012
 # Publications
 ## Journal Articles
 
-**Mundo, Ariel I.**, Muldoon, Timothy J. "Longitudinal examination of perfusion and angiogenesis markers in primary colorectal tumors shows distinct signatures for metronomic and maximum-tolerated dose strategies". 
-(Preprint available in _bioRxiv_. Accepted in _Neoplasia_ on July 2022). Preprint: https://doi.org/10.1101/2022.02.07.479423   
+**Mundo Ortiz, Ariel I.**, Muldoon, Timothy J. "Longitudinal examination of perfusion and angiogenesis markers in primary colorectal tumors shows distinct signatures for metronomic and maximum-tolerated dose strategies". 
+ _Neoplasia_ (2022). https://doi.org/10.1016/j.neo.2022.100825   
 
-**Mundo, Ariel I.**, Tipton, John R., Muldoon, Timothy J.. "Generalized additive models to analyze non-linear trends in biomedical longitudinal data using R: Beyond repeated measures ANOVA and Linear Mixed Models." _Statistics in Medicine_ (2022). https://doi.org/10.1002/sim.9505
+**Mundo Ortiz, Ariel I.**, Tipton, John R., Muldoon, Timothy J.. "Generalized additive models to analyze non-linear trends in biomedical longitudinal data using R: Beyond repeated measures ANOVA and Linear Mixed Models." _Statistics in Medicine_ (2022). https://doi.org/10.1002/sim.9505
 
-**Mundo, Ariel I.**, Greening, Gage, Fahr, Michael J., Hale, Lawrence N., Bullard, Elizabeth, Rajaram, Narasimhan,, and Muldoon, Timothy J. "Diffuse reflectance spectroscopy to monitor murine colorectal tumor progression and therapeutic response." _Journal of Biomedical Optics_ (2020). https://doi.org/10.1117/1.JBO.25.3.035002
+**Mundo Ortiz, Ariel I.**, Greening, Gage, Fahr, Michael J., Hale, Lawrence N., Bullard, Elizabeth, Rajaram, Narasimhan,, and Muldoon, Timothy J. "Diffuse reflectance spectroscopy to monitor murine colorectal tumor progression and therapeutic response." _Journal of Biomedical Optics_ (2020). https://doi.org/10.1117/1.JBO.25.3.035002
 
-Greening, Gage, **Mundo, Ariel I.**, Rajaram, Narasimhan, Muldoon, Timothy J. "Sampling depth of a diffuse reflectance spectroscopy probe for _in-vivo_ physiological quantification of murine subcutaneous tumor allografts". _Journal of Biomedical Optics_ (2018). https://doi.org/10.1117/1.JBO.23.8.085006
+Greening, Gage, **Mundo Ortiz, Ariel I.**, Rajaram, Narasimhan, Muldoon, Timothy J. "Sampling depth of a diffuse reflectance spectroscopy probe for _in-vivo_ physiological quantification of murine subcutaneous tumor allografts". _Journal of Biomedical Optics_ (2018). https://doi.org/10.1117/1.JBO.23.8.085006
 
 ## Conference Presentations
 
-**Mundo, Ariel I.**, Muldoon, Timothy J. "Longitudinal optical and molecular quantification provides insight into the effect of different dosing strategies in colorectal cancer". 2022 Biophotonics Congress: Biomedical Optics, Fort Lauderdale, FL, USA, April 2022.
+**Mundo Ortiz, Ariel I.** "Reproducible papers in the life sciences using R". CANSSI Statistical Software Conference. November 2022.
 
-**Mundo, Ariel I.** "Statistics and Reproducibility in Biomedical Research: Why we need both". Toronto Workshop on Reproducibility, University of Toronto, February 2022. Recording available [here](https://www.youtube.com/watch?v=Fvkp20X5xwA).
+**Mundo Ortiz, Ariel I.**. "Statistics and Reproducibility in Biomedical Research". 2022 Toronto Workshop on Reproducibility. Toronto, ON. February 2022. Recording: https://www.youtube.com/watch?v=Fvkp20X5xwA
 
-**Mundo, Ariel I.** "Using generalized additive models for biomedical longitudinal data. _When linear models don't work_". RMedicine 2021 Conference. Recording: https://tinyurl.com/39epnrp6 Repository (slides and data): https://aimundo.rbind.io/talks/gams-biomedical/
+**Mundo Ortiz, Ariel I.**, Muldoon, Timothy J. "Longitudinal optical and molecular quantification provides insight into the effect of different dosing strategies in colorectal cancer". 2022 Biophotonics Congress: Biomedical Optics, Fort Lauderdale, FL, USA, April 2022.
 
-**Mundo, Ariel I.**, Abdussaboor Muhammad, and Timothy J. Muldoon. "Optical and molecular longitudinal tracking of primary colorectal murine tumors shows differences in the angiogenic response to maximum-tolerated and metronomic approaches." In Label-free Biomedical Imaging and Sensing (LBIS) 2021, vol. 11655, p. 116551C. _International Society for Optics and Photonics_, 2021. https://doi.org/10.1117/12.2576906
+**Mundo Ortiz, Ariel I.** "Statistics and Reproducibility in Biomedical Research: Why we need both". Toronto Workshop on Reproducibility, University of Toronto, February 2022. Recording available [here](https://www.youtube.com/watch?v=Fvkp20X5xwA).
 
-**Mundo, Ariel I.**, Elizabeth Bullard, Kyle P. Quinn, and Timothy J. Muldoon. "Optical spectroscopic and imaging biomarkers of ulcerative colitis disease progression and remission (Conference Presentation)." In Multiscale Imaging and Spectroscopy, vol. 11216, p. 1121605. _International Society for Optics and Photonics_, 2020. https://doi.org/10.1117/12.2543369
+**Mundo Ortiz, Ariel I.** "Using generalized additive models for biomedical longitudinal data. _When linear models don't work_". RMedicine 2021 Conference. Recording: https://tinyurl.com/39epnrp6 Repository (slides and data): https://aimundo.rbind.io/talks/gams-biomedical/
 
-**Mundo, Ariel I.**, Gage J. Greening, and Timothy Muldoon. "Characterization of a multimodal endoscopically deployable veterinary spectroscopy and imaging probe to determine therapeutic response in a murine orthotopic tumor model." In Label-free Biomedical Imaging and Sensing (LBIS) 2019, vol. 10890, p. 108901L. _International Society for Optics and Photonics_, 2019.
+**Mundo Ortiz, Ariel I.**, Abdussaboor Muhammad, and Timothy J. Muldoon. "Optical and molecular longitudinal tracking of primary colorectal murine tumors shows differences in the angiogenic response to maximum-tolerated and metronomic approaches." In Label-free Biomedical Imaging and Sensing (LBIS) 2021, vol. 11655, p. 116551C. _International Society for Optics and Photonics_, 2021. https://doi.org/10.1117/12.2576906
+
+**Mundo Ortiz, Ariel I.**, Elizabeth Bullard, Kyle P. Quinn, and Timothy J. Muldoon. "Optical spectroscopic and imaging biomarkers of ulcerative colitis disease progression and remission (Conference Presentation)." In Multiscale Imaging and Spectroscopy, vol. 11216, p. 1121605. _International Society for Optics and Photonics_, 2020. https://doi.org/10.1117/12.2543369
+
+**Mundo Ortiz, Ariel I.**, Gage J. Greening, and Timothy Muldoon. "Characterization of a multimodal endoscopically deployable veterinary spectroscopy and imaging probe to determine therapeutic response in a murine orthotopic tumor model." In Label-free Biomedical Imaging and Sensing (LBIS) 2019, vol. 10890, p. 108901L. _International Society for Optics and Photonics_, 2019.
 
 
 # Awards and Recognition
+
+_Fields Institute: Mathematics for Public Health Festival (MfPHFest)_ \hfill October 2022
+
+Received funding to attend the MfPHFest conference and present postdoctoral work done in the field of Statistics. (CAD 1,500)
 
 _Centre de recherches mathématiques (CRM) MfPH-CRM Postdoctoral Fellowship_ \hfill July 2022
 
@@ -119,7 +129,4 @@ _Arkansas Biosciences Institute 2021 seed grant competition _ \hfill 2021
 Main author on a proposal co-submitted with Dr. Timothy Muldoon to examine gene expression and optically derived markers in a mouse model of colorectal cancer ($30,000 in funding). _Proposal scored in the top 2 of all the individual research projects for the cycle_.
 
 
-_Future applications_
-
-During my early postdoctoral training I plan to apply for funding opportunities at CANSSI, Mitacs, the Fields Institute, CIHR, and NSERC.
 
