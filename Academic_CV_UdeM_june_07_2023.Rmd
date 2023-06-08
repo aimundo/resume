@@ -36,7 +36,7 @@ urlcolor: blue
 
 _Postdoctoral Fellow_ (Université de Montréal, Montreal, QC) \hfill July 2022-Present
 
-Working in the Nasri Lab at the School of Public Health (ESPUM) at L'Université de Montréal performing statistical analyses of longitudinal health data, and collaborating with different groups to perform high impact research at the interface of health and Statistics.
+Working in the Nasri Lab at the School of Public Health (ESPUM) doing research in infectious disease modelling, and collaborating with different groups to perform high impact research at the interface of health and Statistics.
 
 _Postdoctoral Fellow_ (University of Arkansas, Fayetteville, AR) \hfill May 2022-July 2022
 
@@ -128,9 +128,10 @@ Scholarship covered all costs of my PhD for the first two years. Only two schola
 _Canada Institutes of Health Research (CIHR)_ \hfill 2023
 
 Co-investigator in the grant "epidemiological modelling of behavioural impact on mpox mitigation strategies" lead by Prof. Nasri from Université de Montréal.
-Involved with the writing of the grant, communicating with team members, literature review, objective development.
+Involved with the writing of the grant, communicating with team members, performing literature reviews, and grant objective development.
 Funding secured: CAD 824,000.
 The proposal was in the 50% rank within the competition.
+Record of the grant can be found in the  \href{https://webapps.cihr-irsc.gc.ca/decisions/p/project_details.html?applId=481271&lang=en}{CIHR funding decision database}.
 
 
 _Arkansas Biosciences Institute 2021 seed grant competition _ \hfill 2021
