@@ -1,0 +1,50 @@
+---
+output: stevetemplates::cover_letter
+geometry: margin=1in
+header-includes:
+  - \linespread{1.05}
+
+author: Ariel Mundo Ortiz
+address: |
+    | 427 5e Avenue
+    | Montreal, QC
+email: "aimundo.ortiz@gmail.com"
+url: aimundo.rbind.io
+phone: +1 438 875 9203
+fontsize: 11pt
+mainfont: cochineal
+monofont: Fira Code
+
+fontawesome: TRUE
+date: "`r format(Sys.time(), '%d %B %Y')`"
+greetings: "Dear Sir or Madam:"
+---
+
+```{r setup, include=F}
+
+
+place <- "University of Waterloo"
+jobtitle <- "Lab Instructor - Bioengineering"
+
+
+```
+
+I am writing to express my interest in the position of Lab Instructor in Bioengineering in the Department of Systems Design Engineering at University of Waterloo, as advertised. With a robust background in molecular biology assays, optics, small animal work, and computational techniques, coupled with substantial experience as a professor, I am confident in my ability to effectively contribute to the academic and laboratory initiatives from the Department.
+
+In particular, the breadth of my PhD training in Biomedical Engineering has equipped me with a strong foundation in a diverse range of laboratory work, which enables me to effectively design, implement, and analyze various experiments. My experience in conducting complex experiments involving qPCR assays, primer design, qPCR validation analysis, and cell culture experiments has honed my skills in guiding students through the intricacies of these methodologies.
+
+In addition to molecular biology assays, my expertise in optics has been a pivotal aspect of my career, as I conducted extensive work focused on spectroscopy analysis of animal tissue, coupled with the computational skills required to proces and analyze this data. My familiarity with optical techniques, such as fluorescence microscopy and white light microscopy, was fundamental in my academic pursuits. I am eager to share this knowledge and practical experience with students to enhance their understanding of optical applications in bioengineering.
+
+My proficiency in small animal work, encompassing animal handling, experimental design, protocol development, and data interpretation, has been an essential component of my laboratory involvement. Through my PhD training, I have demonstrated exceptional dedication to the ethical treatment of animals, ensuring their welfare and adhering to  research integrity standards. This expertise will enable me to educate students on responsible and humane practices in small animal research, if needed.
+
+Furthermore, my postdoctoral work, which has focused on computational work, including data analysis, programming, and modeling, has allowed me to develop skills that are valuable now in the job market and that can benefit students in the long term. In particular, I have used R to analyze complex datasets and model biological processes, and the capabilities of this language to enhance reproducibility is something I am excited about to promote and share with students so they gain strong computational skills relevant to bioengineering research.
+
+Additionally, my experience as a professor in Guatemala helped me refine my communication skills and understanding of diverse learning styles. I have consistently fostered an environment conducive to critical thinking and problem-solving, allowing students to flourish academically and practically. These experiences have equipped me to engage with students effectively, encouraging them to think critically and creatively in the lab.
+
+I am excited about the prospect of contributing my expertise and passion for Bioengineering in the Department of Systems Design Engineering. I am confident that my diverse skill set and teaching experience will make a significant contribution to the learning experience of students and the research goals of the Department.
+
+Thank you for considering my application. I look forward to the opportunity to discuss my qualifications further. Please find my resume attached for your review.
+
+Sincerely,
+
+Ariel Mundo Ortiz
