@@ -1,0 +1,53 @@
+---
+output: stevetemplates::cover_letter
+geometry: margin=0.5in
+header-includes:
+  - \linespread{1.00}
+
+author: Ariel Mundo
+address: |
+    | 427 5e Avenue
+    | Montreal, QC H4G 2Z2
+email: "aimundo.ortiz@gmail.com"
+url: aimundo.rbind.io
+phone: +1 479 800 8714
+fontsize: 11pt
+mainfont: cochineal
+monofont: Fira Code
+
+fontawesome: TRUE
+date: "`r format(Sys.time(), '%d %B %Y')`"
+greetings: "Dear Dr. Forbes"
+---
+
+```{r setup, include=FALSE}
+
+
+place <- "University of Arkansas"
+jobtitle <- "Postdoctoral Fellow"
+
+
+```
+
+
+I am writing to express my strong interest in the postdoctoral position with an emphasis in rodent-borne zoonoses in Africa, specifically mpox, at the University of Arkansas, Fayetteville, as advertised. I believe my previous and current research background aligns closely with the requirements of this position, and I am confident in my ability to contribute significantly to your research team.
+
+I completed my Ph.D. in Biomedical Engineering in 2022, where I used a mouse animal model to study colorectal cancer, and employed optical and molecular biology techniques to obtain information on therapy response. Morever, during my PhD training I gained extensive experience in designing and conducting experiments involving rodent animal models; I also attended your Disease Ecology class in 2021, and attending your course sparked my interest in studying infectious diseases as my next career step. These experiences have provided me with a solid foundation in understanding the intricacies of rodent-borne zoonoses and the associated molecular mechanisms, which I believe are crucial for effectively addressing the challenges posed by mpox.
+
+Furthermore, I have had the privilege of gaining valuable postdoctoral research experience in the laboratory of Dr. Bouchra Nasri at the University of Montreal. In this role, I have been involved in projects directly related to mpox, as you can attest from my publication list and the grant funding that I have helped secure. My postdoctoral tenure has honed my analytical and research skills and deepened my understanding of the complexities of mpox and its impact on both animal and human populations.
+
+I do have to mention that due to family reasons, my intent is to stay in Canada, where I know you are conducting collaborative work with researchers in the area of infectious diseases in the context of mpox. I believe my presence here can be an asset as it can facilitate collaboration and communication with Canadian researchers that are part of this project. Additionally, as I live in the province of Quebec, my proficiency in French is an additional asset in the context of field work that will need to be carried in French-speaking countries. I firmly believe that my linguistic abilities and cultural adaptability will be instrumental in fostering international collaborations and enhancing research outcomes within the scope of the research project.
+
+Furthermore, my proficiency with R, which I have extensively used for data analysis and modelling, can be beneficial for the research objectives of this postdoctoral position. My strong background in utilizing statistical models for longitudinal data is demonstrated by my publication record in _Statistics in Medicine_.
+
+Thank you for considering my application. I look forward to the possibility of contributing my expertise and passion for research to your lab. I would be delighted to discuss my qualifications further and elaborate on how my experiences align with the goals of your research program, as well as discussing how I think my stay in Canada can be of benefit for this project.
+
+Sincerely,
+
+
+```{r eval=F, echo=FALSE, out.width='30%'}
+# knitr::include_graphics('john-hancock.png')
+# ^ put your signature here as a PNG or something.
+```
+
+Ariel Mundo Ortiz
