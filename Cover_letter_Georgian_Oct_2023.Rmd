@@ -1,0 +1,50 @@
+---
+output: stevetemplates::cover_letter
+geometry: margin=0.5in
+header-includes:
+  - \linespread{1.00}
+
+author: Ariel Mundo
+address: |
+    | 427 5e Avenue
+    | Montreal, QC H4G 2Z2
+email: "aimundo.ortiz@gmail.com"
+url: aimundo.rbind.io
+phone: +1 438 875 9203
+fontsize: 11pt
+mainfont: cochineal
+monofont: Fira Code
+
+fontawesome: TRUE
+date: "`r format(Sys.time(), '%d %B %Y')`"
+greetings: "Dear Mrs. Saunders N'Daw,"
+---
+
+```{r setup, include=FALSE}
+
+
+place <- "Georgian College"
+jobtitle <- "Dean, Health and Wellness"
+
+
+```
+
+I am writing to express my interest in the position of Dean, Health and Wellness at Georgian College, as advertised. I believe my professional background, particularly my experience in higher education and research, aligns closely with the requirements and expectations of this role. My academic journey, marked by teaching roles at Universidad Rafael Landivar in Guatemala, predoctoral training in Biomedical Engineering the United States, and a subsequent postdoctoral tenure at the University of Montreal in public health, has equipped me with the skills, insights, and determination needed to excel in the role of Dean at Georgian College.
+
+My professorship tenure at Universidad Rafael Landivar in Guatemala was a pivotal period in my academic career, during which I served in various teaching roles and had the privilege of closely interacting with Academic Coordinators, Deans, and fellow faculty members across diverse academic units, including the Faculty of Engineering, the Faculty of Health Sciences, and the Faculty of Environmental and Agricultural Sciences. This experience granted me a deep understanding of the academic administrative environment, where learned to effectively communicate and collaborate with other faculty members and administrative staff. This experience also allowed me to appreciate the vital role of Health and Science-related programs in nurturing a supportive and thriving academic community, and sparked my interest of an eventual return to the academic administrative environment.
+
+Furthermore, my doctoral training greatly honed my managerial, interpersonal, and communication skills. As a doctoral candidate, I successfully managed multiple research projects, met deadlines, and delivered research-related products such as academic articles, conference presentations, and talks. Working closely with diverse lab members also broadened my collaborative and team-oriented approach. My doctoral training not only refined my academic and research competencies but also provided a valuable perspective on the academic needs in the life sciences field and highlighted opportunities to enhance research reproducibility, which is something I am passionate about and an area where I believe I can foster change in a decanal position.
+
+During my postdoctoral tenure at the University of Montreal, I gained a broader understanding of the administrative environment in higher education in Canada. This experience enhanced my knowledge of the Canadian academic landscape, public health, and the crucial role of health sciences programs within educational institutions. My postdoctoral training has also provided me with ample experience in the arena of communication, where I have recently contributed to the writing of a grant that was successfully funded by the Canadian Institutes of Health Research (CIHR) in the area of public health. My experience in the area of funding and scientific communication is also an asset that I believe can greatly serve in a decanal position to identify funding opportunities that can be used to help expand the Health and Wellness programs at Georgian College.
+
+I am enthusiastic about the possibility of contributing with my expertise to the vision of higher education of Georgian College. I am committed to leveraging my background to enhance the academic and personal well-being of the college community, fostering a culture of success and collaboration.
+
+Thank you for considering my application. I look forward to the opportunity to further discuss my qualifications and potential contributions in an interview.
+
+
+```{r eval=F, echo=FALSE, out.width='30%'}
+# knitr::include_graphics('john-hancock.png')
+# ^ put your signature here as a PNG or something.
+```
+
+Ariel Mundo Ortiz, PhD
