@@ -1,0 +1,51 @@
+---
+output: stevetemplates::cover_letter
+geometry: margin=0.5in
+header-includes:
+  - \linespread{1.15}
+
+author: Ariel Mundo
+address: |
+    | 427 5e Avenue
+    | Montreal, QC H4G 2Z2
+email: "aimundo.ortiz@gmail.com"
+url: aimundo.rbind.io
+phone: +1 479 800 8714
+fontsize: 11pt
+mainfont: cochineal
+monofont: Fira Code
+
+fontawesome: TRUE
+date: "`r format(Sys.time(), '%d %B %Y')`"
+greetings: "Dear Hiring Manager,"
+---
+
+```{r setup, include=FALSE}
+
+
+place <- "McGill University Health Centre (RI-MUHC)"
+jobtitle <- "Program Manager - Metabolic Disorders and Complications Program"
+
+
+```
+
+
+I am writing to express my strong interest in the Program Manager  position for the Metabolic Disorders and Complications Program at the McGill University Health Centre. I believe my previous and current research background and experience align closely with the requirements of this position, and I am confident in my ability to contribute significantly to your research team.
+
+I completed my Ph.D. in Biomedical Engineering in 2022, where I  studied response to chemotherapy in a mouse model of colon cancer. During my PhD training, I was in charge of designing experiments that involved molecular biology, optics, and small animal handling, along with developing protocols for each experiment. The skills I gained during this phase allowed to gain insight into the biology of cancer, and to perform rigorous research that was disseminated through publications in high impact journals. During my PhD training I had the opportunity to develop, write and secure a grant from the Arkansas Biosciences Institute, which I used to complete the last aim of my doctoral work.
+
+Furthermore, I have had the privilege of gaining valuable postdoctoral research experience in the laboratory of Dr. Bouchra Nasri at the University of Montreal. In this role, I have been involved in projects directly related to infectious diseases, public health, and natural disasters. I have had also the privilege to be involved in the process of grant writing, performing major writing duties (serving as a co-investigator) in a grant that was funded by CIHR earlier this year. 
+
+My postdoctoral tenure has honed my analytical and research skills, and enabled me to collaborate and develop partnerships in an interdisciplinary environment composed of students, public health researchers, statisticians, and mathematicians. This interdisciplinary environment has deepened my understanding of the complexities of infectious diseases and their impact on society. Overall, I believe my experiences in collaboration and grant writing, along with my interdisciplinary training at the interface of biomedical research and public health will prove valuable to the objectives of the Metabolic Disorders and Complications Program.
+
+Thank you for considering my application. I look forward to the possibility of contributing my expertise and passion for research to the Metabolic Disorders and Complications Program. I would be delighted to discuss my qualifications further and elaborate on how my experiences align with the goals of your research program.
+
+Sincerely,
+
+
+```{r eval=F, echo=FALSE, out.width='30%'}
+# knitr::include_graphics('john-hancock.png')
+# ^ put your signature here as a PNG or something.
+```
+
+Ariel Mundo Ortiz

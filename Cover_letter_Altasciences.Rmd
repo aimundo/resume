@@ -1,0 +1,53 @@
+---
+output: stevetemplates::cover_letter
+geometry: margin=0.5in
+header-includes:
+  - \linespread{1.00}
+
+author: Ariel Mundo
+address: |
+    | 427 5e Avenue
+    | Montreal, QC H4G 2Z2
+email: "aimundo.ortiz@gmail.com"
+url: aimundo.rbind.io
+phone: +1 438 875 9203
+fontsize: 11pt
+mainfont: cochineal
+monofont: Fira Code
+
+fontawesome: TRUE
+date: "`r format(Sys.time(), '%d %B %Y')`"
+greetings: "Dear Hiring Manager,"
+---
+
+```{r setup, include=FALSE}
+
+
+place <- "Altasciences"
+jobtitle <- "Scientific Reviewer, Bioanalytical Services"
+
+
+```
+
+
+I am writing to express my strong interest in the  Scientific Reviewer, Bioanalytical Services position at Altasciences recently advertised. With a background deeply rooted in interdisciplinary research, and extensive training in molecular biology, optics, and technical writing during my PhD and postdoctoral experiences, I am confident in my ability to effectively contribute in the advertised position.
+
+During my doctoral and postdoctoral training, I have developed valuable expertise in managing and leading interdisciplinary scientific projects encompassing biomedical research, statistics, and public health. My experience has involved planning, designing, and conducting research projects involving optics (spectroscopy), molecular biology (RT-qPCR, primer design, RNA extraction and purification), and small animal handling. At the same time, I gained valuable expertise in project management as I was in charge of the process from design until data collection and analysis, and I always ensured to deliver the expected outcomes before the defined deadlines.
+
+In my postdoctoral training, I have learned to adapt to new research environments in order to gain a basic understanding of the topic at hand to collaborate with different personnel (graduate students, postdoctoral fellows, principal investigators), as well as external collaborators to help manage the completion of scientific articles in a wide range of research areas that have included infectious disease modelling, natural disasters, COVID-19, and mpox. 
+
+Additionally, I have experience preparing grant and fellowship submissions for funding bodies in both the United States and Canada. Successful applications in this area in the US include the Fulbright scholarship that I held between 2017-2019, and the Arkansas Biosciences grant that I secured in 2021 toward the end of my PhD, where I was in charge of all the writing process. More recently, I collaborated as a co-investigator in the writing, editing, proofreading, and budget determination of a grant proposal submitted to the Canadian Institutes of Health Research (CIHR) by Dr. Nasri (postdoc supervisor), which was subsequently awarded funding. 
+
+My multidisciplinary background, which has spanned in the areas of education, basic biomedical research, and public health has sharpened my ability to adapt to various research domains, making me adept at understanding and articulating complex scientific ideas effectively and concisely. Moreover, my academic background has helped me develop my communication skills, both written and verbal, enabling me to engage with multidisciplinary teams and stakeholders efficiently. All these are additional assets that I believe can benefit the goals of Altasciences.
+
+Thank you for time in considering my application. I look forward to the opportunity to further discuss how my qualifications and experiences align with the needs of the Scientific Reviewer role.
+
+Sincerely,
+
+
+```{r eval=F, echo=FALSE, out.width='30%'}
+# knitr::include_graphics('john-hancock.png')
+# ^ put your signature here as a PNG or something.
+```
+
+Ariel Mundo Ortiz

@@ -1,0 +1,51 @@
+---
+output: stevetemplates::cover_letter
+geometry: margin=0.5in
+header-includes:
+  - \linespread{1.50}
+
+author: Ariel Mundo
+address: |
+    | 427 5e Avenue
+    | Montreal, QC H4G 2Z2
+email: "aimundo.ortiz@gmail.com"
+url: aimundo.rbind.io
+phone: +1 479 800 8714
+fontsize: 11pt
+mainfont: cochineal
+monofont: Fira Code
+
+fontawesome: TRUE
+date: "`r format(Sys.time(), '%d %B %Y')`"
+greetings: "Dear Dr.Kronfli"
+---
+
+```{r setup, include=FALSE}
+
+
+place <- "McGill University Health Centre (RI-MUHC)"
+jobtitle <- "Postdoctoral Fellow"
+
+
+```
+
+
+I am writing to express my strong interest in the postdoctoral in your laboratory to study sexually transmitted bloodborne infections. I believe my previous and current research background aligns closely with the requirements of this position, and I am confident in my ability to contribute significantly to your research team.
+
+I completed my Ph.D. in Biomedical Engineering in 2022, where I  studied response to chemotherapy in a mouse model of colon cancer.During my PhD training, I was in charge of designing experiments that involved molecular biology, optics, and small animal handling, along with developing protocols for each experiment. The skills I gained during this phase allowed to gain insight into the biology of cancer, and to perform rigurous research that was disseminated through publications in high impact journals.
+
+Furthermore, I have had the privilege of gaining valuable postdoctoral research experience in the laboratory of Dr. Bouchra Nasri at the University of Montreal. In this role, I have been involved in projects directly related to mpox, as you can attest from my publication list and the grant funding that I have helped secure. My postdoctoral tenure has honed my analytical and research skills, and enabled me to collaborate in an interdisciplinary environment composed of students, public health researchers, statisticians, and mathematicians. This interdisciplinary environment has deepened my understanding of the complexities of infectious diseases and their impact on society.
+
+Additionally, my proficiency with R, which I have extensively used for data analysis and modelling, can be beneficial for the research objectives of this postdoctoral position. My strong background in utilizing statistical models for longitudinal data is demonstrated by my publication record in _Statistics in Medicine_.
+
+Thank you for considering my application. I look forward to the possibility of contributing my expertise and passion for research to your lab. I would be delighted to discuss my qualifications further and elaborate on how my experiences align with the goals of your research program.
+
+Sincerely,
+
+
+```{r eval=F, echo=FALSE, out.width='30%'}
+# knitr::include_graphics('john-hancock.png')
+# ^ put your signature here as a PNG or something.
+```
+
+Ariel Mundo Ortiz
