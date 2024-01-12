@@ -1,0 +1,48 @@
+---
+output: stevetemplates::cover_letter
+geometry: margin=0.5in
+header-includes:
+  - \linespread{1.50}
+
+author: Ariel Mundo
+address: |
+    | 1796 E. Parkshore Dr. Apt. 4
+    | Fayetteville, AR, US, 72703
+email: "aimundo@uark.edu"
+url: aimundo.rbind.io
+phone: +1 479 800 8714
+fontsize: 11pt
+mainfont: cochineal
+monofont: Fira Code
+fontawesome: TRUE
+date: "`r format(Sys.time(), '%d %B %Y')`"
+greetings: "To whom it may concern:"
+---
+
+```{r setup, include=FALSE}
+
+
+place <- "Fields Institute"
+jobtitle <- "Mathematics for Public Health Postdoctoral Fellowship"
+
+
+```
+
+Testing.
+I am writing to express my interest in the Mathematics for Public Health Postdoctoral Fellowship at the Fields Institute, particularly in the Project [**project name here**]. I am a PhD Candidate in the Department of Biomedical Engineering at the University of Arkansas, where I investigate the longitudinal effects of chemotherapy in colorectal cancer vascular development. My expected date of graduation is the Spring of 2022.
+
+Biological processes such as those involved cancer exhibit non-linear trends over time. Over the course of my PhD studies, I have applied generalized additive models to analyze biological processes involved in cancer progression, thus being able to find specific time intervals where significant molecular shifts occur and where novel therapies could be investigated. For my postdoctoral training, I am interested in applying and expanding my Biostatistics knowledge in a field different from Oncology. Specifically, I want to focus on developing Statistical methods that are appropriate to analyze time-dependent public health data. My interest in this area has developed over the last two years, where the necessity of better predictive strategies to address viral transmission have become apparent in light of the ongoing Covid-19 pandemic. I believe that much can be done to develop strategies that can better inform public health policies in a timely manner, and that semi-parametric statistical methods can serve as a groundwork that can be used to serve this purpose.
+
+Therefore, I believe that my career interests align closely with the goals of the Mathematics for Public Health project of the Fields Institute; in addition, I consider that my unique combination of expertise in the area of Disease Biology and Statistics makes me a suitable candidate for the Public Health Postdoctoral Fellowship, as I can work at the interface of both fields, thus providing a unique perspective in the study of public health time-dependent data. 
+
+
+Thank you for taking the time to evaluate my application. I sincerely hope to hear from you soon.
+
+Sincerely,
+
+```{r eval=F, echo=FALSE, out.width='30%'}
+# knitr::include_graphics('john-hancock.png')
+# ^ put your signature here as a PNG or something.
+```
+
+Ariel Mundo
