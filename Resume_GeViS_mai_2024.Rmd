@@ -1,0 +1,75 @@
+---
+output: stevetemplates::statement
+geometry: margin=0.5in
+
+title: "Project Resume: 
+Leveraging high-volume data to characterize age, sex, and individual-specific vital signs and to develop novel geriatric vital signs that optimally predict clinical outcomes in older adults"
+author: Ariel Mundo Ortiz
+
+jobtitle: "Postdoctoral Fellow"
+address: "Centre de Recherche du CHUM"
+fontawesome: yes
+email: ariel.mundo.ortiz.chum@ssss.gouv.qc.ca
+#github: aimundo
+#twitter: aimundortiz
+#osf: "Enter 5 digit osf string here"
+#phone: "+1 438 875 9203"
+#web: aimundo.rbind.io
+updated: yes
+
+keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 10pt
+linkcolor: blue
+urlcolor: blue
+---
+
+
+## Introduction
+There is a need to adapt fundamental tenets of clinical care to the particularities of an aging population(1). As vital signs are central to everyday clinical decision-making, tailoring and improving vital signs may vastly transform care provided to older adults. This research project leverages big data to refine the reference intervals(2) of currently used vital signs (i.e., heart rate, blood pressure, temperature, respiratory rate, and oxygen saturation) for older adults and to create novel geriatric vital signs. 
+
+
+## Objective
+The overarching goal of this research is to tailor vital signs to improve clinical management in older adults, using novel geriatric vital signs developed through the use of high-volume data. Specifically, the project aims at expanding the domain coverage of vital signs, investigate modelling strategies to determine reference intervals, and develop multidimensional vital signs to better predict clinical outcomes compared to standard vital signs.
+
+## Methods
+We will use the Centre d’intégration et d’analyse des données médicales (CITADEL) data lake from the Centre hospitalier de l’Université de Montréal (CHUM). Briefly, CITADEL is a data lake of more than 20 data systems holding unstructured and structured rich data of all digitalized information (clinical progress notes, vital signs, laboratory test results, imaging, medications, etc.) from every single care episode (n = 20.6 million care episodes from 3.7 million unique patients) since 1998.
+
+## Population
+We will identify participants who had their vital signs measured under a stable health state, as defined by: outpatient visits, the last measured vital signs before a home or long-term facility discharge, following previous recommendations (3). For overall, age and sex-group analyses, we will exclude patients with known chronic conditions or medications likely to affect values of “normal” vital signs and patients from outpatient clinics and inpatient wards, as appropriate for each vital sign (e.g., chronic pulmonary obstructive disease and pulmonary outpatient clinics for oxygen saturation; beta-blockers, cardiology and coronary units for heart rate, etc.). Deceased patients will also be included in the CITADEL cohort as we will be using “death” as one of the clinical outcomes for this objective. 
+
+## Variables and measures
+Variables to be included are temperature, respiratory rate, and oxygen saturation will be extracted (more than one measure per participant can be recorded), glycemia, complete blood count (i.e., total white blood cells, hemoglobin, platelets), creatinine, troponin, and cholestatic liver function tests (i.e., PALC, bilirubin). These variables are chosen for their wide availability and usage in standard care. Two derived variables will also be considered: the neutrophil-to-lymphocyte ratio and the shock index (heart rate / systolic blood pressure).
+
+## Modelling strategies
+Distribution-based thresholds (non-parametric and parametric) will be considered for the overall population, age and sex-group, and individual-specific distributions of the expanded set of vital signs.  These distribution-based reference intervals will be used as an initial step to explore more advanced modelling strategies. Using a wider set of candidate vital signs and more complex modelling strategies may yield improved predictions. Modelling of continuous vital signs (single-dimension and multidimensional) to predict clinical outcomes is complicated by repeated measurements, time-varying predictors and intermediates, correlation and multicollinearity, and clustering. 
+
+## Outcomes. Selected vital sign and clinical outcome combinations that will be assessed are detailed in Table 1.
+
+\begin{table}[]
+\caption{Selected vital sign and clinical outcomes.}
+\begin{tabular}{@{}lllll@{}}
+\toprule
+\textbf{Vital signs}                    & \textbf{Threshold direction}      & \textbf{Diagnoses(days)}                                                & \textbf{Objective outcomes(days)} &  \\ \midrule
+\multicolumn{1}{|l|}{Glycemia}          & \multicolumn{1}{l|}{High and low} & \multicolumn{1}{l|}{Septicemia (5)}                                     & \multicolumn{1}{l|}{Death (14)}   &  \\ \cmidrule(r){1-4}
+\multicolumn{1}{|l|}{White blood count} & \multicolumn{1}{l|}{High}         & \multicolumn{1}{l|}{Septicemia (5), major GI bleed (4)}                 & \multicolumn{1}{l|}{Death (14)}   &  \\ \cmidrule(r){1-4}
+\multicolumn{1}{|l|}{Hemoglobin}        & \multicolumn{1}{l|}{Low}          & \multicolumn{1}{l|}{Major GI bleed (4), major post-operative bleed (4)} & \multicolumn{1}{l|}{Death (14)}   &  \\ \bottomrule
+\end{tabular}
+\end{table}
+
+
+It is expected that refined thresholds will provide insights about how to interpret vital signs based on age and sex subgroups and individual-specific values. It is expected that reference intervals will differ from those in the general population for some, but not all, vital signs. Although there may be some degree of “circularity” in the analyses (e.g., finding that low blood pressure predicts intensive care admission), tailored thresholds may lead to less false positives (over-flagging or overdiagnosis), less false negatives (under-flagging or underdiagnosis), and earlier detection of impending clinical deterioration (i.e., antecedence) thus allowing for more optimal preventive interventions and earlier management.
+
+## Impact and future directions
+
+Critical decisions for triage, treatment, prognostication, and discharge are made daily predicated on vital signs: this research holds the potential to deeply transform care delivery by tailoring these decisions to age and sex groups and to individualized health characteristics rather than historical ranges. A wide-scale investigation of vital signs to adapt and refine their usage in the fastest growing segment of the Canadian population will be carried out in adults aged 65 and over. This study will serve as a foundation to a novel research area. As big data and sensors are increasingly available, there is an opportunity to develop increasingly powerful (accurate and covering all relevant age-related domains) vital signs to monitor the health status of older adults in the acute care setting, and eventually in home, assisted living, and long-term care settings.
+
+## References
+
+1. Statistics Canada. Age and sex, and type of dwelling data: Key results from the 2016 Census The Daily Statistics Canada Catalogue no. 11-001-X. Stat Canada Cat no 11-001-X. 2017;Ottawa. http://www.statcan.gc.ca/daily-quotidien/170503/dq170503a-eng.pdf. 
+2. Lowsky DJ, Olshansky SJ, Bhattacharya J, Goldman DP. Heterogeneity in healthy aging. J Gerontol A Biol Sci Med Sci. 2014;69(6):640-649. doi:10.1093/gerona/glt162 
+3. Canadian Institute for Health Information. National Health Expenditure Trends, 1975 to 2017. Ottawa, ON; 2017. 
+
+
