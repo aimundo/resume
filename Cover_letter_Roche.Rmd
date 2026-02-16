@@ -1,0 +1,50 @@
+---
+output: stevetemplates::cover_letter
+geometry: margin=0.5in
+header-includes:
+  - \linespread{1.00}
+
+author: Ariel Mundo
+address: |
+    | 427 5e Avenue
+    | Montreal, QC H4G 2Z2
+email: "aimundo.ortiz@gmail.com"
+url: aimundo.rbind.io
+phone: +1 438 875 9203
+fontsize: 11pt
+mainfont: cochineal
+monofont: Fira Code
+
+fontawesome: TRUE
+date: "`r format(Sys.time(), '%d %B %Y')`"
+greetings: "Dear Hiring Manager,"
+---
+
+```{r setup, include=FALSE}
+
+
+place <- "Roche"
+jobtitle <- "Real-time Visual Analytics Specialist"
+
+
+```
+
+
+I am writing to express my interest in the Real-time Visual Analytics Specialist position recently advertised by Roche. I'm excited to further develop my career in this role, where I can apply the unique set of skills I have developed at the intersection of clinical research, biomedical data science, and reproducibility.
+
+I developed an interest in reproducibility and better understanding Statistics during my doctoral training, as I had to develop the research questions of my dissertation and take charge of planning experiments and collecting data. This led me to become an avid R user, and to publish a completely reproducible paper in _Statistics in Medicine_ on the use of generalized additive models for longitudinal biomedical data. To date, this is my most cited paper. The experience gained during my doctoral training motivated my desire to pursue a postdoctoral role in the area of public health. 
+
+During my first postdoctoral role, I had the chance to work in projects of public health data and disease spread and to further improve my statistical knowledge. However, it has been during my second postdoctoral role where I have had the opportunity to work first-hand with clinical data on vital signs and laboratory tests. Developing data and statistical analysis pipelines in this role has allowed me to gain deep understanding of the complexity of these data, the importance of choosing visualization tools that adequatly summarize large datasets, and the necessity of developing research questions that can have large clinical impact. I have also become familiar with concepts of medical research such as clinical outcomes, reference values and ICD10 codes. Due to the large size of the data I work with, I also have developed expertise and helped other lab members in writing code to parallelize analyses in R (using the futureverse, and more recently, mirai).
+
+
+For my next role, I am looking for an opportunity to apply all the skills I have gained in an environment centered in health and clinical research, where I can grow professionally and where I have the opportunity to collaborate in an interdisciplinary team. By nature, I am curious person and I look as well for a position that is intellectually stimulating and where I can continue to learn. I believe the Real-time Visual Analytics role is the perfect opportunity to further advance my career, where a mutually beneficial relationship can be developed. Thank you for considering my application, I look forward to discuss my qualifications further.
+
+Sincerely,
+
+
+```{r eval=F, echo=FALSE, out.width='30%'}
+# knitr::include_graphics('john-hancock.png')
+# ^ put your signature here as a PNG or something.
+```
+
+Ariel Mundo Ortiz

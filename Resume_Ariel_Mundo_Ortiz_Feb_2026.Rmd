@@ -1,0 +1,144 @@
+---
+output: stevetemplates::resume
+geometry: margin=0.5in
+title: "Resume"
+author: Ariel Mundo Ortiz
+fontawesome: yes
+location: "Montréal, QC"
+date: "02/13/2026"
+email: aimundo.ortiz@gmail.com
+github: aimundo
+twitter: aimundortiz
+linkedin: "ariel-mundo-16324b1a8"
+#osf: "Enter 5 digit osf string here"
+phone: "+1 438 875 9203"
+web: aimundo.rbind.io
+updated: yes
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 10pt
+linkcolor: blue
+urlcolor: blue
+---
+
+# Professional Experience
+
+
+**Centre de recherche du CHUM (CRCHUM)** Montréal, QC
+
+_Postdoctoral Fellow_  \hfill January 2024- Present
+
+- Working in projects of personalized medicine using big health data (electronic health records). 
+- In charge of developing data pipelines, analyses using machine learning (regression models), data visualization (all using R, including parallel computing and Git), manuscript writing and revision.
+- In charge of developing code to analyze data using a computing cluster.
+
+
+**Université de Montréal** Montréal, QC
+
+_Postdoctoral Fellow, Département de médecine sociale et préventive et au centre de recherche en santé publique_  \hfill July 2022- December 2023
+
+- Worked in projects of infectious disease modelling (mpox, COVID-19). 
+- Edited, revised and wrote academic manuscripts.
+- Developed code to clean and analyze data (in R and Git).
+- First year of postdoctoral fellowship was supported by a CRM-MfPH fellowship.
+
+**University of Arkansas** Fayetteville, AR
+
+_Graduate Research Assistant_ \hfill Aug 2017- May 2022
+
+- Designed and executed experiments in small animal models of cancer.
+- Developed methodologies to obtain relevant data.
+- Wrote grants to support research expenses.
+- Developed code pipelines to analyze longitudinal data.
+- Prepared manuscripts and prepared presentations to present research progress.
+
+
+**Universidad Rafael Landivar** Guatemala
+
+_Teaching Assistant Professor_  \hfill 2016-2017
+
+- Developed lectures for college Chemistry courses.
+- In charge of laboratory supervision and student mentoring.
+
+_Adjunct Professor_ \hfill 2013-2017
+
+- Taught Chemistry in two departments (Engineering, Health Sciences).  
+- Developed lectures, supervised laboratory experiments.
+- In charge of student mentoring and collaborating with faculty members.
+
+**Lacteos Balcanicos Glad** Guatemala
+
+_Assistant Plant Engineer_ \hfill 2012
+
+- In charge of the production of different dairy products of the company.
+- Supervised personnel and controlled material inventory material inventory.
+- Was in charge of production scheduling, and quality control reporting.
+
+# Education
+
+*University of Arkansas*, PhD. Biomedical Engineering \hfill May 2022
+
+*Universidad Rafael Landivar*, B.S. Chemical Engineering (_cum laude_) \hfill 2009
+
+
+# Technical Skills
+
+- Technical/Scientific writing
+- Project management
+- R
+- Git
+- Statistics
+
+# Awards and Recognition
+
+_Fields Institute: Mathematics for Public Health Festival (MfPHFest)_ \hfill October 2022
+
+Received funding to attend the MfPHFest conference and present postdoctoral work done in the field of Statistics. (CAD 1,500)
+
+_Centre de recherches mathématiques (CRM) MfPH-CRM Postdoctoral Fellowship_ \hfill July 2022
+
+Received postdoctoral fellowship for one year to analyze public health and behavioral data (CAD 50,000)
+
+_BME Rising Scholar_ \hfill June 2022
+
+Selected by the committee of the BME Scholars Program at Washington University in St. Louis to receive mentorship about pathways and professional success in academic careers. Award included paid travel, conference attendance and honorarium. 
+
+_Professional Awareness, Advancement, and Development (PADD) Scholar_ \hfill 2020-2021 
+ 
+ Received funding and participated in the PAAD program to supplement my graduate education in persuasive speaking, commercialization, and data science (USD 1,500).
+ 
+ _OMNI Endowed International Scholarship_ \hfill 2020
+
+Granted as a scholar fulfilling the mission of the OMNI Center in Fayetteville (USD 500)
+
+_Fulbright Faculty Development Scholarship_ \hfill 2017-2019
+
+Scholarship covered all costs of my PhD for the first two years. Only two scholarships awarded for that period in the whole country. (USD 78,000)
+
+# Grants
+
+_Canada Institutes of Health Research (CIHR)_ \hfill 2023
+
+Co-investigator in the grant "epidemiological modelling of behavioural impact on mpox mitigation strategies" lead by Prof. Nasri from Université de Montréal.
+Involved in the writing of the grant proposal, performing literature review, communicating with team members, and revising the final grant draft.
+Funding secured: CAD 412,000.
+The proposal was in the 50% rank within the competition.
+Record of the grant can be found in the  \href{https://webapps.cihr-irsc.gc.ca/decisions/p/project_details.html?applId=481271&lang=en}{CIHR funding decision database}.
+
+
+_Arkansas Biosciences Institute 2021 seed grant competition _ \hfill 2021
+
+Main author on a proposal co-submitted with Dr. Timothy Muldoon to examine gene expression and optically derived markers in a mouse model of colorectal cancer.
+Funding secured: USD 30,000.
+The proposal scored in the top 2 of all the individual research projects for the cycle.
+
+# Languages
+
+- Spanish: Native speaker
+
+- English: Full professional competency
+
+- French: Full professional competency
+
+
+

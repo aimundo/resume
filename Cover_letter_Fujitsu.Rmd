@@ -1,0 +1,50 @@
+---
+output: stevetemplates::cover_letter
+geometry: margin=0.5in
+header-includes:
+  - \linespread{1.00}
+
+author: Ariel Mundo
+address: |
+    | 427 5e Avenue
+    | Montreal, QC H4G 2Z2
+email: "aimundo.ortiz@gmail.com"
+url: aimundo.rbind.io
+phone: +1 438 875 9203
+fontsize: 11pt
+mainfont: cochineal
+monofont: Fira Code
+
+fontawesome: TRUE
+date: "`r format(Sys.time(), '%d %B %Y')`"
+greetings: "Dear Hiring Manager,"
+---
+
+```{r setup, include=FALSE}
+
+
+place <- "Fujitsu"
+jobtitle <- "Data Scientist"
+
+
+```
+
+
+I am writing to express my interest in the Data Scientist position recently advertised by Fujitsu. I'm excited to the contribution I can bring to the role and the professional development I can achieve in this role, where I can apply the unique set of skills I have developed for the analysis of data in different domains and my ability to communicate with individuals at different knowledge levels.
+
+I developed ani interest in Data Science during my doctoral training. I developed skills in data analysis and visualization during my doctoral training, as I had to find proper ways to analyze the data I had collected in my experiments. This led me to become an avid R user and to refine my Statistical knowledge. These data analysis skills have been further refined during my postdoctoral training, where I have developed skills to analyze big data in health. Big data comes with multiple considerations that need to be taken into account, and during my postdoctoral training I have become familiarized with causality and confounding, which play a central role in how data can be properly analyzed. I have also developed skills in the area of parallel computing due to the large scale nature of the data I customarily work with, implementing code that has reduce computing time by orders of magnitude.
+
+During my career, I have worked with interdisciplinary teams and subjects that combine multiple domains.Therefore, I have developed the ability to become familiar with a subject and to adequately communicate with different stakeholders about the progress in a project. I see working with diverse teams as an opportunity to learn about new approaches and consider different perspectives. The laboratory where I am currently training uses an Agile approach to perform our tasks, and I am familiar with planning sprints, estimating task times, and ensure that projects and tasks are completed by the set deadlines.
+
+
+For my next role, I am looking for an opportunity to apply all the skills I have gained in an environment where I can collaborate in an interdisciplinary team. By nature, I am curious person and I look as well for a position that is intellectually stimulating and where I can continue to learn, particularly in the area of IA. I believe the Data Science role is the perfect opportunity to further advance my career, and where the skills that I have developed will fit in nicely. Thank you for considering my application, I look forward to discuss my qualifications further.
+
+Sincerely,
+
+
+```{r eval=F, echo=FALSE, out.width='30%'}
+# knitr::include_graphics('john-hancock.png')
+# ^ put your signature here as a PNG or something.
+```
+
+Ariel Mundo Ortiz
