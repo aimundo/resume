@@ -1,0 +1,53 @@
+---
+output: stevetemplates::cover_letter
+geometry: margin=0.5in
+header-includes:
+  - \linespread{1.00}
+
+author: Ariel Mundo Ortiz
+address: |
+    | 427 5e Avenue
+    | Montreal, QC H4G 2Z2
+email: "aimundo.ortiz@gmail.com"
+url: aimundo.rbind.io
+phone: +1 438 875 9203
+fontsize: 11pt
+mainfont: cochineal
+monofont: Fira Code
+
+fontawesome: TRUE
+date: "`r format(Sys.time(), '%d %B %Y')`"
+greetings: "Dear Hiring Committee,"
+---
+
+```{r setup, include=FALSE}
+
+
+place <- "RI-MUHC"
+jobtitle <- "Data Scientist"
+
+
+```
+
+
+I am writing to express my interest in the Data Scientist position recently advertised at the Research Institute of the McGill University Health Centre (RI-MUHC). I am excited by the opportunity to contribute to projects with broad clinical impact that can help improve patient-centered care.
+
+I have 3 years of experience working with large-scale health care data. In particular, I have worked with electronic health records during my training at CRCHUM, using data from the data lake of CHUM. I have developed pipelines to clean data of laboratory tests and vital signs, which has included using multiple data sources that need to be harmonized, and I have performed statistical analyses and visualization to support clinical studies. I have emphasized reproducibility in my analyses, ensuring that results can be reproduced by collaborators and other lab members. My postdoctoral training has allowed me to further refine my ability to interpret complex data and to validate machine learning models based on hospital data to different types of bias. I have also helped eliminate bottlenecks in the developed pipelines by successfully implementing code for parallel computing in an HPC environment. 
+
+
+On the other hand, I have ample experience working with multidisciplinary teams -including clinicians, external collaborators, statisticians, students and staff-. I have coordinated workflows to achieve timely milestones in different projects during my scientific training. I have also ample experience in scientific writing, as I have published multiple first-author publications (including publications in _Statistics in Medicine_, _Vaccine_ and _Neoplasia_) and collaborated in other publications as co-author. I gained valuable experience in grant writing during my doctoral training, where I received funding for my doctoral studies (a Fulbright scholarship) and research (an Arkansas Biosciences Grant), and for a grant at the Canadian Institutes of Health Research during my first postdoctoral training (as co-investigator). 
+
+
+I am motivated by the mission of the RI-MUCH to leverage observational data to tackle important clinical questions and improve patient care. And I believe my technical and interpersonal skills fit nicely with RI-MUHC's and Dr. Buckeridge's lab research goals. I am a person that is always motivated to learn and to continually improve and I welcome the opportunity to further develop my analytical and technical skills in the advertised role. 
+
+Thank you for your time and consideration. I would be delighted to further discuss my training and experience, and how I believe they align with the required skills of the Data Scientist role.
+
+Sincerely,
+
+
+```{r eval=F, echo=FALSE, out.width='30%'}
+# knitr::include_graphics('john-hancock.png')
+# ^ put your signature here as a PNG or something.
+```
+
+Ariel Mundo Ortiz

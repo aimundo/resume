@@ -21,6 +21,8 @@ linkcolor: blue
 urlcolor: blue
 ---
 
+
+
 # Professional Experience
 
 
@@ -29,8 +31,7 @@ urlcolor: blue
 _Postdoctoral Fellow_  \hfill January 2024- Present
 
 - Working in projects of personalized medicine using big health data (electronic health records). 
-- In charge of developing data pipelines, analyses using machine learning (regression models), data visualization (all using R, including parallel computing and Git), manuscript writing and revision.
-- In charge of developing code to analyze data using a computing cluster.
+- In charge of developing data pipelines (including computing in a HPC environment), analyses using machine learning (regression models), data visualization, manuscript writing and revision.
 
 
 **Université de Montréal** Montréal, QC
@@ -39,7 +40,7 @@ _Postdoctoral Fellow, Département de médecine sociale et préventive et au cen
 
 - Worked in projects of infectious disease modelling (mpox, COVID-19). 
 - Edited, revised and wrote academic manuscripts.
-- Developed code to clean and analyze data (in R and Git).
+- In charge of developing pipelines for data cleaning and analysis.
 - First year of postdoctoral fellowship was supported by a CRM-MfPH fellowship.
 
 **University of Arkansas** Fayetteville, AR
@@ -47,8 +48,7 @@ _Postdoctoral Fellow, Département de médecine sociale et préventive et au cen
 _Graduate Research Assistant_ \hfill Aug 2017- May 2022
 
 - Designed and executed experiments in small animal models of cancer.
-- Developed methodologies to obtain relevant data.
-- Wrote grants to support research expenses.
+- Wrote and obtained grants to support studies and research costs.
 - Developed code pipelines to analyze longitudinal data.
 - Prepared manuscripts and prepared presentations to present research progress.
 
@@ -87,6 +87,7 @@ _Assistant Plant Engineer_ \hfill 2012
 - Project management
 - R
 - Git
+- Slurm
 - Statistics
 
 # Awards and Recognition
@@ -113,7 +114,7 @@ Granted as a scholar fulfilling the mission of the OMNI Center in Fayetteville (
 
 _Fulbright Faculty Development Scholarship_ \hfill 2017-2019
 
-Scholarship covered all costs of my PhD for the first two years. Only two scholarships awarded for that period in the whole country. (USD 78,000)
+Scholarship covered all costs of PhD studies for the first two years. Only two scholarships awarded for that period in the whole country. (USD 78,000)
 
 # Grants
 
@@ -125,12 +126,15 @@ Funding secured: CAD 412,000.
 The proposal was in the 50% rank within the competition.
 Record of the grant can be found in the  \href{https://webapps.cihr-irsc.gc.ca/decisions/p/project_details.html?applId=481271&lang=en}{CIHR funding decision database}.
 
-
 _Arkansas Biosciences Institute 2021 seed grant competition _ \hfill 2021
 
 Main author on a proposal co-submitted with Dr. Timothy Muldoon to examine gene expression and optically derived markers in a mouse model of colorectal cancer.
 Funding secured: USD 30,000.
 The proposal scored in the top 2 of all the individual research projects for the cycle.
+
+# Scientific Writing
+
+A list of publications can be found in my Google Scholar profile (\href{https://scholar.google.com/citations?user=3Ia93g4AAAAJ&hl=fr&oi=ao}{Link}).
 
 # Languages
 
@@ -139,6 +143,8 @@ The proposal scored in the top 2 of all the individual research projects for the
 - English: Full professional competency
 
 - French: Full professional competency
+
+
 
 
 
