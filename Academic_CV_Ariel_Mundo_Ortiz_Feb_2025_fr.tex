@@ -1,0 +1,419 @@
+% CV ----
+% This is just here so I know exactly what I'm looking at in Rstudio when messing with stuff.
+\documentclass[10pt,]{article}
+\usepackage[sc, osf]{mathpazo}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage[margin=0.5in]{geometry}
+
+
+
+
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+% Now begins the stuff that I added.
+% ----------------------------------
+
+% Custom section fonts
+\usepackage{sectsty}
+\sectionfont{\rmfamily\mdseries\large\bf}
+\subsectionfont{\rmfamily\mdseries\normalsize\scshape}
+
+
+% Make lists without bullets
+\renewenvironment{itemize}{
+  \begin{list}{}{
+    \setlength{\leftmargin}{1.5em}
+  }
+}{
+  \end{list}
+}
+
+
+% Make parskips rather than indent with lists.
+\usepackage{parskip}
+% \usepackage{titlesec}
+% \titlespacing\section{0pt}{12pt plus 4pt minus 2pt}{12pt plus 2pt minus 2pt}
+% \titlespacing\subsection{0pt}{12pt plus 4pt minus 2pt}{12pt plus 2pt minus 2pt}
+
+% Use fontawesome. Note: you'll need TeXLive 2015. Update.
+\usepackage{fontawesome}
+
+% Fancyhdr, as I tend to do with these personal documents.
+\usepackage{fancyhdr,lastpage}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0.0pt}
+\renewcommand{\footrulewidth}{0.0pt}
+\lhead{}
+\chead{}
+\rhead{}
+\lfoot{}
+\cfoot{\scriptsize  Ariel Mundo Ortiz - Resume}
+\rfoot{\scriptsize \thepage/{\hypersetup{linkcolor=black}\pageref{LastPage}}}
+
+% Always load hyperref last.
+\usepackage{hyperref}
+\PassOptionsToPackage{usenames,dvipsnames}{color} % color is loaded by hyperref
+
+\hypersetup{unicode=true,
+            pdftitle={Ariel Mundo Ortiz:  Resume (Curriculum Vitae)},
+            pdfauthor={Ariel Mundo Ortiz},
+            pdfkeywords={R Markdown, academic CV, template},
+            colorlinks=true,
+            linkcolor=blue,
+            citecolor=blue,
+            urlcolor=blue,
+            breaklinks=true, bookmarks=true}
+\urlstyle{same}  % don't use monospace font for urls
+
+% Make AP style (kinda) dates for the updated/today field
+
+\usepackage{datetime}
+\newdateformat{apstylekinda}{%
+  \shortmonthname[\THEMONTH]. \THEDAY, \THEYEAR}
+
+% \emph{Updated:} \apstylekinda\today
+% ^ removed from that front bar.
+
+\usepackage{orcidlink}
+%\usepackage{academicons}
+%\definecolor{orcidlogocol}{HTML}{A6CE39}
+% \newcommand{\orcid}[1]{\href{https://orcid.org/#1}{\textcolor[HTML]{A6CE39}{\aiOrcid}}}
+
+\begin{document}
+
+
+\centerline{\huge \bf Ariel Mundo Ortiz}
+
+\vspace{2 mm}
+
+\hrule
+
+\vspace{2 mm}
+
+\moveleft.5\hoffset\centerline{Stagiaire postdoctoral}
+\moveleft.5\hoffset\centerline{Centre de Recherche du CHUM}
+\moveleft.5\hoffset\centerline{ \faEnvelopeO \hspace{1 mm} \href{mailto:}{\tt \href{mailto:aimundo.ortiz@gmail.com}{\nolinkurl{aimundo.ortiz@gmail.com}}} \hspace{1 mm}  \faPhone \hspace{1 mm}  +1
+438 875
+9203  \hspace{1 mm}       \faGlobe \hspace{1 mm} \href{http://aimundo.rbind.io}{\tt aimundo.rbind.io}    | \emph{Updated:} \apstylekinda\today}
+
+
+
+\vspace{2 mm}
+
+\hrule
+
+
+
+\section{Formation}\label{formation}
+
+\emph{Université de l'Arkansas}, Doctorat en génie biomédical
+\hfill 2017-2022
+
+\emph{Université Rafael Landivar (Guatemala)}, Licence en génie chimique
+(avec distinction) \hfill 2005-2009
+
+\section{Expérience de recherche}\label{expuxe9rience-de-recherche}
+
+\emph{Stagiaire postdoctoral, Centre de Recherche du CHUM} (Montréal,
+QC) \hfill janvier 2024 - aujourd'hui
+
+Au sein du laboratoire NG du CRCHUM, je travaille sur des projets à
+l'intersection de la bioinformatique, des signes vitaux et de la
+médecine personnalisée. Je suis responsable du développement de chaînes
+de traitement des données, des analyses statistiques, ainsi que de la
+rédaction et de la révision d'articles scientifiques. Mes recherches
+postdoctorales ont été publiées dans \emph{Practical Laboratory
+Medicine} et \emph{The Journals of Gerontology: Series A}.
+
+\emph{Stagiaire postdoctoral, Département de médecine sociale et
+préventive et au Centre de recherche en santé publique, Université de
+Montréal} (Montréal, QC) \hfill Juillet 2022 - Décembre 2023
+
+Au Laboratoire Nasri de l'École de santé publique de Montréal (ESPUM),
+j'ai mené des recherches en modélisation des maladies infectieuses,
+incluant des analyses spatiales. Mes tâches comprenaient la rédaction,
+la révision et l'édition d'articles scientifiques, la recherche
+documentaire, la collaboration avec différents groupes de recherche, la
+contribution à des projets de recherche subventionnés du laboratoire et
+le développement de logiciels pour le nettoyage et l'analyse de données.
+Ma première année de bourse postdoctorale a été financée par une bourse
+CRM-MfPH. Mes travaux de recherche postdoctoraux ont été publiés dans
+les revues \emph{Vaccine} et \emph{One Health}.
+
+\emph{Étudiant au doctorat} (Université de l'Arkansas, Fayetteville, AR)
+\hfill août 2017 - mai 2022
+
+Élaboration de questions de recherche sur la réponse tumorale à la
+chimiothérapie. Collecte de données et programmation pour les analyses
+statistiques. Rédaction d'une demande de subvention en collaboration
+avec le directeur de thèse. Publication des articles de recherche
+doctorale dans \emph{Statistics in Medicine}, \emph{Neoplasia} et
+\emph{Journal of Biomedical Optics}.
+
+\section{Autres expériences
+pertinentes}\label{autres-expuxe9riences-pertinentes}
+
+\textbf{Université Rafael Landivar}
+
+\emph{Professeur adjoint} \hfill 2016-2017
+
+\begin{itemize}
+\tightlist
+\item
+  Professeur de chimie au Département des sciences environnementales et
+  agricoles. Responsabilités~: élaboration de cours, encadrement de
+  travaux pratiques, mentorat d'étudiants, mise à jour des manuels de
+  laboratoire pour réduire les coûts et l'impact écologique, et
+  communication avec le corps professoral.
+\end{itemize}
+
+Professeur associé \hfill 2013-2017
+
+\begin{itemize}
+\tightlist
+\item
+  Enseignement de la chimie générale aux départements d'ingénierie,
+  d'environnement et d'agriculture, et des sciences de la santé. Mes
+  fonctions comprenaient l'élaboration de cours magistraux, la
+  supervision de travaux pratiques, l'encadrement d'étudiants, la mise à
+  jour des manuels de laboratoire afin de réduire les coûts et l'impact
+  écologique, ainsi que la communication avec le corps professoral.
+\end{itemize}
+
+Lacteos Balcanicos Glad
+
+Ingénieur adjoint d'usine \hfill 2012
+
+\begin{itemize}
+\tightlist
+\item
+  Responsable de la production de différents produits latiers. Mes
+  fonctions comprenaient la supervision du personnel, la gestion des
+  stocks, la planification de la production et le contrôle qualité.
+\end{itemize}
+
+\section{Publications}\label{publications}
+
+\subsection{Articles de revue}\label{articles-de-revue}
+
+\textbf{Mundo Ortiz, Ariel I.}, Emond Jean-Philippe, Cheung Vincent
+Weng-Jy, Saeed Sahar, Desmarais Philippe, Larivière François, Hétu
+Pierre-Olivier \& Nguyen Quoc Dinh. ``The impact of pathological
+fluctuations versus biological variation on the interpretation of
+laboratory values''. \emph{Practical Laboratory Medicine} (November
+2025). \url{https://doi.org/10.1016/j.plabm.2025.e00511}.
+
+Cheung Vincent Weng-Jy, Libotte Michaël, Nguyen Patrick Viet-Quoc, Minh
+Vu Thien-Tuong, Émond Jean-Philippe, \textbf{Mundo Ortiz Ariel I.},
+Desmarais Philippe,Nguyen Quoc Dinh. ``Preliminary feasibility and
+development of a heart rate-based mobility and activity scale for
+hospitalized older adults''. \emph{The Journals of Gerontology: Series
+A} (November 2025) \url{https://doi.org/10.1093/gerona/glaf212}
+
+El-Mousawi Fatima, \textbf{Mundo Ortiz Ariel I.}, Berkat Rawda, Nasri
+Bouchra. ``The Impact of Flood Adaptation Measures on Affected
+Population's Mental Health: A mixed method Scoping Review''.
+\emph{Disaster Medicine and Public Health Preparedness} (2024).
+\url{https://doi.org/10.1101/2023.04.27.23289166}
+
+\textbf{Mundo Ortiz Ariel I.}, Nasri Bouchra. ``Socio-demographic
+determinants of COVID-19 vaccine uptake in Ontario: Exploring
+differences across the Health Region model''. Vaccine (2024).
+\url{https://doi.org/10.1016/j.vaccine.2024.02.045}.
+
+Molla Jeta, Sekkak Idriss, \textbf{Mundo Ortiz Ariel I.}, Moyles Iain,
+Nasri Bouchra. ``Mathematical modeling of mpox: a scoping review''. One
+Health (2023). \url{https://doi.org/10.1016/j.onehlt.2023.100540}
+
+\textbf{Mundo Ortiz Ariel I.}, Muhammad Abdussaboor, Balza Kerlin,
+Nelson Christopher E., Muldoon Timothy J. ``Longitudinal examination of
+perfusion and angiogenesis markers in primary colorectal tumors shows
+distinct signatures for metronomic and maximum-tolerated dose
+strategies''. Neoplasia (2022).
+\url{https://doi.org/10.1016/j.neo.2022.100825}
+
+\textbf{Mundo Ortiz Ariel I.}, Tipton John R., Muldoon Timothy J.
+``Generalized additive models to analyze non-linear trend sin biomedical
+longitudinal data using R: Beyond repeated measures ANOVA and Linear
+Mixed Models.'' Statistics in Medicine (2022).
+\url{https://doi.org/10.1002/sim.9505}
+
+\textbf{Mundo Ortiz Ariel I.}, Greening Gage, Fahr Michael J., Hale
+Lawrence N., Bullard Elizabeth, Rajaram Narasimhan, and Muldoon Timothy
+J. ``Diffuse reflectance spectroscopy to monitor murine colorectal tumor
+progression and therapeutic response.'' Journal of Biomedical Optics
+(2020). \url{https://doi.org/10.1117/1.JBO.25.3.035002}
+
+Greening Gage, \textbf{Mundo Ortiz Ariel I.}, Rajaram Narasimhan,
+Muldoon Timothy J. ``Sampling depth of a diffuse re-flectance
+spectroscopy probe forin-vivophysiological quantification of murine
+subcutaneous tumor allografts''.Journal of Biomedical Optics (2018).
+\url{https://doi.org/10.1117/1.JBO.23.8.085006}
+
+\subsection{Présentations orales}\label{pruxe9sentations-orales}
+
+\textbf{Mundo Ortiz, Ariel I.} ``Reproducible papers in the life
+sciences using R''. CANSSI Statistical Software Conference. November
+2022. Recording: \url{https://www.youtube.com/watch?v=4yRAR9fS3pg}
+
+\textbf{Mundo Ortiz, Ariel I.}. ``Statistics and Reproducibility in
+Biomedical Research''. 2022 Toronto Workshop on Reproducibility.
+Toronto, ON. February 2022. Recording:
+\url{https://www.youtube.com/watch?v=Fvkp20X5xwA}
+
+\textbf{Mundo Ortiz, Ariel I.}, Muldoon, Timothy J. ``Longitudinal
+optical and molecular quantification provides insight into the effect of
+different dosing strategies in colorectal cancer''. 2022 Biophotonics
+Congress: Biomedical Optics, Fort Lauderdale, FL, USA, April 2022.
+
+\textbf{Mundo Ortiz, Ariel I.} ``Statistics and Reproducibility in
+Biomedical Research: Why we need both''. Toronto Workshop on
+Reproducibility, University of Toronto, February 2022. Recording
+available \href{https://www.youtube.com/watch?v=Fvkp20X5xwA}{here}.
+
+\textbf{Mundo Ortiz, Ariel I.} ``Using generalized additive models for
+biomedical longitudinal data. \emph{When linear models don't work}''.
+RMedicine 2021 Conference. Recording: \url{https://tinyurl.com/39epnrp6}
+Repository (slides and data):
+\url{https://aimundo.rbind.io/talks/gams-biomedical/}
+
+\textbf{Mundo Ortiz, Ariel I.}, Abdussaboor Muhammad, and Timothy J.
+Muldoon. ``Optical and molecular longitudinal tracking of primary
+colorectal murine tumors shows differences in the angiogenic response to
+maximum-tolerated and metronomic approaches.'' In Label-free Biomedical
+Imaging and Sensing (LBIS) 2021, vol.~11655, p.~116551C.
+\emph{International Society for Optics and Photonics}, 2021.
+\url{https://doi.org/10.1117/12.2576906}
+
+\textbf{Mundo Ortiz, Ariel I.}, Elizabeth Bullard, Kyle P. Quinn, and
+Timothy J. Muldoon. ``Optical spectroscopic and imaging biomarkers of
+ulcerative colitis disease progression and remission (Conference
+Presentation).'' In Multiscale Imaging and Spectroscopy, vol.~11216,
+p.~1121605. \emph{International Society for Optics and Photonics}, 2020.
+\url{https://doi.org/10.1117/12.2543369}
+
+\textbf{Mundo Ortiz, Ariel I.}, Gage J. Greening, and Timothy Muldoon.
+``Characterization of a multimodal endoscopically deployable veterinary
+spectroscopy and imaging probe to determine therapeutic response in a
+murine orthotopic tumor model.'' In Label-free Biomedical Imaging and
+Sensing (LBIS) 2019, vol.~10890, p.~108901L. \emph{International Society
+for Optics and Photonics}, 2019.
+
+\section{Prix et distinctions}\label{prix-et-distinctions}
+
+\emph{Fields Institute : Festival de mathématiques pour la santé
+publique (MfPHFest)} \hfill Octobre 2022
+
+Financement obtenu pour participer au congrès MfPHFest et présenter des
+travaux postdoctoraux en statistique (1~500~\$ CA).
+
+\emph{Centre de recherches mathématiques (CRM) : Bourse postdoctorale
+MfPH-CRM} \hfill Juillet 2022
+
+Bourse postdoctorale obtenue pour un an afin d'analyser des données en
+santé publique et en comportement (50~000~\$ CA).
+
+\emph{Boursier émergent en génie biomédical} \hfill Juin 2022
+
+Sélectionné par le comité du programme de bourses en génie biomédical de
+l'Université Washington à Saint-Louis pour bénéficier d'un mentorat sur
+les parcours et la réussite professionnelle dans le milieu
+universitaire. La bourse comprenait la prise en charge des frais de
+voyage, de participation au congrès et une rémunération.
+
+\emph{Boursier du programme PAAD} (Professional Awareness, Advancement,
+and Development) \hfill 2020-2021
+
+J'ai bénéficié d'un financement et participé au programme PADD afin de
+compléter ma formation doctorale en communication persuasive,
+commercialisation et science des données (1~500 USD).
+
+\emph{Bourse internationale OMNI} \hfill 2020
+
+Attribuée en tant que chercheur participant à la mission du Centre OMNI
+de Fayetteville (500 USD).
+
+\emph{Bourse Fulbright pour le développement du corps professoral}
+\hfill 2017-2019
+
+Cette bourse a couvert l'intégralité des frais de mon doctorat pendant
+les deux premières années. Seules deux bourses ont été attribuées pour
+cette période dans tout le pays. (78~000 USD)
+
+\section{Subventions}\label{subventions}
+
+\emph{Instituts de recherche en santé du Canada (IRSC)} \hfill 2023
+
+Cochercheur associé au projet de subvention «~Modélisation
+épidémiologique de l'impact comportemental sur les stratégies
+d'atténuation des mpox~», dirigé par le professeur Nasri de l'Université
+de Montréal.
+
+Participation à la rédaction de la demande de subvention, à la revue de
+la littérature, aux échanges avec les membres de l'équipe et à la
+révision de la version finale.
+
+Financement obtenu~: 412~000~\$ CA.
+
+La proposition s'est classée parmi les 50~\% meilleures.
+
+Le dossier de la subvention est disponible dans la base de données des
+décisions de financement IRSC
+\href{https://webapps.cihr-irsc.gc.ca/decisions/p/project_details.html?applId=481271&lang=en}{(lien)}.
+
+\emph{Concours de subventions d'amorçage de l'Institut des biosciences
+de l'Arkansas} \hfill 2021
+
+Auteur principal d'une proposition co-soumise avec le Dr Timothy Muldoon
+visant à étudier l'expression génique et les marqueurs optiques dans un
+modèle murin de cancer colorectal.
+
+Financement obtenu~: 30~000~USD.
+
+La proposition s'est classée parmi les deux meilleures de tous les
+projets de recherche individuels de ce cycle.
+
+\section{Langages}\label{langages}
+
+\begin{itemize}
+\item
+  Espagnol : Langue maternelle
+\item
+  Anglais : Maîtrise professionnelle complète
+\item
+  Français : Maîtrise professionnelle complète
+\end{itemize}
+
+\end{document}

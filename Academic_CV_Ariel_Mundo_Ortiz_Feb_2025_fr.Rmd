@@ -1,0 +1,167 @@
+---
+output:  
+  pdf_document:
+    template: "C:/Users/User/Documents/resume/templates/template.tex"
+    keep_tex: true
+geometry: margin=0.5in
+
+title: "Resume"
+author: Ariel Mundo Ortiz
+jobtitle: "Stagiaire postdoctoral"
+address: "Centre de Recherche du CHUM"
+fontawesome: yes
+email: aimundo.ortiz@gmail.com
+#github: aimundo
+#twitter: aimundortiz
+#osf: "Enter 5 digit osf string here"
+phone: "+1 438 875 9203"
+web: aimundo.rbind.io
+updated: yes
+
+keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 10pt
+linkcolor: blue
+urlcolor: blue
+---
+
+# Formation
+
+*Université de l'Arkansas*, Doctorat en génie biomédical \hfill 2017-2022
+
+*Université Rafael Landivar (Guatemala)*, Licence en génie chimique (avec distinction) \hfill 2005-2009
+
+# Expérience de recherche
+
+_Stagiaire postdoctoral, Centre de Recherche du CHUM_ (Montréal, QC) \hfill janvier 2024 - aujourd'hui
+
+Au sein du laboratoire NG du CRCHUM, je travaille sur des projets à l'intersection de la bioinformatique, des signes vitaux et de la médecine personnalisée. Je suis responsable du développement de chaînes de traitement des données, des analyses statistiques, ainsi que de la rédaction et de la révision d'articles scientifiques. Mes recherches postdoctorales ont été publiées dans _Practical Laboratory Medicine_ et _The Journals of Gerontology: Series A_.
+
+_Stagiaire postdoctoral, Département de médecine sociale et préventive et au Centre de recherche en santé publique, Université de Montréal_ (Montréal, QC)  \hfill Juillet 2022 - Décembre 2023
+
+Au Laboratoire Nasri de l'École de santé publique de Montréal (ESPUM), j'ai mené des recherches en modélisation des maladies infectieuses, incluant des analyses spatiales. Mes tâches comprenaient la rédaction, la révision et l'édition d'articles scientifiques, la recherche documentaire, la collaboration avec différents groupes de recherche, la contribution à des projets de recherche subventionnés du laboratoire et le développement de logiciels pour le nettoyage et l'analyse de données. Ma première année de bourse postdoctorale a été financée par une bourse CRM-MfPH. Mes travaux de recherche postdoctoraux ont été publiés dans les revues _Vaccine_ et _One Health_.
+
+_Étudiant au doctorat_ (Université de l'Arkansas, Fayetteville, AR) \hfill août 2017 - mai 2022
+
+Élaboration de questions de recherche sur la réponse tumorale à la chimiothérapie. Collecte de données et programmation pour les analyses statistiques. Rédaction d'une demande de subvention en collaboration avec le directeur de thèse. Publication des articles de recherche doctorale dans _Statistics in Medicine_, _Neoplasia_ et _Journal of Biomedical Optics_.
+
+# Autres expériences pertinentes
+
+**Université Rafael Landivar**
+
+_Professeur adjoint_ \hfill 2016-2017
+
+- Professeur de chimie au Département des sciences environnementales et agricoles. Responsabilités : élaboration de cours, encadrement de travaux pratiques, mentorat d'étudiants, mise à jour des manuels de laboratoire pour réduire les coûts et l'impact écologique, et communication avec le corps professoral.
+
+Professeur associé \hfill 2013-2017
+
+- Enseignement de la chimie générale aux départements d'ingénierie, d'environnement et d'agriculture, et des sciences de la santé. Mes fonctions comprenaient l'élaboration de cours magistraux, la supervision de travaux pratiques, l'encadrement d'étudiants, la mise à jour des manuels de laboratoire afin de réduire les coûts et l'impact écologique, ainsi que la communication avec le corps professoral.
+
+Lacteos Balcanicos Glad
+
+Ingénieur adjoint d'usine \hfill 2012
+
+- Responsable de la production de différents produits latiers. Mes fonctions comprenaient la supervision du personnel, la gestion des stocks, la planification de la production et le contrôle qualité.
+
+# Publications
+## Articles de revue
+
+**Mundo Ortiz, Ariel I.**, Emond Jean-Philippe, Cheung Vincent Weng-Jy, Saeed Sahar, Desmarais Philippe, Larivière François, Hétu Pierre-Olivier & Nguyen Quoc Dinh. "The impact of pathological fluctuations versus biological variation on the interpretation of laboratory values". _Practical Laboratory Medicine_ (November 2025). https://doi.org/10.1016/j.plabm.2025.e00511.
+
+Cheung Vincent Weng-Jy, Libotte Michaël, Nguyen Patrick Viet-Quoc, Minh Vu Thien-Tuong, Émond Jean-Philippe, **Mundo Ortiz Ariel I.**, Desmarais Philippe,Nguyen Quoc Dinh. "Preliminary feasibility and development of a heart rate-based mobility and activity scale for hospitalized older adults". _The Journals of Gerontology: Series A_ (November 2025) https://doi.org/10.1093/gerona/glaf212
+
+El-Mousawi Fatima, **Mundo Ortiz Ariel I.**, Berkat Rawda, Nasri Bouchra. "The Impact of Flood Adaptation Measures on Affected Population’s Mental Health: A mixed method Scoping Review". _Disaster Medicine and Public Health Preparedness_ (2024).  https://doi.org/10.1101/2023.04.27.23289166 
+
+
+**Mundo Ortiz Ariel I.**, Nasri Bouchra. "Socio-demographic determinants of COVID-19 vaccine uptake in Ontario: Exploring differences across the Health Region model". Vaccine (2024). https://doi.org/10.1016/j.vaccine.2024.02.045.
+
+
+Molla Jeta, Sekkak Idriss, **Mundo Ortiz Ariel I.**, Moyles Iain, Nasri Bouchra. “Mathematical modeling of mpox: a scoping review”.  One Health (2023). https://doi.org/10.1016/j.onehlt.2023.100540
+
+**Mundo Ortiz Ariel I.**, Muhammad Abdussaboor, Balza Kerlin, Nelson Christopher E., Muldoon Timothy J. “Longitudinal examination of perfusion and angiogenesis markers in primary colorectal tumors shows distinct signatures for metronomic and maximum-tolerated dose strategies”. Neoplasia (2022). https://doi.org/10.1016/j.neo.2022.100825
+
+**Mundo Ortiz  Ariel I.**, Tipton John R., Muldoon  Timothy J. “Generalized additive models to analyze non-linear trend sin biomedical longitudinal data using R: Beyond repeated measures ANOVA and Linear Mixed Models.” Statistics in Medicine (2022). https://doi.org/10.1002/sim.9505
+
+**Mundo Ortiz  Ariel I.**, Greening  Gage, Fahr  Michael J., Hale  Lawrence N., Bullard  Elizabeth, Rajaram  Narasimhan, and Muldoon Timothy J. “Diffuse reflectance spectroscopy to monitor murine colorectal tumor progression and therapeutic response.” Journal of Biomedical Optics (2020). https://doi.org/10.1117/1.JBO.25.3.035002
+
+Greening Gage, **Mundo Ortiz Ariel I.**,  Rajaram Narasimhan,  Muldoon Timothy  J.  “Sampling  depth  of  a  diffuse  re-flectance spectroscopy probe forin-vivophysiological quantification of murine subcutaneous tumor allografts”.Journal of Biomedical Optics (2018). https://doi.org/10.1117/1.JBO.23.8.085006
+
+## Présentations orales
+
+**Mundo Ortiz, Ariel I.** "Reproducible papers in the life sciences using R". CANSSI Statistical Software Conference. November 2022. Recording: https://www.youtube.com/watch?v=4yRAR9fS3pg
+
+**Mundo Ortiz, Ariel I.**. "Statistics and Reproducibility in Biomedical Research". 2022 Toronto Workshop on Reproducibility. Toronto, ON. February 2022. Recording: https://www.youtube.com/watch?v=Fvkp20X5xwA
+
+**Mundo Ortiz, Ariel I.**, Muldoon, Timothy J. "Longitudinal optical and molecular quantification provides insight into the effect of different dosing strategies in colorectal cancer". 2022 Biophotonics Congress: Biomedical Optics, Fort Lauderdale, FL, USA, April 2022.
+
+**Mundo Ortiz, Ariel I.** "Statistics and Reproducibility in Biomedical Research: Why we need both". Toronto Workshop on Reproducibility, University of Toronto, February 2022. Recording available [here](https://www.youtube.com/watch?v=Fvkp20X5xwA).
+
+**Mundo Ortiz, Ariel I.** "Using generalized additive models for biomedical longitudinal data. _When linear models don't work_". RMedicine 2021 Conference. Recording: https://tinyurl.com/39epnrp6 Repository (slides and data): https://aimundo.rbind.io/talks/gams-biomedical/
+
+**Mundo Ortiz, Ariel I.**, Abdussaboor Muhammad, and Timothy J. Muldoon. "Optical and molecular longitudinal tracking of primary colorectal murine tumors shows differences in the angiogenic response to maximum-tolerated and metronomic approaches." In Label-free Biomedical Imaging and Sensing (LBIS) 2021, vol. 11655, p. 116551C. _International Society for Optics and Photonics_, 2021. https://doi.org/10.1117/12.2576906
+
+**Mundo Ortiz, Ariel I.**, Elizabeth Bullard, Kyle P. Quinn, and Timothy J. Muldoon. "Optical spectroscopic and imaging biomarkers of ulcerative colitis disease progression and remission (Conference Presentation)." In Multiscale Imaging and Spectroscopy, vol. 11216, p. 1121605. _International Society for Optics and Photonics_, 2020. https://doi.org/10.1117/12.2543369
+
+**Mundo Ortiz, Ariel I.**, Gage J. Greening, and Timothy Muldoon. "Characterization of a multimodal endoscopically deployable veterinary spectroscopy and imaging probe to determine therapeutic response in a murine orthotopic tumor model." In Label-free Biomedical Imaging and Sensing (LBIS) 2019, vol. 10890, p. 108901L. _International Society for Optics and Photonics_, 2019.
+
+
+# Prix et distinctions
+
+_Fields Institute : Festival de mathématiques pour la santé publique (MfPHFest)_ \hfill Octobre 2022
+
+Financement obtenu pour participer au congrès MfPHFest et présenter des travaux postdoctoraux en statistique (1 500 $ CA).
+
+_Centre de recherches mathématiques (CRM) : Bourse postdoctorale MfPH-CRM_ \hfill Juillet 2022
+
+Bourse postdoctorale obtenue pour un an afin d'analyser des données en santé publique et en comportement (50 000 $ CA).
+
+_Boursier émergent en génie biomédical_ \hfill Juin 2022
+
+Sélectionné par le comité du programme de bourses en génie biomédical de l'Université Washington à Saint-Louis pour bénéficier d'un mentorat sur les parcours et la réussite professionnelle dans le milieu universitaire. La bourse comprenait la prise en charge des frais de voyage, de participation au congrès et une rémunération.
+
+_Boursier du programme PAAD_ (Professional Awareness, Advancement, and Development) \hfill 2020-2021
+
+J'ai bénéficié d'un financement et participé au programme PADD afin de compléter ma formation doctorale en communication persuasive, commercialisation et science des données (1 500 USD).
+
+_Bourse internationale OMNI_ \hfill 2020
+
+Attribuée en tant que chercheur participant à la mission du Centre OMNI de Fayetteville (500 USD).
+
+_Bourse Fulbright pour le développement du corps professoral_ \hfill 2017-2019
+
+Cette bourse a couvert l'intégralité des frais de mon doctorat pendant les deux premières années. Seules deux bourses ont été attribuées pour cette période dans tout le pays. (78 000 USD)
+
+# Subventions
+
+_Instituts de recherche en santé du Canada (IRSC)_ \hfill 2023
+
+Cochercheur associé au projet de subvention « Modélisation épidémiologique de l’impact comportemental sur les stratégies d’atténuation des mpox », dirigé par le professeur Nasri de l’Université de Montréal.
+
+Participation à la rédaction de la demande de subvention, à la revue de la littérature, aux échanges avec les membres de l’équipe et à la révision de la version finale.
+
+Financement obtenu : 412 000 $ CA.
+
+La proposition s’est classée parmi les 50 % meilleures.
+
+Le dossier de la subvention est disponible dans la base de données des décisions de financement IRSC  \href{https://webapps.cihr-irsc.gc.ca/decisions/p/project_details.html?applId=481271&lang=en}{(lien)}.
+
+
+_Concours de subventions d'amorçage de l'Institut des biosciences de l'Arkansas_ \hfill 2021
+
+Auteur principal d'une proposition co-soumise avec le Dr Timothy Muldoon visant à étudier l'expression génique et les marqueurs optiques dans un modèle murin de cancer colorectal.
+
+Financement obtenu : 30 000 USD.
+
+La proposition s'est classée parmi les deux meilleures de tous les projets de recherche individuels de ce cycle.
+
+# Langages
+
+- Espagnol : Langue maternelle
+
+- Anglais : Maîtrise professionnelle complète
+
+- Français : Maîtrise professionnelle complète
+
+
