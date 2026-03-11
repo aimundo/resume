@@ -29,27 +29,27 @@ urlcolor: blue
 
 # Formation
 
-*Université de l'Arkansas*, Doctorat en génie biomédical \hfill 2017-2022
+*University of Arkansas*, Doctorat en génie biomédical \hfill 2017-2022
 
-*Université Rafael Landivar (Guatemala)*, Licence en génie chimique (avec distinction) \hfill 2005-2009
+*Universidad Rafael Landivar (Guatemala)*, Baccalauréat en génie chimique (avec distinction) \hfill 2005-2009
 
 # Expérience de recherche
 
-_Stagiaire postdoctoral, Centre de Recherche du CHUM_ (Montréal, QC) \hfill janvier 2024 - aujourd'hui
+_Stagiaire postdoctoral, Centre de Recherche du CHUM_ (Montréal, QC) \hfill janvier 2024 - présent
 
 Au sein du laboratoire NG du CRCHUM, je travaille sur des projets à l'intersection de la bioinformatique, des signes vitaux et de la médecine personnalisée. Je suis responsable du développement de chaînes de traitement des données, des analyses statistiques, ainsi que de la rédaction et de la révision d'articles scientifiques. Mes recherches postdoctorales ont été publiées dans _Practical Laboratory Medicine_ et _The Journals of Gerontology: Series A_.
 
-_Stagiaire postdoctoral, Département de médecine sociale et préventive et au Centre de recherche en santé publique, Université de Montréal_ (Montréal, QC)  \hfill Juillet 2022 - Décembre 2023
+_Stagiaire postdoctoral, Département de médecine sociale et préventive et au Centre de recherche en santé publique, Université de Montréal_ (Montréal, QC)  \hfill juillet 2022 - décembre 2023
 
 Au Laboratoire Nasri de l'École de santé publique de Montréal (ESPUM), j'ai mené des recherches en modélisation des maladies infectieuses, incluant des analyses spatiales. Mes tâches comprenaient la rédaction, la révision et l'édition d'articles scientifiques, la recherche documentaire, la collaboration avec différents groupes de recherche, la contribution à des projets de recherche subventionnés du laboratoire et le développement de logiciels pour le nettoyage et l'analyse de données. Ma première année de bourse postdoctorale a été financée par une bourse CRM-MfPH. Mes travaux de recherche postdoctoraux ont été publiés dans les revues _Vaccine_ et _One Health_.
 
-_Étudiant au doctorat_ (Université de l'Arkansas, Fayetteville, AR) \hfill août 2017 - mai 2022
+_Assistant de recherche_ (Université de l'Arkansas, Fayetteville, AR) \hfill août 2017 - mai 2022
 
 Élaboration de questions de recherche sur la réponse tumorale à la chimiothérapie. Collecte de données et programmation pour les analyses statistiques. Rédaction d'une demande de subvention en collaboration avec le directeur de thèse. Publication des articles de recherche doctorale dans _Statistics in Medicine_, _Neoplasia_ et _Journal of Biomedical Optics_.
 
 # Autres expériences pertinentes
 
-**Université Rafael Landivar**
+**Universidad Rafael Landivar**
 
 _Professeur adjoint_ \hfill 2016-2017
 
@@ -63,7 +63,7 @@ Lacteos Balcanicos Glad
 
 Ingénieur adjoint d'usine \hfill 2012
 
-- Responsable de la production de différents produits latiers. Mes fonctions comprenaient la supervision du personnel, la gestion des stocks, la planification de la production et le contrôle qualité.
+- Responsable de la production de différents produits laitiers. Mes fonctions comprenaient la supervision du personnel, la gestion des stocks, la planification de la production et le contrôle qualité.
 
 # Publications
 ## Articles de revue
