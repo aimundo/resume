@@ -1,0 +1,56 @@
+---
+output: stevetemplates::cover_letter
+geometry: margin=0.5in
+header-includes:
+  - \linespread{1.00}
+
+author: Ariel Mundo Ortiz
+address: |
+    | 427 5e Avenue
+    | Montreal, QC H4G 2Z2
+email: "aimundo.ortiz@gmail.com"
+url: aimundo.rbind.io
+phone: +1 438 875 9203
+fontsize: 11pt
+mainfont: cochineal
+monofont: Fira Code
+
+fontawesome: TRUE
+date: "`r format(Sys.time(), '%d %B %Y')`"
+greetings: "Dear Hiring Manager,"
+---
+
+```{r setup, include=FALSE}
+
+
+place <- "RI-MUHC"
+jobtitle <- "Research Associate"
+
+
+```
+
+
+I am writing to express my interest in the Research Associate position in the laboratory of Dr. Jonathan Spicer, which was recently advertised at the Research Institute of the McGill University Health Centre (RI-MUHC). I am excited by the opportunity to contribute to projects in cancer research that can help improve patient-centered care.
+
+I have more than 5 years of experience working in research. I have worked in projects that range from studying cancer chemotherapy in a small animal model to projects of personalized medicine using big health data. During my PhD I was charged with developing the research questions of my dissertation, designing experiments, collecting and analyzing data, and writing the corresponding manuscripts. This experience allowed me to develop skills on project management, statistical programming and scientific writing. As a result, I published three manuscripts from my PhD work.
+
+
+My postdoctoral training has been centered in leveraging big health care data in the context of personalized medicine. I have developed skills in statistical programming, developing pipelines to clean, analyze, and visualize data, and writing scientific manuscripts. My postdoctoral training has permitted me to further refine my ability to interpret complex data. My postdoctoral training has allowed me to gain as well to gain experience in clinical research and the challenges associated to analyzing large observational datasets. 
+
+
+On the other hand, I have ample experience working with multidisciplinary teams -including clinicians, external collaborators, statisticians, students and staff-. I have coordinated workflows to achieve timely milestones in different projects during my scientific training. I gained valuable experience in grant writing during my doctoral training, where I received funding for my doctoral studies (a Fulbright scholarship) and research (an Arkansas Biosciences Grant), and for a grant at the Canadian Institutes of Health Research during my first postdoctoral training (as co-investigator). 
+
+
+I am motivated by the mission of the Cancer Research Program at RI-MUCH, and I look forward to collaborating and contributing to the ongoing projects. And I believe my technical and interpersonal skills fit nicely with Dr. Spicer's lab. I am a person that is always motivated to learn and to continually improve and I welcome the opportunity to further develop my analytical and technical skills in the advertised role. 
+
+Thank you for your time and consideration. I would be delighted to further discuss my training and experience, and how I believe they align with the required skills of the Research Associate role.
+
+Sincerely,
+
+
+```{r eval=F, echo=FALSE, out.width='30%'}
+# knitr::include_graphics('john-hancock.png')
+# ^ put your signature here as a PNG or something.
+```
+
+Ariel Mundo Ortiz

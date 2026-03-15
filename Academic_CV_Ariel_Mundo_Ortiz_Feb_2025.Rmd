@@ -31,7 +31,7 @@ urlcolor: blue
 
 *University of Arkansas*, PhD. Biomedical Engineering \hfill May 2022
 
-*Universidad Rafael Landivar (Guatemala)*, B.S. Chemical Engineering (_cum laude_) \hfill 2009
+*Universidad Rafael Landivar*, B.S. Chemical Engineering (_cum laude_) \hfill 2009
 
 
 # Research Experience
@@ -42,12 +42,12 @@ Working at the NG lab at CRCHUM in projects at the intersection of bioinformatic
 
 _Postdoctoral Fellow, Département de médecine sociale et préventive et au centre de recherche en santé publique_ (Université de Montréal, Montreal, QC) \hfill July 2022- December 2023
 
-Worked at the Nasri Lab at the School of Public Health (ESPUM) doing research in infectious disease modelling, incluiding spatial analyses. Duties included writing, editing, and revising academic manuscripts, doing literature searches, collaborating with different research groups, contributing to ongoing grant projects from the lab, writing code to clean and analyze data. First year of postdoctoral fellowship was supported by a CRM-MfPH fellowship. Postdoctoral research published in _Vaccine_ and _One Health_.
+Worked at the Nasri Lab at the School of Public Health (ESPUM) in projects of infectious disease modelling, including spatial analyses. Duties included writing, editing, and revising academic manuscripts, doing literature searches, coordinating projects with students and collaborators, contributing to write grants from the lab, writing code to clean and analyze data. First year of postdoctoral fellowship was supported by a CRM-MfPH fellowship. Postdoctoral research published in _Vaccine_ and _One Health_.
 
 
 _Graduate Research Assistant_ (University of Arkansas, Fayetteville, AR) \hfill Aug 2017- May 2022
 
-Developed research questions to study tumor response to chemoterapy. Collected data, wrote code for statistical analyses. Writing duties included as well a grant proposal in collaboration with the main supervisor. Manuscripts of PhD research were published in _Statistics in Medicine_, _Neoplasia_, and _Journal of Biomedical Optics_.
+Developed, managed, and executed research to study tumor response to chemoterapy in a small animal model of colorectal cancer. Managed animal colony, collected and interpreted data from experiments, and wrote correspoding manuscripts. Writing duties included as well a grant proposal in collaboration with the main supervisor to support the completion of last dissertation objective. Manuscripts of PhD research were published in the _Journal of Biomedical Optics_, _Statistics in Medicine_, and _Neoplasia_.
 
 # Other Relevant Experience
 
@@ -77,26 +77,26 @@ Cheung Vincent Weng-Jy, Libotte Michaël, Nguyen Patrick Viet-Quoc, Minh Vu Thie
 El-Mousawi Fatima, **Mundo Ortiz Ariel I.**, Berkat Rawda, Nasri Bouchra. "The Impact of Flood Adaptation Measures on Affected Population’s Mental Health: A mixed method Scoping Review". _Disaster Medicine and Public Health Preparedness_ (2024).  https://doi.org/10.1101/2023.04.27.23289166 
 
 
-**Mundo Ortiz Ariel I.**, Nasri Bouchra. "Socio-demographic determinants of COVID-19 vaccine uptake in Ontario: Exploring differences across the Health Region model". Vaccine (2024). https://doi.org/10.1016/j.vaccine.2024.02.045.
+**Mundo Ortiz Ariel I.**, Nasri Bouchra. "Socio-demographic determinants of COVID-19 vaccine uptake in Ontario: Exploring differences across the Health Region model". _Vaccine_ (2024). https://doi.org/10.1016/j.vaccine.2024.02.045.
 
 
-Molla Jeta, Sekkak Idriss, **Mundo Ortiz Ariel I.**, Moyles Iain, Nasri Bouchra. “Mathematical modeling of mpox: a scoping review”.  One Health (2023). https://doi.org/10.1016/j.onehlt.2023.100540
+Molla Jeta, Sekkak Idriss, **Mundo Ortiz Ariel I.**, Moyles Iain, Nasri Bouchra. “Mathematical modeling of mpox: a scoping review”.  _One Health_ (2023). https://doi.org/10.1016/j.onehlt.2023.100540
 
-**Mundo Ortiz Ariel I.**, Muhammad Abdussaboor, Balza Kerlin, Nelson Christopher E., Muldoon Timothy J. “Longitudinal examination of perfusion and angiogenesis markers in primary colorectal tumors shows distinct signatures for metronomic and maximum-tolerated dose strategies”. Neoplasia (2022). https://doi.org/10.1016/j.neo.2022.100825
+**Mundo Ortiz Ariel I.**, Muhammad Abdussaboor, Balza Kerlin, Nelson Christopher E., Muldoon Timothy J. “Longitudinal examination of perfusion and angiogenesis markers in primary colorectal tumors shows distinct signatures for metronomic and maximum-tolerated dose strategies”. _Neoplasia_ (2022). https://doi.org/10.1016/j.neo.2022.100825
 
-**Mundo Ortiz  Ariel I.**, Tipton John R., Muldoon  Timothy J. “Generalized additive models to analyze non-linear trend sin biomedical longitudinal data using R: Beyond repeated measures ANOVA and Linear Mixed Models.” Statistics in Medicine (2022). https://doi.org/10.1002/sim.9505
+**Mundo Ortiz  Ariel I.**, Tipton John R., Muldoon  Timothy J. “Generalized additive models to analyze non-linear trend sin biomedical longitudinal data using R: Beyond repeated measures ANOVA and Linear Mixed Models.” _Statistics in Medicine_ (2022). https://doi.org/10.1002/sim.9505
 
-**Mundo Ortiz  Ariel I.**, Greening  Gage, Fahr  Michael J., Hale  Lawrence N., Bullard  Elizabeth, Rajaram  Narasimhan, and Muldoon Timothy J. “Diffuse reflectance spectroscopy to monitor murine colorectal tumor progression and therapeutic response.” Journal of Biomedical Optics (2020). https://doi.org/10.1117/1.JBO.25.3.035002
+**Mundo Ortiz  Ariel I.**, Greening  Gage, Fahr  Michael J., Hale  Lawrence N., Bullard  Elizabeth, Rajaram  Narasimhan, and Muldoon Timothy J. “Diffuse reflectance spectroscopy to monitor murine colorectal tumor progression and therapeutic response.” _Journal of Biomedical Optics_ (2020). https://doi.org/10.1117/1.JBO.25.3.035002
 
-Greening Gage, **Mundo Ortiz Ariel I.**,  Rajaram Narasimhan,  Muldoon Timothy  J.  “Sampling  depth  of  a  diffuse  re-flectance spectroscopy probe forin-vivophysiological quantification of murine subcutaneous tumor allografts”.Journal of Biomedical Optics (2018). https://doi.org/10.1117/1.JBO.23.8.085006
+Greening Gage, **Mundo Ortiz Ariel I.**,  Rajaram Narasimhan,  Muldoon Timothy  J.  “Sampling  depth  of  a  diffuse  re-flectance spectroscopy probe forin-vivophysiological quantification of murine subcutaneous tumor allografts”. _Journal of Biomedical Optics_ (2018). https://doi.org/10.1117/1.JBO.23.8.085006
 
 ## Conference Presentations
 
-**Mundo Ortiz, Ariel I.** "Reproducible papers in the life sciences using R". CANSSI Statistical Software Conference. November 2022. Recording: https://www.youtube.com/watch?v=4yRAR9fS3pg
+**Mundo Ortiz, Ariel I.** "Reproducible papers in the life sciences using R". _CANSSI Statistical Software Conference_. November 2022. Recording: https://www.youtube.com/watch?v=4yRAR9fS3pg
 
-**Mundo Ortiz, Ariel I.**. "Statistics and Reproducibility in Biomedical Research". 2022 Toronto Workshop on Reproducibility. Toronto, ON. February 2022. Recording: https://www.youtube.com/watch?v=Fvkp20X5xwA
+**Mundo Ortiz, Ariel I.**. "Statistics and Reproducibility in Biomedical Research". _2022 Toronto Workshop on Reproducibility_. Toronto, ON. February 2022. Recording: https://www.youtube.com/watch?v=Fvkp20X5xwA
 
-**Mundo Ortiz, Ariel I.**, Muldoon, Timothy J. "Longitudinal optical and molecular quantification provides insight into the effect of different dosing strategies in colorectal cancer". 2022 Biophotonics Congress: Biomedical Optics, Fort Lauderdale, FL, USA, April 2022.
+**Mundo Ortiz, Ariel I.**, Muldoon, Timothy J. "Longitudinal optical and molecular quantification provides insight into the effect of different dosing strategies in colorectal cancer". _2022 Biophotonics Congress: Biomedical Optics_. Fort Lauderdale, FL, USA, April 2022.
 
 **Mundo Ortiz, Ariel I.** "Statistics and Reproducibility in Biomedical Research: Why we need both". Toronto Workshop on Reproducibility, University of Toronto, February 2022. Recording available [here](https://www.youtube.com/watch?v=Fvkp20X5xwA).
 

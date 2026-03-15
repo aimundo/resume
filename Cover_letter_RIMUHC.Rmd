@@ -17,22 +17,25 @@ monofont: Fira Code
 
 fontawesome: TRUE
 date: "`r format(Sys.time(), '%d %B %Y')`"
-greetings: "Dear Hiring Committee,"
+greetings: "Dear Hiring Manager,"
 ---
 
 ```{r setup, include=FALSE}
 
 
 place <- "RI-MUHC"
-jobtitle <- "Data Scientist"
+jobtitle <- "Research Associate"
 
 
 ```
 
 
-I am writing to express my interest in the Data Scientist position recently advertised at the Research Institute of the McGill University Health Centre (RI-MUHC). I am excited by the opportunity to contribute to projects with broad clinical impact that can help improve patient-centered care.
+I am writing to express my interest in the Research Associate position in the laboratory of Dr. Jonathan Spicer, which was recently advertised at the Research Institute of the McGill University Health Centre (RI-MUHC). I am excited by the opportunity to contribute to projects in cancer research that can help improve patient-centered care.
 
-I have 3 years of experience working with large-scale health care data. In particular, I have worked with electronic health records during my training at CRCHUM, using data from the data lake of CHUM. I have developed pipelines to clean data of laboratory tests and vital signs, which has included using multiple data sources that need to be harmonized, and I have performed statistical analyses and visualization to support clinical studies. I have emphasized reproducibility in my analyses, ensuring that results can be reproduced by collaborators and other lab members. My postdoctoral training has allowed me to further refine my ability to interpret complex data and to validate machine learning models based on hospital data to different types of bias. I have also helped eliminate bottlenecks in the developed pipelines by successfully implementing code for parallel computing in an HPC environment. 
+I have more than 5 years of experience working in research. I have worked in projects that range from studying cancer chemotherapy in a small animal model to projects of personalized medicine using big health data. During my PhD I was charged with developing the research questions of my dissertation, designing experiments, collecting and analyzing data, and writing the corresponding manuscripts. This experience allowed me to develop skills on project management, statistical programming and scientific writing. As a result, I published three manuscripts 
+
+
+with large-scale health care data. In particular, I have worked with electronic health records during my training at CRCHUM, using data from the data lake of CHUM. I have developed pipelines to clean data of laboratory tests and vital signs, which has included using multiple data sources that need to be harmonized, and I have performed statistical analyses and visualization to support clinical studies. I have emphasized reproducibility in my analyses, ensuring that results can be reproduced by collaborators and other lab members. My postdoctoral training has allowed me to further refine my ability to interpret complex data and to validate machine learning models based on hospital data to different types of bias. I have also helped eliminate bottlenecks in the developed pipelines by successfully implementing code for parallel computing in an HPC environment. 
 
 
 On the other hand, I have ample experience working with multidisciplinary teams -including clinicians, external collaborators, statisticians, students and staff-. I have coordinated workflows to achieve timely milestones in different projects during my scientific training. I have also ample experience in scientific writing, as I have published multiple first-author publications (including publications in _Statistics in Medicine_, _Vaccine_ and _Neoplasia_) and collaborated in other publications as co-author. I gained valuable experience in grant writing during my doctoral training, where I received funding for my doctoral studies (a Fulbright scholarship) and research (an Arkansas Biosciences Grant), and for a grant at the Canadian Institutes of Health Research during my first postdoctoral training (as co-investigator). 
