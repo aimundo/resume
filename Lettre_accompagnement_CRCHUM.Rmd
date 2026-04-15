@@ -1,0 +1,49 @@
+---
+output: stevetemplates::cover_letter
+geometry: margin=0.5in
+header-includes:
+  - \linespread{1.00}
+
+author: Ariel Mundo Ortiz
+address: |
+    | 427 5e Avenue
+    | Montreal, QC H4G 2Z2
+email: "aimundo.ortiz@gmail.com"
+url: aimundo.rbind.io
+phone: +1 438 875 9203
+fontsize: 11pt
+mainfont: cochineal
+monofont: Fira Code
+
+fontawesome: TRUE
+date: "`r format(Sys.time(), '%d %B %Y')`"
+greetings: "Madame, Monsieur,"
+---
+
+```{r setup, include=FALSE}
+
+
+place <- "Centre de recherche du CHUM"
+jobtitle <- "Lettre de motivation"
+
+
+```
+
+
+Je souhaite présenter mon intérêt comme candidat aux différents postes disponibles au CRCHUM. Je possède une solide expérience dans le domaine de la recherche que je souhaite mettre au service du CRCHUM.
+
+Je possède un doctorat en génie biomédicale et mon parcours m'a permis de travailler dans la recherche fondamentale et la recherche clinique. J’ai eu l'opportunité, pendant mon entraînement postdoctoral au sein de l'Université de Montréal et du CRCHUM, de travailler dans la recherche quantitative en utilisant des bases de données masives dans le domaine de la santé. Surtout, j'ai pu développer une expertise pour les méthodes quantitatives, la rédaction scientifique, le travail interdisciplinaire, et la rigeur scientifique. 
+
+
+Je suis particulièrement intéressé par les environnements de travail collaboratifs, qui visent l’innovation et l’impact concret. Mon stage au sein du CRCHUM m'a montré l'importance que ce centre joue dans le milieu scientifique québécois, canadien, et mondial, et je serais ravi d'y continuer mon développement professionnel en travaillant avec une des différentes équipes de recherche.
+
+Je serais heureux d’avoir l’occasion de discuter plus en détail de ma candidature lors d’un entretien. Je vous remercie sincèrement pour l’attention portée à mon dossier.
+
+Veuillez agréer, Madame, Monsieur, l’expression de mes salutations distinguées.
+
+```{r eval=F, echo=FALSE, out.width='30%'}
+# knitr::include_graphics('john-hancock.png')
+# ^ put your signature here as a PNG or something.
+```
+
+Ariel Mundo Ortiz

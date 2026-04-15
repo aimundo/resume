@@ -1,0 +1,48 @@
+---
+output: stevetemplates::cover_letter
+geometry: margin=0.5in
+header-includes:
+  - \linespread{1.00}
+
+author: Ariel Mundo Ortiz
+address: |
+    | 427 5e Avenue
+    | Montreal, QC H4G 2Z2
+email: "aimundo.ortiz@gmail.com"
+url: aimundo.rbind.io
+phone: +1 438 875 9203
+fontsize: 11pt
+mainfont: cochineal
+monofont: Fira Code
+
+fontawesome: TRUE
+date: "`r format(Sys.time(), '%d %B %Y')`"
+greetings: "Dear Dr Eisenberg,"
+---
+
+```{r setup, include=FALSE}
+
+
+place <- "Lady Davis Institute for Medical Research"
+jobtitle <- "Clinical Research Assistant"
+
+
+```
+
+
+I am writing to express my interest in the Clinical Research Assistant position in your lab at the Lady Davis Institute for Medical Research. My postdoctoral training at CRCHUM has allowed me to gain experience working in clinical research. I have worked in cohort studies centered in using vital signs and laboratory biomarkers for improve care for older adults. I have been in charge of analysis pipelines, statistical analyses, and data visualization using massive electronic health records data. I am also familiar with methods of evidence synthesis, having collaborated in a scoping review during my first postdoctoral training at Université de Montréal.
+
+I have also ample experience in scientific writing and project management. I have published multiple first-author publications (including publications in _Practical Laboratory Medicine_, _Statistics in Medicine_, _Vaccine_ and _Neoplasia_) and collaborated in other publications as co-author. I gained valuable experience in grant writing during my doctoral training, where I received funding for my doctoral studies (a Fulbright scholarship) and research (an Arkansas Biosciences Grant), and for a grant at the Canadian Institutes of Health Research during my first postdoctoral training (as co-investigator). In the second case, I have been in charge of coordinating with multidisciplinary research teams to meet deadlines and submit manuscripts. I have developed communication and management skills that have proved valuable to the different projects, which is reflected by my publication and collaboration record.
+
+I am passionate about clinical research, and I believe that my skills can contribute significantly to the  different projects of your lab in cardiovascular research. Having read about your ongoing projects, I am interested in the different areas that are currently covered (weight loss, smoking, vaping), and I am sure working in your lab will be cognitively stimulating, which is something I value and appreciate.  
+
+Thank you for your time and consideration. I would be delighted to further discuss my training and experience, and how I believe they align with the required skills of the Clinical Research Assistant role. Attached to this letter you will find my academic CV, transcripts, and three samples of writing in publications where I have been first author.
+
+Sincerely,
+
+```{r eval=F, echo=FALSE, out.width='30%'}
+# knitr::include_graphics('john-hancock.png')
+# ^ put your signature here as a PNG or something.
+```
+
+Ariel Mundo Ortiz

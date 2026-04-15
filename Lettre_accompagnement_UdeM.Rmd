@@ -24,19 +24,18 @@ greetings: "Madame, Monsieur,"
 
 
 place <- "Université de Montréal"
-jobtitle <- "Coordonateur principal"
+jobtitle <- "Analyste en recherche et planification"
 
 
 ```
 
 
-Je souhaite présenter mon intérêt pour le poste de coordonnateur principal au sein du GRIP, qui été affiché sur le portail des carrières de l’Université de Montréal. Je possède une solide expérience dans le milieu de la recherche interdisciplinaire, que je souhaite mettre au service de l'équipe GRIP.
+Je souhaite présenter mon intérêt pour le poste d'analyste en recherche et planification, qui été affiché sur le portail des carrières de l’Université de Montréal. Je possède une solide expérience dans l'analyse des données complexes dans le milieu de la recherche, que je souhaite mettre au service de la direction du budget, de l'analyse et de la planification institutionnelle.
 
-Pendant mon expérience doctoral et postdoctoral, j’ai eu l'opportunité de coordonner et collaborer des projets à l’interface de la bioinformatique, des données cliniques et de la santé publique. Ces projets m'on permis de collaborer avec des équipes multidisciplinaires et de développer une approche de travail en équipe, où je vise à soutenir et aider les autres membres de l'équipe pour la réussite des projets et l'harmonie au travail.
+Je possède un doctorat en génie biomédicale et j’ai eu l'opportunité, pendant mon entraînement postdoctoral au sein de l'Université de Montréal, de travailler dans la recherche quantitative en utilisant des bases de données masives dans le domaine de la santé. Surtout, j'ai pu développer une expertise pour le nettoyage de données, les analyses statistiques pertinentes (analyses paramétriques et semiparamétriques), ainsi que pour la visualisation des données complexes. Même si mon expertise a été développé en utilisant des données observationnelles, je suis convaincu que mes habilités analityques s'alignent parfaitement avec les besoins du poste affiché. 
 
-Mon parcours doctoral et postdoctoral m’a également permis de développer une expertise en méthodes quantitatives, la programmation scientifique, et la rédaction des articles scientifiques et des demandes de subvention. Ma productivité en terme de publications faites depuis mon doctorat, et des demandes réussites de subvention où j'ai pu participer témoignent cette expertise. J'ai eu aussi l'opportunité de former et superviser des étudiants des différents cycles dans mon rôle comme professeur universitaire.
 
-Je suis particulièrement intéressé par les environnements de travail collaboratifs, qui visent l’innovation et l’impact concret sur la recherche ou les pratiques en santé. Je suis convaincu que mon profil analytique, et mon expérience en recherche appliquée me permettront de contribuer de manière significative à vos projets.
+Je suis particulièrement intéressé par les environnements de travail collaboratifs, qui visent l’innovation et l’impact concret. Je suis convaincu que mon profil analytique, et mon expérience en recherche appliquée me permettront de contribuer de manière significative à vos projets.
 
 Je serais heureux d’avoir l’occasion de discuter plus en détail de ma candidature lors d’un entretien. Je vous remercie sincèrement pour l’attention portée à mon dossier.
 
