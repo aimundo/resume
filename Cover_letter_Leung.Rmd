@@ -1,0 +1,51 @@
+---
+output: stevetemplates::cover_letter
+geometry: margin=0.5in
+header-includes:
+  - \linespread{1.00}
+
+author: Ariel Mundo Ortiz
+address: |
+    | 427 5e Avenue
+    | Montreal, QC H4G 2Z2
+email: "aimundo.ortiz@gmail.com"
+url: aimundo.rbind.io
+phone: +1 438 875 9203
+fontsize: 11pt
+mainfont: cochineal
+monofont: Fira Code
+
+fontawesome: TRUE
+date: "`r format(Sys.time(), '%d %B %Y')`"
+greetings: ""
+---
+
+```{r setup, include=FALSE}
+
+
+place <- "Research Institute of the McGill University Health Centre"
+jobtitle <- "Research Assistant – Cancer Research Program (J0426-0635)"
+
+
+```
+
+Dear Hiring Committee,
+
+
+I am writing to apply for the Research Assistant (J0426-0635) position in the Leung Lab at the RI-MUHC. Dr. Leung's work on biomarkers for cervical pre-cancer and cancer, including circulating tumor DNA detection, closely aligns with my background in preclinical cancer research and clinical research. Her recent work examining HPV ctDNA as a response biomarker in metastatic cervical cancer is the kind of clinically relevant, translational science I am eager to support. My experience in health data analysis, clinical research, and manuscript preparation makes me a strong candidate for this role.
+
+In my current postdoctoral position at CRCHUM, I work directly with electronic health records and large clinical datasets. I build data pipelines, apply appropriate statistical methods for analysis, produce data visualizations, and write manuscripts. This work requires close collaboration with clinicians and research teams, and careful management of ethics-related administrative requirements. These are precisely the duties described in the Leung Lab position, and I am confident I can significantly contribute from day one due to my doctoral training in cancer research.
+
+My project management experience spans multiple funded research programs. I have been a co-investigator on a CIHR grant totalling CAD 412,000, contributing to proposal writing, literature review, and team coordination. Earlier, I was the lead author on a seed grant that ranked in the top 2 of all submissions at the University of Arkansas. Managing timelines, coordinating collaborators, and meeting reporting requirements are responsibilities I have handled across all my positions.
+
+I am bilingual in English and French, with full professional competency in both languages. I also bring experience writing and revising peer-reviewed manuscripts, working within HPC environments, and using R and Git for reproducible analysis workflows. I would welcome the opportunity to discuss how my background fits the needs of the Leung Lab. Thank you for your time and consideration.
+
+Sincerely,
+
+
+```{r eval=F, echo=FALSE, out.width='30%'}
+# knitr::include_graphics('john-hancock.png')
+# ^ put your signature here as a PNG or something.
+```
+
+Ariel Mundo Ortiz
