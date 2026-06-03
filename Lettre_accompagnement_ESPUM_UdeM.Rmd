@@ -1,0 +1,54 @@
+---
+output: stevetemplates::cover_letter
+geometry: margin=0.5in
+header-includes:
+  - \linespread{1.00}
+
+author: Ariel Mundo Ortiz
+address: |
+    | 427 5e Avenue
+    | Montreal, QC H4G 2Z2
+email: "aimundo.ortiz@gmail.com"
+url: aimundo.rbind.io
+phone: +1 438 875 9203
+fontsize: 11pt
+mainfont: cochineal
+monofont: Fira Code
+
+fontawesome: TRUE
+date: "`r format(Sys.time(), '%d %B %Y')`"
+greetings: "Madame, Monsieur,"
+---
+
+```{r setup, include=FALSE}
+
+
+place <- "Centre de recherche du CHUM"
+jobtitle <- "Lettre de motivation"
+
+
+```
+
+
+Je souhaite vous soumettre ma candidature au poste de **531596-coordonnateur principal** à l’Unité de santé internationale au sein de l'école de santé publique de l'Université de Montréal (ESPUM).  Je suis certain que mon profil, qui combine la recherche clinique et la gestion des projets interdisciplinaires, correspond bien aux exigences de ce poste.
+
+Détenteur d'un doctorat en génie biomédical, je suis actuellement stagiaire postdoctoral au Centre de recherche du CHUM, où je travaille sur des projets de recherche clinique à l’intersection de la bioinformatique, des signes vitaux, des données cliniques et de la médecine personnalisée. Une partie centrale de mes responsabilités est de gérer et organiser le déroulement des projets qui me sont attribués, afin de m'assurer que chaque étape est réalisée selon le chronogramme établi. Je suis une personne très organisée, qui a la capacité de communiquer avec des équipes interdisciplinaires composées de cliniciens, de chercheurs, d'étudiants, et personnel de recherche.
+
+Dans mon expérience doctorale et postdoctorale, j'ai eu l'opportunité, aux États-Unis et au Canada, de contribuer à différentes demandes de subvention qui ont été octroyées. Notamment, dans mon premier stage postdoctoral à l'ESPUM, j'ai pu contribuer comme co-chercheur au projet 'Epidemiological modelling of behavioural impact on Mpox mitigation strategies' octroyé par les Instituts de recherche en santé du Canada. Pour cette demande, j'ai contribué à toutes les étapes: la conception et rédaction de la demande, ainsi qu'à l'organisation et coordination avec d'autres co-chercheurs pour pouvoir soumettre la demande dans les délais établis. Cette expérience m'a permis de connaître toutes les étapes d'une demande, travailler avec des équipes interdisciplinaires, et développer une expertise dans la gestion de ce genre de projets. 
+
+Je suis passionné pour la recherche en santé surtout pour des projets ayant une portée mondiale, comme ceux qui font partie à l'Unité de santé internationale, et je suis sûr que cette passion me permettra de m'engager à donner mon maximum dans le rôle de coordonnateur principal. De plus, un atout important que je possèede pour ce rôle est la maîtrise du français, de l'anglais, et de l'espagnol, ce qui me permettra de communiquer directement avec une diversité de chercheurs et d'établir une dynamique étroite de travail avec eux.
+
+
+Je vous remercie de l’attention portée à ma candidature et demeure disponible pour un entretien.
+
+Veuillez agréer, Madame, Monsieur, l’expression de mes salutations distinguées.
+
+
+
+
+```{r eval=F, echo=FALSE, out.width='30%'}
+# knitr::include_graphics('john-hancock.png')
+# ^ put your signature here as a PNG or something.
+```
+
+Ariel Mundo Ortiz

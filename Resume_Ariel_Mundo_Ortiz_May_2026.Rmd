@@ -31,7 +31,7 @@ urlcolor: blue
 _Postdoctoral Fellow_  \hfill January 2024- Present
 
 - Working in projects of personalized medicine using big health data (electronic health records). 
-- In charge of developing data pipelines (including computing in a HPC environment), data analyses using machine learning (regression models), data visualization, manuscript writing and revision.
+- In charge of developing data pipelines (including computing in a HPC environment), data analyses using machine learning, data visualization, and communicate findings in scientific manuscripts and conference presentations.
 
 
 **Université de Montréal** Montréal, QC
@@ -90,7 +90,7 @@ _Assistant Plant Engineer_ \hfill 2012
 - R
 - Git
 - Slurm
-- Statistics
+- Statistics/Machine learning
 
 # Awards and Recognition
 

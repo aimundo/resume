@@ -1,0 +1,53 @@
+---
+output: stevetemplates::cover_letter
+geometry: margin=0.5in
+header-includes:
+  - \linespread{1.00}
+
+author: Ariel Mundo Ortiz
+address: |
+    | 427 5e Avenue
+    | Montreal, QC H4G 2Z2
+email: "aimundo.ortiz@gmail.com"
+url: aimundo.rbind.io
+phone: +1 438 875 9203
+fontsize: 11pt
+mainfont: cochineal
+monofont: Fira Code
+
+fontawesome: TRUE
+date: "`r format(Sys.time(), '%d %B %Y')`"
+greetings: "Madame, Monsieur,"
+---
+
+```{r setup, include=FALSE}
+
+
+place <- "Centre de recherche du CHUM"
+jobtitle <- "Lettre de motivation"
+
+
+```
+
+
+Je souhaite vous soumettre ma candidature au poste **J0426-0104 - Conseillère scientifique spécialisée ou conseiller scientifique spécialisé** à l’unité scientifique Vigie des maladies infectieuses (VMI).  Je suis certain que mon profil, qui combine la recherche clinique et le traitement des données massives, est idéal pour ce poste.
+
+Je suis actuellement stagiaire postdoctoral au Centre de recherche du CHUM, où je travaille sur des projets à l’intersection de la bioinformatique, des signes vitaux, des données cliniques et de la médecine personnalisée. J’y développe des pipelines de traitement des données, réalise les analyses statistiques et contribue à la rédaction de manuscrits scientifiques. L'environnement de recherche clinique du CRCHUM m'a permis de développer la rigueur méthodologique pour les analyses et le traitement de données, et d'apprendre à fonctionner dans une équipe interdisciplinare.
+
+R constitue l’outil central de mon travail scientifique depuis plusieurs années. J’utilise R pour la modélisation statistique avancée, l’automatisation des analyses, le développement de flux reproductibles et le calcul parallèle dans les environnements de calcul haute performance. Cette expertise m’a conduit à publier un article dans _Statistics in Medicine_ pendant mon doctorat, et de participer aux conférences R/Medicine 2021 et 2026.
+
+J’apprécie particulièrement les projets nécessitant à la fois autonomie analytique, coordination entre collaborateurs et structuration de projets complexes. Mon expérience en rédaction scientifique, en supervision de travaux auxiliaires et en collaboration avec plusieurs équipes de recherche me permettrait de contribuer efficacement au sein de la VMI.
+
+Je vous remercie de l’attention portée à ma candidature et demeure disponible pour un entretien.
+
+Veuillez agréer, Madame, Monsieur, l’expression de mes salutations distinguées.
+
+
+
+
+```{r eval=F, echo=FALSE, out.width='30%'}
+# knitr::include_graphics('john-hancock.png')
+# ^ put your signature here as a PNG or something.
+```
+
+Ariel Mundo Ortiz

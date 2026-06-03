@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.2.13)  22 MAY 2026 18:20
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.2.13)  3 JUN 2026 15:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**Resume_Ariel_Mundo_Ortiz_May_2026.tex
-(./Resume_Ariel_Mundo_Ortiz_May_2026.tex
+**Resume_Ariel_Mundo_Ortiz_Juin_2026_FR.tex
+(./Resume_Ariel_Mundo_Ortiz_Juin_2026_FR.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
 (c:/Users/User/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/article.cls
@@ -585,8 +585,8 @@ Package hyperref Info: Option `breaklinks' set `true' on input line 132.
 Package hyperref Warning: Option `bookmarks' has already been used,
 (hyperref)                setting the option has no effect on input line 132.
 
-(./Resume_Ariel_Mundo_Ortiz_May_2026.aux)
-\openout1 = `Resume_Ariel_Mundo_Ortiz_May_2026.aux'.
+(./Resume_Ariel_Mundo_Ortiz_Juin_2026_FR.aux)
+\openout1 = `Resume_Ariel_Mundo_Ortiz_Juin_2026_FR.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 134.
 LaTeX Font Info:    ... okay on input line 134.
@@ -914,7 +914,7 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 
 ] [2] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
-(./Resume_Ariel_Mundo_Ortiz_May_2026.aux)
+(./Resume_Ariel_Mundo_Ortiz_Juin_2026_FR.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
@@ -922,11 +922,11 @@ L3 programming layer <2026-01-19>
  ) 
 Here is how much of TeX's memory you used:
  20230 strings out of 470190
- 363829 string characters out of 5477220
- 972800 words of memory out of 5000000
+ 363900 string characters out of 5477220
+ 971824 words of memory out of 5000000
  48551 multiletter control sequences out of 15000+600000
  633089 words of font info for 85 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 90i,11n,126p,1222b,648s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 90i,11n,126p,1226b,648s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Resume_Ariel_Mundo_Ortiz_May_2026.pdf (2 pages).
+Output written on Resume_Ariel_Mundo_Ortiz_Juin_2026_FR.pdf (2 pages).

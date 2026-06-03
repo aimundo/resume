@@ -1,0 +1,53 @@
+---
+output: stevetemplates::cover_letter
+geometry: margin=0.5in
+header-includes:
+  - \linespread{1.00}
+
+author: Ariel Mundo Ortiz
+address: |
+    | 427 5e Avenue
+    | Montreal, QC H4G 2Z2
+email: "aimundo.ortiz@gmail.com"
+url: aimundo.rbind.io
+phone: +1 438 875 9203
+fontsize: 11pt
+mainfont: cochineal
+monofont: Fira Code
+
+fontawesome: TRUE
+date: "`r format(Sys.time(), '%d %B %Y')`"
+greetings: "Madame, Monsieur,"
+---
+
+```{r setup, include=FALSE}
+
+
+place <- "Centre de recherche du CHUM"
+jobtitle <- "Lettre de motivation"
+
+
+```
+
+
+Je souhaite vous soumettre ma candidature au poste de **531827-conseiller en statistiques** à la Faculté de médecine vétérinaire de l'Université de Montréal.  Je suis certain que mon profil, qui combine la recherche clinique et une solide expérience dans le traitement et l'analyse statistique de données de santé, correspond bien aux exigences de ce poste.
+
+Dans mon expérience doctorale et postdoctorale, j'ai pu développer mon expertise dans le domaine des analyses statistiques pour les données biomédicales. De manière importante, j'ai pu travailler dans la recherche fondamentale, et dans la recherche clinique, ce qui m'a permis de me familiariser et d'utiliser différents modèles statistiques, au delà des analyses classiques comme ANOVA, la régression linéaire ou les tests non-paramétriques. Notamment, je maîtrise les modèles mixtes et les modèles semi-parametriques tels que les GAMs. J'ai publié un article dans _Statistics in Medicine_ à propos de ces derniers modèles appliqués aux données biomédicales. Je suis capable de bien choisir le type de visualisation adéquat dans chaque cas.
+
+
+Je suis passionné pour la recherche en santé et surtout, j'aime aider les autres à trouver la meilleure façon d'analyser leurs données. Dans mon expérience doctorale, j'ai pu conseiller des chercheurs, et des étudiants au doctorat, maîtrise et baccaléaureat pour les analyses statistiques et la visualisation de données. Je suis sûr que cette passion et expérience me permettra aider effectivement les étudiants de la Faculté de médecine vétérinaire dans le rôle de conseiller en statistiques.
+
+
+Je vous remercie de l’attention portée à ma candidature et demeure disponible pour un entretien.
+
+Veuillez agréer, Madame, Monsieur, l’expression de mes salutations distinguées.
+
+
+
+
+```{r eval=F, echo=FALSE, out.width='30%'}
+# knitr::include_graphics('john-hancock.png')
+# ^ put your signature here as a PNG or something.
+```
+
+Ariel Mundo Ortiz

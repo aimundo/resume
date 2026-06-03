@@ -1,0 +1,52 @@
+---
+output: stevetemplates::cover_letter
+geometry: margin=0.5in
+header-includes:
+  - \linespread{1.00}
+
+author: Ariel Mundo Ortiz
+address: |
+    | 427 5e Avenue
+    | Montreal, QC H4G 2Z2
+email: "aimundo.ortiz@gmail.com"
+url: aimundo.rbind.io
+phone: +1 438 875 9203
+fontsize: 11pt
+mainfont: cochineal
+monofont: Fira Code
+
+fontawesome: TRUE
+date: "`r format(Sys.time(), '%d %B %Y')`"
+greetings: ""
+---
+
+```{r setup, include=FALSE}
+
+
+place <- "Research Institute of the McGill University Health Centre"
+jobtitle <- "Research Assistant – Cancer Research Program (J0426-0635)"
+
+
+```
+
+Dear Hiring Committee,
+
+
+I am applying for the Data Science and Valorization Specialist position at the Douglas Research Centre. I believe I possess the required skill toolset for the position due to my ample experience working with big health care data.
+
+My experience and skills align closely with your requirements. In my role at CRCHUM, I am in charge of developing reproducible milestones to analyze big health data: data processing pipelines, machine learning analyses, and data visualization. My doctoral and postdoctoral have also helped me to develop skills in project coordination, collaborative research, and scientific communication. My current work involves communicating complex findings from data with millions of observations across multiple years and thousands of participants to clinicians, other data analysts and laboratory personnel. I am able to find the best way to communicate complex findings depending on the target audience. 
+
+In addition to technical expertise, because I work on a French-centered environment, I bring strong organizational, communication, and bilingual skills in English and French. My background in biomedical engineering, infectious disease modeling, and biomedical health data science has prepared me to contribute effectively to roles centered in health research. I am particularly excited by the role at the Douglas Center, because it fits with my interests on working in high impact research environments that leverage massive data to improve health outcomes.
+
+
+Thank you for considering my application. I welcome the opportunity to discuss my qualifications further.
+
+Sincerely,
+
+
+```{r eval=F, echo=FALSE, out.width='30%'}
+# knitr::include_graphics('john-hancock.png')
+# ^ put your signature here as a PNG or something.
+```
+
+Ariel Mundo Ortiz

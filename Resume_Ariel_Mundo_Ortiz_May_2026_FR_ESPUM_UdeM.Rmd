@@ -1,0 +1,131 @@
+---
+output: stevetemplates::resume
+geometry: margin=0.5in
+title: "Resume"
+author: Ariel Mundo Ortiz
+fontawesome: yes
+location: "Montréal, QC"
+date: "02/13/2026"
+email: aimundo.ortiz@gmail.com
+github: aimundo
+twitter: aimundortiz
+linkedin: "ariel-mundo-16324b1a8"
+#osf: "Enter 5 digit osf string here"
+phone: "+1 438 875 9203"
+web: aimundo.rbind.io
+updated: yes
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 10pt
+linkcolor: blue
+urlcolor: blue
+---
+
+
+
+# Expérience professionnelle
+
+
+**Centre de recherche du CHUM (CRCHUM)** Montréal, QC
+
+_Stagiaire postdoctoral_  \hfill Janvier 2024-Présent
+
+- Travail sur des projets de médecine personnalisée utilisant des mégadonnées en santé (dossiers médicaux électroniques).
+- Responsable du processus complet des projets: analyse et visualisation de données, communication des
+résultats dans des manuscrits scientifiques et des présentations.
+
+
+**Université de Montréal** Montréal, QC
+
+_Département de médecine sociale et préventive et au centre de recherche en santé publique_
+
+_Staigiare postdoctoral_   \hfill Juillet 2022-Décembre 2023
+
+- Travail sur des projets de modélisation des maladies infectieuses (mpox, COVID-19).
+- Révision, correction et rédaction de manuscrits académiques sur les thèmes de recherche.
+- Responsable du développement de pipelines pour le nettoyage et l’analyse des données.
+- La première année du stage postdoctoral a été financée par une bourse CRM-MfPH.
+
+**University of Arkansas** Fayetteville, AR
+
+_Assistant de recherche (doctorat)_ \hfill Août 2017-Mai 2022
+
+- Conception et réalisation d’expériences sur de petits modèles animaux de cancer.
+- Rédaction et obtention de subventions pour soutenir les études et les coûts de recherche.
+- Développement de pipelines de code pour analyser des données longitudinales.
+- Préparation de manuscrits et de présentations scientifiques.
+
+
+**Universidad Rafael Landivar** Guatemala
+
+_Professeur adjoint_  \hfill Janvier 2013-Juillet 2017
+
+- Enseignement de la chimie dans les départements d’ingénierie et des sciences de la santé.
+- Développement de cours, supervision d’expériences en laboratoire et mentorat étudiant.
+
+**Lacteos Balcanicos Glad** Guatemala
+
+_Ingénieur d'usine_ \hfill Janvier 2012-Juin 2012
+
+- En charge d'une équipe de 15 personnes pour la production des produits latières de la compagnie. 
+
+
+# Formation
+
+*University of Arkansas*, PhD. génie biomédical \hfill Mai 2022
+
+*Universidad Rafael Landivar*, Baccalauréat en génie chimique  \hfill Décembre 2009
+
+
+# Compétences techniques
+
+- Rédaction technique et scientifique
+- Gestion de projet
+- Recherche interdisciplinaire
+- Recherche en santé
+
+# Prix et distinctions
+
+_Fields Institute: Mathematics for Public Health Festival (MfPHFest)_ \hfill Octobre 2022
+
+- Financement pour participer à la conférence et présenter des travaux postdoctoraux en statistiques (CAD 1,500)
+
+_Centre de recherches mathématiques (CRM) MfPH-CRM Postdoctoral Fellowship_ \hfill Juillet 2022
+
+- Financement pour l’analyse de données en santé publique et comportementales (CAD 50,000)
+
+_BME Rising Scholar_ \hfill Juin 2022
+
+- Programme de mentorat académique à Washington University in St. Louis.
+
+
+_Fulbright Faculty Development Scholarship_ \hfill Août 2017- Mai 2019
+
+Bourse pour couvrir les premières deux années du doctorat. Juste 2 bourses octroyées dans tout le pays (USD 78,000)
+
+# Subventions
+
+_Canada Institutes of Health Research (CIHR)_ \hfill 2023
+
+- Cochercheur sur un projet de modélisation épidémiologique lié aux stratégies d’atténuation du mpox.
+
+  La décision de financement se trouve \href{https://webapps.cihr-irsc.gc.ca/decisions/p/project_details.html?applId=481271&lang=en}{ici}.
+
+_Arkansas Biosciences Institute 2021 seed grant competition _ \hfill 2021
+
+Auteur principal d’une soumission portant sur les marqueurs dérivés optiquement dans un modèle murin de cancer colorectal (USD 30,000)
+
+# Rédaction scientifique
+
+Une liste de publications est disponible sur mon profil Google Scholar (\href{https://scholar.google.com/citations?user=3Ia93g4AAAAJ&hl=fr&oi=ao}{Link}).
+
+# Langues
+
+- Espagnol : langue maternelle
+- Anglais : compétence professionnelle complète
+- Français : compétence professionnelle complète
+
+
+
+
+
