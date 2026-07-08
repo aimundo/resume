@@ -1,0 +1,148 @@
+---
+output: stevetemplates::resume
+geometry: margin=0.5in
+title: "Resume"
+author: Ariel Mundo Ortiz
+fontawesome: yes
+location: "Montréal, QC"
+date: "02/13/2026"
+email: aimundo.ortiz@gmail.com
+github: aimundo
+twitter: aimundortiz
+linkedin: "ariel-mundo-16324b1a8"
+#osf: "Enter 5 digit osf string here"
+phone: "+1 438 875 9203"
+web: aimundo.rbind.io
+updated: yes
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 10pt
+linkcolor: blue
+urlcolor: blue
+---
+
+
+
+# Experiencia profesional
+
+
+**Centre de recherche du CHUM (CRCHUM)** Montréal, QC
+
+*Investigador postdoctoral*  \hfill Enero 2024- Actualidad
+
+- Trabajando en proyectos de medicina personalizada utilizando grandes bases de datos de salud (historias clínicas electrónicas).
+- Responsable del desarrollo de flujos de trabajo reproducibles para el procesamiento de datos (incluyendo computación en entornos HPC), análisis de datos mediante aprendizaje automático, visualización de datos y comunicación de resultados en manuscritos científicos y presentaciones en congresos.
+
+**Université de Montréal** Montréal, QC
+
+*Département de médecine sociale et préventive et au centre de recherche en santé publique*
+
+*Investigador postdoctoral*   \hfill Julio 2022- Diciembre 2023
+
+* Participacion en proyectos de modelización de enfermedades infecciosas (mpox, COVID-19).
+* Edicion, revision y redaccion de manuscritos académicos.
+* Responsable del desarrollo de flujos de trabajo para la limpieza y análisis de datos.
+* El primer año de la estancia postdoctoral fue financiado por una beca CRM-MfPH.
+
+**University of Arkansas** Fayetteville, AR
+
+*Asistente de investigación de posgrado* \hfill Agosto 2017- Mayo 2022
+
+- Diseño y ejecucion experimentos en modelos animales pequeños de cáncer.
+- Redaccion y obtencion de subvenciones para apoyar estudios y costos de investigación.
+- Desarrollo de flujos de trabajo de programación para analizar datos longitudinales.
+- Escritura de  manuscritos y presentaciones para comunicar los avances de investigación.
+
+**Universidad Rafael Landivar** Guatemala
+
+*Profesor auxiliar*  \hfill 2016-2017
+
+-  Desarrollo clases para cursos universitarios de Química.
+- Responsable de la supervisión de laboratorios y la mentoría de estudiantes.
+
+*Profesor adjunto* \hfill 2013-2017
+
+* Impartiendo cursos de Química en dos facultades (Ingeniería y Ciencias de la Salud).
+* Desarrollo clases y supervisé experimentos de laboratorio.
+* Responsable de la mentoría estudiantil y de colaborar con miembros del profesorado.
+
+**Lacteos Balcanicos Glad** Guatemala
+
+*Ingeniero asistente de planta* \hfill 2012
+
+* Responsable de la producción de distintos productos lácteos de la empresa.
+* Supervision al personal y controlé el inventario de materiales.
+* Responsable de la programación de la producción y de la elaboración de informes de control de calidad.
+
+# Educación
+
+*University of Arkansas*, PhD. Ingeniería Biomédica \hfill Mayo 2022
+
+*Universidad Rafael Landivar*, Licenciatura en Ingeniería Química (*cum laude*) \hfill 2009
+
+# Habilidades Técnicas
+
+* Redacción técnica y científica
+* Gestión de proyectos
+* R
+* Quarto-RMarkdown
+* LaTeX
+* Git
+* Slurm
+* Estadística paramétrica, semiparamétrica y no paramétrica
+
+# Premios y Reconocimientos
+
+*Fields Institute: Mathematics for Public Health Festival (MfPHFest)* \hfill Octubre 2022
+
+Financiamiento para asistir a la conferencia MfPHFest y presentar trabajo postdoctoral realizado en el área de Estadística. (CAD 1,500)
+
+*Centre de recherches mathématiques (CRM) MfPH-CRM Postdoctoral Fellowship* \hfill Julio 2022
+
+Beca postdoctoral por un año para analizar datos de salud pública y comportamiento humano. (CAD 50,000)
+
+*BME Rising Scholar* \hfill Junio 2022
+
+Seleccionado por el comité del programa BME Scholars de Washington University in St. Louis para recibir mentoría sobre trayectorias y éxito profesional en carreras académicas. El reconocimiento incluyó viaje financiado, asistencia a conferencias y honorarios.
+
+*Professional Awareness, Advancement, and Development (PADD) Scholar* \hfill 2020-2021
+
+Financiamiento y participé en el programa PADD para complementar mi formación de posgrado en oratoria persuasiva, comercialización y ciencia de datos. (USD 1,500)
+
+*OMNI Endowed International Scholarship* \hfill 2020
+
+Otorgada como becario que cumplía con la misión del OMNI Center en Fayetteville. (USD 500)
+
+*Fulbright Faculty Development Scholarship* \hfill 2017-2019
+
+La beca cubrió todos los costos de los estudios doctorales durante los primeros dos años. Solo se otorgaron dos becas de este tipo en todo el país durante ese período. (USD 78,000)
+
+# Subvenciones
+
+*Canada Institutes of Health Research (CIHR)* \hfill 2023
+
+Coinvestigador en la subvención "epidemiological modelling of behavioural impact on mpox mitigation strategies", liderada por el Prof. Nasri de Université de Montréal.
+Participé en la redacción de la propuesta, la revisión de la literatura, la comunicación con los miembros del equipo y la revisión de la versión final.
+Financiamiento obtenido: CAD 412,000.
+La propuesta se ubicó dentro del 50% superior de la competencia.
+El registro de la subvención puede consultarse en la \href{https://webapps.cihr-irsc.gc.ca/decisions/p/project_details.html?applId=481271&lang=en}{base de datos de decisiones de financiamiento del CIHR}.
+
+*Arkansas Biosciences Institute 2021 seed grant competition* \hfill 2021
+
+Autor principal de una propuesta presentada conjuntamente con Dr. Timothy Muldoon para examinar la expresión génica y marcadores derivados ópticamente en un modelo murino de cáncer colorrectal.
+Financiamiento obtenido: USD 30,000.
+La propuesta obtuvo una calificación dentro de las dos mejores entre todos los proyectos individuales de investigación del ciclo.
+
+# Producción Científica
+
+Una lista de publicaciones puede encontrarse en mi perfil de Google Scholar (\href{https://scholar.google.com/citations?user=3Ia93g4AAAAJ&hl=fr&oi=ao}{Link}).
+
+# Idiomas
+
+* Español: Lengua materna
+
+* Inglés: Competencia profesional completa
+
+* Francés: Competencia profesional completa
+
+# Nota: Aunque actualmente vivo en Canada, mi esposa e hijos son chilenos y, de ser posible, buscamos mudarnos a Chile.

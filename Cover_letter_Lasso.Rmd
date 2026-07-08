@@ -2,7 +2,7 @@
 output: stevetemplates::cover_letter
 geometry: margin=0.5in
 header-includes:
-  - \linespread{1.00}
+  - \linespread{1.50}
 
 author: Ariel Mundo Ortiz
 address: |
